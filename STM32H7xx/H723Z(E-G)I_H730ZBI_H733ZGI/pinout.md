@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H723Z(E-G)I_H730ZBI_H733ZGI Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H7xx](../index.md) / H723Z(E-G)I_H730ZBI_H733ZGI
+[Home](../../index) / [STM32H7xx](../index) / H723Z(E-G)I_H730ZBI_H733ZGI
 
 ## PWM Timer Pins
 
@@ -158,4 +159,4 @@ title: H723Z(E-G)I_H730ZBI_H733ZGI Pinout
 | PF_14 | ADC2 | 6 | D94/A27 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F7xx Family Pinout
 title: F746B(E-G)T_F746N(E-G)H_F750N8H_F756BGT_F756NGH Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F7xx](../index.md) / F746B(E-G)T_F746N(E-G)H_F750N8H_F756BGT_F756NGH
+[Home](../../index) / [STM32F7xx](../index) / F746B(E-G)T_F746N(E-G)H_F750N8H_F756BGT_F756NGH
 
 ## PWM Timer Pins
 
@@ -152,4 +153,4 @@ title: F746B(E-G)T_F746N(E-G)H_F750N8H_F756BGT_F756NGH Pinout
 | PF_10 | ADC3 | 8 | PF_10 | D90/A23 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

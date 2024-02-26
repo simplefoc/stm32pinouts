@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F0xx Family Pinout
 title: F042F(4-6)P Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F0xx](../index.md) / F042F(4-6)P
+[Home](../../index) / [STM32F0xx](../index) / F042F(4-6)P
 
 ## PWM Timer Pins
 
@@ -47,4 +48,4 @@ title: F042F(4-6)P Pinout
 | PB_1 | ADC1 | 9 | D12/A8 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

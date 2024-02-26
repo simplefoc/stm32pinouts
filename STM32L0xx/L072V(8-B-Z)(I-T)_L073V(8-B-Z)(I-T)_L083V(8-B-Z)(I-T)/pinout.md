@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L072V(8-B-Z)(I-T)_L073V(8-B-Z)(I-T)_L083V(8-B-Z)(I-T) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L0xx](../index.md) / L072V(8-B-Z)(I-T)_L073V(8-B-Z)(I-T)_L083V(8-B-Z)(I-T)
+[Home](../../index) / [STM32L0xx](../index) / L072V(8-B-Z)(I-T)_L073V(8-B-Z)(I-T)_L083V(8-B-Z)(I-T)
 
 ## PWM Timer Pins
 
@@ -78,4 +79,4 @@ title: L072V(8-B-Z)(I-T)_L073V(8-B-Z)(I-T)_L083V(8-B-Z)(I-T) Pinout
 | PC_5 | ADC1 | 15 | D37/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

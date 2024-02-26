@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F1xx Family Pinout
 title: F103T(4-6)U Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F1xx](../index.md) / F103T(4-6)U
+[Home](../../index) / [STM32F1xx](../index) / F103T(4-6)U
 
 ## PWM Timer Pins
 
@@ -70,4 +71,4 @@ title: F103T(4-6)U Pinout
 | PB_1_ALT1 | ADC2 | 9 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

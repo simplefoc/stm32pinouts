@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L1xx Family Pinout
 title: L151QDH_L152QDH_L162QDH Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L1xx](../index.md) / L151QDH_L152QDH_L162QDH
+[Home](../../index) / [STM32L1xx](../index) / L151QDH_L152QDH_L162QDH
 
 ## PWM Timer Pins
 
@@ -115,4 +116,4 @@ title: L151QDH_L152QDH_L162QDH Pinout
 | PG_4 | ADC1 | 12 | D99/A38 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

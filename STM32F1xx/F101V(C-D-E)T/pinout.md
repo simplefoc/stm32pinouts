@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F1xx Family Pinout
 title: F101V(C-D-E)T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F1xx](../index.md) / F101V(C-D-E)T
+[Home](../../index) / [STM32F1xx](../index) / F101V(C-D-E)T
 
 ## PWM Timer Pins
 
@@ -75,4 +76,4 @@ title: F101V(C-D-E)T Pinout
 | PC_5 | ADC1 | 15 | D37/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

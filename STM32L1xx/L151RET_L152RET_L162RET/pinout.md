@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L1xx Family Pinout
 title: L151RET_L152RET_L162RET Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L1xx](../index.md) / L151RET_L152RET_L162RET
+[Home](../../index) / [STM32L1xx](../index) / L151RET_L152RET_L162RET
 
 ## PWM Timer Pins
 
@@ -77,4 +78,4 @@ title: L151RET_L152RET_L162RET Pinout
 | PC_5 | ADC1 | 15 | D37/A20 | PC_5 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

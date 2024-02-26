@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G071G(6-8-B)U_G081GBU Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G0xx](../index.md) / G071G(6-8-B)U_G081GBU
+[Home](../../index) / [STM32G0xx](../index) / G071G(6-8-B)U_G081GBU
 
 ## PWM Timer Pins
 
@@ -64,4 +65,4 @@ title: G071G(6-8-B)U_G081GBU Pinout
 | PB_1 | ADC1 | 9 | D15/A9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

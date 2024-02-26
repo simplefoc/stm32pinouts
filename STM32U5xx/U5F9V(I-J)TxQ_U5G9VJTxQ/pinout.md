@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U5F9V(I-J)TxQ_U5G9VJTxQ Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32U5xx](../index.md) / U5F9V(I-J)TxQ_U5G9VJTxQ
+[Home](../../index) / [STM32U5xx](../index) / U5F9V(I-J)TxQ_U5G9VJTxQ
 
 ## PWM Timer Pins
 
@@ -122,4 +123,4 @@ title: U5F9V(I-J)TxQ_U5G9VJTxQ Pinout
 | PC_3_ALT2 | ADC4 | 4 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

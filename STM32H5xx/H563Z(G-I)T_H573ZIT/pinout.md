@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H563Z(G-I)T_H573ZIT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H5xx](../index.md) / H563Z(G-I)T_H573ZIT
+[Home](../../index) / [STM32H5xx](../index) / H563Z(G-I)T_H573ZIT
 
 ## PWM Timer Pins
 
@@ -141,4 +142,4 @@ title: H563Z(G-I)T_H573ZIT Pinout
 | PF_14 | ADC2 | 6 | D92/A19 | D81/A8 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

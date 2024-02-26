@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F401R(B-C-D-E)T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F401R(B-C-D-E)T
+[Home](../../index) / [STM32F4xx](../index) / F401R(B-C-D-E)T
 
 ## PWM Timer Pins
 
@@ -75,4 +76,4 @@ title: F401R(B-C-D-E)T Pinout
 | PC_5 | ADC1 | 15 | Digital pin 36 | D36/A15 | D35 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

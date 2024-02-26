@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U535JEYxQ_U545JEYxQ Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32U5xx](../index.md) / U535JEYxQ_U545JEYxQ
+[Home](../../index) / [STM32U5xx](../index) / U535JEYxQ_U545JEYxQ
 
 ## PWM Timer Pins
 
@@ -90,4 +91,4 @@ title: U535JEYxQ_U545JEYxQ Pinout
 | PC_1_ALT1 | ADC4 | 2 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L496Z(E-G)T_L4A6ZGT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L496Z(E-G)T_L4A6ZGT
+[Home](../../index) / [STM32L4xx](../index) / L496Z(E-G)T_L4A6ZGT
 
 ## PWM Timer Pins
 
@@ -148,4 +149,4 @@ title: L496Z(E-G)T_L4A6ZGT Pinout
 | PF_10 | ADC3 | 13 | D90/A23 | D90 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

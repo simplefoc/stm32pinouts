@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L471Q(E-G)I Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L471Q(E-G)I
+[Home](../../index) / [STM32L4xx](../index) / L471Q(E-G)I
 
 ## PWM Timer Pins
 
@@ -137,4 +138,4 @@ title: L471Q(E-G)I Pinout
 | PF_5 | ADC3 | 8 | D85/A18 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

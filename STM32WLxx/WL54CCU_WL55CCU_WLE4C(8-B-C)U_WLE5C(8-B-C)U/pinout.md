@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WLxx Family Pinout
 title: WL54CCU_WL55CCU_WLE4C(8-B-C)U_WLE5C(8-B-C)U Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32WLxx](../index.md) / WL54CCU_WL55CCU_WLE4C(8-B-C)U_WLE5C(8-B-C)U
+[Home](../../index) / [STM32WLxx](../index) / WL54CCU_WL55CCU_WLE4C(8-B-C)U_WLE5C(8-B-C)U
 
 ## PWM Timer Pins
 
@@ -46,4 +47,4 @@ title: WL54CCU_WL55CCU_WLE4C(8-B-C)U_WLE5C(8-B-C)U Pinout
 | PB_4 | ADC1 | 3 | D19/A8 | D19/VBAT_READ_EN | D18/A1 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

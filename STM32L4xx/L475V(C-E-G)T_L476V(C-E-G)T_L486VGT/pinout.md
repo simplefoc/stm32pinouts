@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L475V(C-E-G)T_L476V(C-E-G)T_L486VGT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L475V(C-E-G)T_L476V(C-E-G)T_L486VGT
+[Home](../../index) / [STM32L4xx](../index) / L475V(C-E-G)T_L476V(C-E-G)T_L486VGT
 
 ## PWM Timer Pins
 
@@ -131,4 +132,4 @@ title: L475V(C-E-G)T_L476V(C-E-G)T_L486VGT Pinout
 | PC_5_ALT1 | ADC2 | 14 | - | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

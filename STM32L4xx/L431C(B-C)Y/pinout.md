@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L431C(B-C)Y Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L431C(B-C)Y
+[Home](../../index) / [STM32L4xx](../index) / L431C(B-C)Y
 
 ## PWM Timer Pins
 
@@ -58,4 +59,4 @@ title: L431C(B-C)Y Pinout
 | PC_3 | ADC1 | 4 | D32/A10 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

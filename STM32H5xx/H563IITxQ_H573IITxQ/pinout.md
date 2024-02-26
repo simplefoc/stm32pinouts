@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H563IITxQ_H573IITxQ Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H5xx](../index.md) / H563IITxQ_H573IITxQ
+[Home](../../index) / [STM32H5xx](../index) / H563IITxQ_H573IITxQ
 
 ## PWM Timer Pins
 
@@ -166,4 +167,4 @@ title: H563IITxQ_H573IITxQ Pinout
 | PF_14 | ADC2 | 6 | D93/A19 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G473V(B-C-E)(H-T)_G474V(B-C-E)(H-T)_G483VE(H-T)_G484VE(H-T) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G4xx](../index.md) / G473V(B-C-E)(H-T)_G474V(B-C-E)(H-T)_G483VE(H-T)_G484VE(H-T)
+[Home](../../index) / [STM32G4xx](../index) / G473V(B-C-E)(H-T)_G474V(B-C-E)(H-T)_G483VE(H-T)_G484VE(H-T)
 
 ## PWM Timer Pins
 
@@ -224,4 +225,4 @@ title: G473V(B-C-E)(H-T)_G474V(B-C-E)(H-T)_G483VE(H-T)_G484VE(H-T) Pinout
 | PF_1 | ADC2 | 10 | D81/A41 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

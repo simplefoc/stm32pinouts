@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F7xx Family Pinout
 title: F768AIY_F769A(G-I)Y_F778AIY_F779AIY Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F7xx](../index.md) / F768AIY_F769A(G-I)Y_F778AIY_F779AIY
+[Home](../../index) / [STM32F7xx](../index) / F768AIY_F769A(G-I)Y_F778AIY_F779AIY
 
 ## PWM Timer Pins
 
@@ -133,4 +134,4 @@ title: F768AIY_F769A(G-I)Y_F778AIY_F779AIY Pinout
 | PF_10 | ADC3 | 8 | D82/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

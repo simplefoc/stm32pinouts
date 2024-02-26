@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F0xx Family Pinout
 title: F030RCT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F0xx](../index.md) / F030RCT
+[Home](../../index) / [STM32F0xx](../index) / F030RCT
 
 ## PWM Timer Pins
 
@@ -70,4 +71,4 @@ title: F030RCT Pinout
 | PC_5 | ADC1 | 15 | D37/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

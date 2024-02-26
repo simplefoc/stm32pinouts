@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L5xx Family Pinout
 title: L552RETxP_L562RETxP Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L5xx](../index.md) / L552RETxP_L562RETxP
+[Home](../../index) / [STM32L5xx](../index) / L552RETxP_L562RETxP
 
 ## PWM Timer Pins
 
@@ -108,4 +109,4 @@ title: L552RETxP_L562RETxP Pinout
 | PC_4_ALT1 | ADC2 | 13 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

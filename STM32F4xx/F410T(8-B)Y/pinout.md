@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F410T(8-B)Y Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F410T(8-B)Y
+[Home](../../index) / [STM32F4xx](../index) / F410T(8-B)Y
 
 ## PWM Timer Pins
 
@@ -30,4 +31,4 @@ title: F410T(8-B)Y Pinout
 | PA_5 | ADC1 | 5 | D3/A3 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

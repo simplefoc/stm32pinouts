@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F0xx Family Pinout
 title: F091RBT_F091RC(H-T-Y) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F0xx](../index.md) / F091RBT_F091RC(H-T-Y)
+[Home](../../index) / [STM32F0xx](../index) / F091RBT_F091RC(H-T-Y)
 
 ## PWM Timer Pins
 
@@ -79,4 +80,4 @@ title: F091RBT_F091RC(H-T-Y) Pinout
 | PC_5 | ADC1 | 15 | D37/A15 | D35 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

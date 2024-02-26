@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L1xx Family Pinout
 title: L151R(6-8-B)Hx(A)_L152R(6-8-B)Hx(A) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L1xx](../index.md) / L151R(6-8-B)Hx(A)_L152R(6-8-B)Hx(A)
+[Home](../../index) / [STM32L1xx](../index) / L151R(6-8-B)Hx(A)_L152R(6-8-B)Hx(A)
 
 ## PWM Timer Pins
 
@@ -71,4 +72,4 @@ title: L151R(6-8-B)Hx(A)_L152R(6-8-B)Hx(A) Pinout
 | PC_5 | ADC1 | 15 | D36/A18 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

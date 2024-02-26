@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H725I(E-G)K_H730IBKxQ_H735IGK Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H7xx](../index.md) / H725I(E-G)K_H730IBKxQ_H735IGK
+[Home](../../index) / [STM32H7xx](../index) / H725I(E-G)K_H730IBKxQ_H735IGK
 
 ## PWM Timer Pins
 
@@ -181,4 +182,4 @@ title: H725I(E-G)K_H730IBKxQ_H735IGK Pinout
 | PH_5 | ADC3 | 16 | D117/A31 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

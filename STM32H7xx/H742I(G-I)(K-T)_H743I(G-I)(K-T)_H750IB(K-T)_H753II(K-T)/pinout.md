@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H742I(G-I)(K-T)_H743I(G-I)(K-T)_H750IB(K-T)_H753II(K-T) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H7xx](../index.md) / H742I(G-I)(K-T)_H743I(G-I)(K-T)_H750IB(K-T)_H753II(K-T)
+[Home](../../index) / [STM32H7xx](../index) / H742I(G-I)(K-T)_H743I(G-I)(K-T)_H750IB(K-T)_H753II(K-T)
 
 ## PWM Timer Pins
 
@@ -156,4 +157,4 @@ title: H742I(G-I)(K-T)_H743I(G-I)(K-T)_H750IB(K-T)_H753II(K-T) Pinout
 | PH_5 | ADC3 | 16 | D91 | - | - | D115/A29 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

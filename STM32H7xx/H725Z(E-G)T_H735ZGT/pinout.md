@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H725Z(E-G)T_H735ZGT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H7xx](../index.md) / H725Z(E-G)T_H735ZGT
+[Home](../../index) / [STM32H7xx](../index) / H725Z(E-G)T_H735ZGT
 
 ## PWM Timer Pins
 
@@ -144,4 +145,4 @@ title: H725Z(E-G)T_H735ZGT Pinout
 | PF_14 | ADC2 | 6 | D84/A20 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -1,0 +1,38 @@
+---
+layout: default
+parent: STM32 Family Pinout
+title: STM32H5xx Family Pinout
+has_children: true
+---
+
+[Home](../index) / STM32H5xx
+
+# STM32H5xx Family
+
+## Subfamilies
+
+- [H503CB(T-U)](H503CB(T-U)/pinout) (generic)
+- [H503EBY](H503EBY/pinout) (generic)
+- [H503KBU](H503KBU/pinout) (generic)
+- [H503RBT](H503RBT/pinout) (generic, NUCLEO_H503RB)
+- [H562A(G-I)I](H562A(G-I)I/pinout) (generic)
+- [H562I(G-I)(K-T)](H562I(G-I)(K-T)/pinout) (generic)
+- [H562R(G-I)T](H562R(G-I)T/pinout) (generic)
+- [H562R(G-I)V](H562R(G-I)V/pinout) (generic)
+- [H562V(G-I)T](H562V(G-I)T/pinout) (generic)
+- [H562Z(G-I)T](H562Z(G-I)T/pinout) (generic)
+- [H563A(G-I)I_H573AII](H563A(G-I)I_H573AII/pinout) (generic)
+- [H563AIIxQ_H573AIIxQ](H563AIIxQ_H573AIIxQ/pinout) (generic)
+- [H563I(G-I)(K-T)_H573II(K-T)](H563I(G-I)(K-T)_H573II(K-T)/pinout) (generic)
+- [H563IIKxQ_H573IIKxQ](H563IIKxQ_H573IIKxQ/pinout) (generic, STM32H573I_DK)
+- [H563IITxQ_H573IITxQ](H563IITxQ_H573IITxQ/pinout) (generic)
+- [H563MIYxQ_H573MIYxQ](H563MIYxQ_H573MIYxQ/pinout) (generic)
+- [H563R(G-I)T_H573RIT](H563R(G-I)T_H573RIT/pinout) (generic)
+- [H563R(G-I)V_H573RIV](H563R(G-I)V_H573RIV/pinout) (generic)
+- [H563V(G-I)T_H573VIT](H563V(G-I)T_H573VIT/pinout) (generic)
+- [H563VITxQ_H573VITxQ](H563VITxQ_H573VITxQ/pinout) (generic)
+- [H563Z(G-I)T_H573ZIT](H563Z(G-I)T_H573ZIT/pinout) (generic, NUCLEO_H563ZI)
+- [H563ZITxQ_H573ZITxQ](H563ZITxQ_H573ZITxQ/pinout) (generic)
+
+
+[Back to Main Page](../index)

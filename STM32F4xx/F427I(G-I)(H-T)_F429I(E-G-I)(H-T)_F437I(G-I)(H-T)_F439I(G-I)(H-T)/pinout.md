@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F427I(G-I)(H-T)_F429I(E-G-I)(H-T)_F437I(G-I)(H-T)_F439I(G-I)(H-T) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F427I(G-I)(H-T)_F429I(E-G-I)(H-T)_F437I(G-I)(H-T)_F439I(G-I)(H-T)
+[Home](../../index) / [STM32F4xx](../index) / F427I(G-I)(H-T)_F429I(E-G-I)(H-T)_F437I(G-I)(H-T)_F439I(G-I)(H-T)
 
 ## PWM Timer Pins
 
@@ -152,4 +153,4 @@ title: F427I(G-I)(H-T)_F429I(E-G-I)(H-T)_F437I(G-I)(H-T)_F439I(G-I)(H-T) Pinout
 | PF_10 | ADC3 | 8 | D90/A23 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

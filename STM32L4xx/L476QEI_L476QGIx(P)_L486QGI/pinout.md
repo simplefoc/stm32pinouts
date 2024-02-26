@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L476QEI_L476QGIx(P)_L486QGI Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L476QEI_L476QGIx(P)_L486QGI
+[Home](../../index) / [STM32L4xx](../index) / L476QEI_L476QGIx(P)_L486QGI
 
 ## PWM Timer Pins
 
@@ -137,4 +138,4 @@ title: L476QEI_L476QGIx(P)_L486QGI Pinout
 | PF_5 | ADC3 | 8 | D85/A18 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

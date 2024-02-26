@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F411C(C-E)(U-Y) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F411C(C-E)(U-Y)
+[Home](../../index) / [STM32F4xx](../index) / F411C(C-E)(U-Y)
 
 ## PWM Timer Pins
 
@@ -65,4 +66,4 @@ title: F411C(C-E)(U-Y) Pinout
 | PB_1 | ADC1 | 9 | Digital pin 17 | D17/A9 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

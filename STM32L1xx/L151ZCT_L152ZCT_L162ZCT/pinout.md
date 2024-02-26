@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L1xx Family Pinout
 title: L151ZCT_L152ZCT_L162ZCT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L1xx](../index.md) / L151ZCT_L152ZCT_L162ZCT
+[Home](../../index) / [STM32L1xx](../index) / L151ZCT_L152ZCT_L162ZCT
 
 ## PWM Timer Pins
 
@@ -116,4 +117,4 @@ title: L151ZCT_L152ZCT_L162ZCT Pinout
 | PG_4 | ADC1 | 12 | D100/A39 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

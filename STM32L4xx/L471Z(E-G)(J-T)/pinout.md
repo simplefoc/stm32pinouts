@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L471Z(E-G)(J-T) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L471Z(E-G)(J-T)
+[Home](../../index) / [STM32L4xx](../index) / L471Z(E-G)(J-T)
 
 ## PWM Timer Pins
 
@@ -148,4 +149,4 @@ title: L471Z(E-G)(J-T) Pinout
 | PF_10 | ADC3 | 13 | D90/A23 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

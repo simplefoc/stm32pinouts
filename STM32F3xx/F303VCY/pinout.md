@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F303VCY Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F3xx](../index.md) / F303VCY
+[Home](../../index) / [STM32F3xx](../index) / F303VCY
 
 ## PWM Timer Pins
 
@@ -160,4 +161,4 @@ title: F303VCY Pinout
 | PF_2_ALT1 | ADC2 | 10 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H562R(G-I)V Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H5xx](../index.md) / H562R(G-I)V
+[Home](../../index) / [STM32H5xx](../index) / H562R(G-I)V
 
 ## PWM Timer Pins
 
@@ -116,4 +117,4 @@ title: H562R(G-I)V Pinout
 | PC_5_ALT1 | ADC2 | 8 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

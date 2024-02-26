@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G471MEY Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G4xx](../index.md) / G471MEY
+[Home](../../index) / [STM32G4xx](../index) / G471MEY
 
 ## PWM Timer Pins
 
@@ -159,4 +160,4 @@ title: G471MEY Pinout
 | PF_1 | ADC2 | 10 | D65/A32 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

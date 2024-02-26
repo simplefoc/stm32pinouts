@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F469V(E-G-I)T_F479V(G-I)T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F469V(E-G-I)T_F479V(G-I)T
+[Home](../../index) / [STM32F4xx](../index) / F469V(E-G-I)T_F479V(G-I)T
 
 ## PWM Timer Pins
 
@@ -119,4 +120,4 @@ title: F469V(E-G-I)T_F479V(G-I)T Pinout
 | PC_3_ALT2 | ADC3 | 13 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

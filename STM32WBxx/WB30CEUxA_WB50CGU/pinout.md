@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WBxx Family Pinout
 title: WB30CEUxA_WB50CGU Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32WBxx](../index.md) / WB30CEUxA_WB50CGU
+[Home](../../index) / [STM32WBxx](../index) / WB30CEUxA_WB50CGU
 
 ## PWM Timer Pins
 
@@ -49,4 +50,4 @@ title: WB30CEUxA_WB50CGU Pinout
 | PA_9 | ADC1 | 16 | D9/A9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

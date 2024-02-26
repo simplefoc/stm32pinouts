@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G030F6P Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G0xx](../index.md) / G030F6P
+[Home](../../index) / [STM32G0xx](../index) / G030F6P
 
 ## PWM Timer Pins
 
@@ -59,4 +60,4 @@ title: G030F6P Pinout
 | PB_7 | ADC1 | 11 | D21/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

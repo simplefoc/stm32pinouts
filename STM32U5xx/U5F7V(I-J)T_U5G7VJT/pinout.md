@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U5F7V(I-J)T_U5G7VJT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32U5xx](../index.md) / U5F7V(I-J)T_U5G7VJT
+[Home](../../index) / [STM32U5xx](../index) / U5F7V(I-J)T_U5G7VJT
 
 ## PWM Timer Pins
 
@@ -147,4 +148,4 @@ title: U5F7V(I-J)T_U5G7VJT Pinout
 | PD_13 | ADC4 | 17 | D60/A19 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

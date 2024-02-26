@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L476VGYxP Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L476VGYxP
+[Home](../../index) / [STM32L4xx](../index) / L476VGYxP
 
 ## PWM Timer Pins
 
@@ -116,4 +117,4 @@ title: L476VGYxP Pinout
 | PC_4_ALT1 | ADC2 | 13 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

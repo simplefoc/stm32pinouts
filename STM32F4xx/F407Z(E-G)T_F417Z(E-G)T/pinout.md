@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F407Z(E-G)T_F417Z(E-G)T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F407Z(E-G)T_F417Z(E-G)T
+[Home](../../index) / [STM32F4xx](../index) / F407Z(E-G)T_F417Z(E-G)T
 
 ## PWM Timer Pins
 
@@ -139,4 +140,4 @@ title: F407Z(E-G)T_F417Z(E-G)T Pinout
 | PF_10 | ADC3 | 8 | - | D90/A23 | D90 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F1xx Family Pinout
 title: F100R(4-6)H Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F1xx](../index.md) / F100R(4-6)H
+[Home](../../index) / [STM32F1xx](../index) / F100R(4-6)H
 
 ## PWM Timer Pins
 
@@ -87,4 +88,4 @@ title: F100R(4-6)H Pinout
 | PC_5 | ADC1 | 15 | D36/A14 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

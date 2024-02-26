@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WLxx Family Pinout
 title: WL5MOCH Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32WLxx](../index.md) / WL5MOCH
+[Home](../../index) / [STM32WLxx](../index) / WL5MOCH
 
 ## PWM Timer Pins
 
@@ -56,4 +57,4 @@ title: WL5MOCH Pinout
 | PB_14 | ADC1 | 1 | D29/A11 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

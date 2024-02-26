@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WBxx Family Pinout
 title: WB1MMCH Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32WBxx](../index.md) / WB1MMCH
+[Home](../../index) / [STM32WBxx](../index) / WB1MMCH
 
 ## PWM Timer Pins
 
@@ -41,4 +42,4 @@ title: WB1MMCH Pinout
 | PA_9 | ADC1 | 4 | D9/A9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L4R5AGI_L4R5AIIx(P)_L4R7AII_L4S5AII_L4S7AII Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L4R5AGI_L4R5AIIx(P)_L4R7AII_L4S5AII_L4S7AII
+[Home](../../index) / [STM32L4xx](../index) / L4R5AGI_L4R5AIIx(P)_L4R7AII_L4S5AII_L4S7AII
 
 ## PWM Timer Pins
 
@@ -126,4 +127,4 @@ title: L4R5AGI_L4R5AIIx(P)_L4R7AII_L4S5AII_L4S7AII Pinout
 | PC_5 | ADC1 | 14 | D37/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

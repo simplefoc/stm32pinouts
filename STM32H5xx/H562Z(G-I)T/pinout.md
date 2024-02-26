@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H562Z(G-I)T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H5xx](../index.md) / H562Z(G-I)T
+[Home](../../index) / [STM32H5xx](../index) / H562Z(G-I)T
 
 ## PWM Timer Pins
 
@@ -141,4 +142,4 @@ title: H562Z(G-I)T Pinout
 | PF_14 | ADC2 | 6 | D92/A19 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

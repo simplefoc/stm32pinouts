@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G070CBT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G0xx](../index.md) / G070CBT
+[Home](../../index) / [STM32G0xx](../index) / G070CBT
 
 ## PWM Timer Pins
 
@@ -77,4 +78,4 @@ title: G070CBT Pinout
 | PB_12 | ADC1 | 16 | D28/A13 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

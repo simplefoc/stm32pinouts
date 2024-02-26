@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L412TBYxP Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L412TBYxP
+[Home](../../index) / [STM32L4xx](../index) / L412TBYxP
 
 ## PWM Timer Pins
 
@@ -57,4 +58,4 @@ title: L412TBYxP Pinout
 | PB_1_ALT1 | ADC2 | 16 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

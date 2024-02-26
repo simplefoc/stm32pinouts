@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G431R(6-8-B)(I-T)_G441RB(I-T) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G4xx](../index.md) / G431R(6-8-B)(I-T)_G441RB(I-T)
+[Home](../../index) / [STM32G4xx](../index) / G431R(6-8-B)(I-T)_G441RB(I-T)
 
 ## PWM Timer Pins
 
@@ -134,4 +135,4 @@ title: G431R(6-8-B)(I-T)_G441RB(I-T) Pinout
 | PF_1 | ADC2 | 10 | D50/A22 | D26/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

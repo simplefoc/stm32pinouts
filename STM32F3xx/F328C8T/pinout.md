@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F328C8T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F3xx](../index.md) / F328C8T
+[Home](../../index) / [STM32F3xx](../index) / F328C8T
 
 ## PWM Timer Pins
 
@@ -82,4 +83,4 @@ title: F328C8T Pinout
 | PB_15 | ADC2 | 15 | D30/A13 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

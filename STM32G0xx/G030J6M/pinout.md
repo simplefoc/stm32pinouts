@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G030J6M Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G0xx](../index.md) / G030J6M
+[Home](../../index) / [STM32G0xx](../index) / G030J6M
 
 ## PWM Timer Pins
 
@@ -44,4 +45,4 @@ title: G030J6M Pinout
 | PB_7 | ADC1 | 11 | D13/A9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

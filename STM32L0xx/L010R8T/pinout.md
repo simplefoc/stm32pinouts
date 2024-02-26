@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L010R8T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L0xx](../index.md) / L010R8T
+[Home](../../index) / [STM32L0xx](../index) / L010R8T
 
 ## PWM Timer Pins
 
@@ -48,4 +49,4 @@ title: L010R8T Pinout
 | PC_5 | ADC1 | 15 | D37/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

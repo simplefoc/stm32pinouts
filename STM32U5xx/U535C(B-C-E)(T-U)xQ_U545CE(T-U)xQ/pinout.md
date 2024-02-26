@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U535C(B-C-E)(T-U)xQ_U545CE(T-U)xQ Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32U5xx](../index.md) / U535C(B-C-E)(T-U)xQ_U545CE(T-U)xQ
+[Home](../../index) / [STM32U5xx](../index) / U535C(B-C-E)(T-U)xQ_U545CE(T-U)xQ
 
 ## PWM Timer Pins
 
@@ -82,4 +83,4 @@ title: U535C(B-C-E)(T-U)xQ_U545CE(T-U)xQ Pinout
 | PB_1_ALT1 | ADC4 | 19 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F412Z(E-G)(J-T) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F412Z(E-G)(J-T)
+[Home](../../index) / [STM32F4xx](../index) / F412Z(E-G)(J-T)
 
 ## PWM Timer Pins
 
@@ -111,4 +112,4 @@ title: F412Z(E-G)(J-T) Pinout
 | PC_5 | ADC1 | 15 | D37/A15 | D81/A5 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L496VGY_L4A6VGY Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L496VGY_L4A6VGY
+[Home](../../index) / [STM32L4xx](../index) / L496VGY_L4A6VGY
 
 ## PWM Timer Pins
 
@@ -130,4 +131,4 @@ title: L496VGY_L4A6VGY Pinout
 | PC_5_ALT1 | ADC2 | 14 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

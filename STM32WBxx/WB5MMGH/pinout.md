@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WBxx Family Pinout
 title: WB5MMGH Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32WBxx](../index.md) / WB5MMGH
+[Home](../../index) / [STM32WBxx](../index) / WB5MMGH
 
 ## PWM Timer Pins
 
@@ -64,4 +65,4 @@ title: WB5MMGH Pinout
 | PC_5 | ADC1 | 14 | D37/A15 | - | D21/A5 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

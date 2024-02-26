@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H747B(G-I)T_H757BIT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H7xx](../index.md) / H747B(G-I)T_H757BIT
+[Home](../../index) / [STM32H7xx](../index) / H747B(G-I)T_H757BIT
 
 ## PWM Timer Pins
 
@@ -156,4 +157,4 @@ title: H747B(G-I)T_H757BIT Pinout
 | PH_5 | ADC3 | 16 | D115/A29 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

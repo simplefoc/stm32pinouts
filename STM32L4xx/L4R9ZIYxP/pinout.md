@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L4R9ZIYxP Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L4R9ZIYxP
+[Home](../../index) / [STM32L4xx](../index) / L4R9ZIYxP
 
 ## PWM Timer Pins
 
@@ -115,4 +116,4 @@ title: L4R9ZIYxP Pinout
 | PC_5 | ADC1 | 14 | D36/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

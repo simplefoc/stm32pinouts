@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L4R9A(G-I)I_L4S9AII Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L4R9A(G-I)I_L4S9AII
+[Home](../../index) / [STM32L4xx](../index) / L4R9A(G-I)I_L4S9AII
 
 ## PWM Timer Pins
 
@@ -125,4 +126,4 @@ title: L4R9A(G-I)I_L4S9AII Pinout
 | PC_4 | ADC1 | 13 | D36/A14 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

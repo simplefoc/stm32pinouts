@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F1xx Family Pinout
 title: F103C8T_F103CB(T-U) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F1xx](../index.md) / F103C8T_F103CB(T-U)
+[Home](../../index) / [STM32F1xx](../index) / F103C8T_F103CB(T-U)
 
 ## PWM Timer Pins
 
@@ -81,4 +82,4 @@ title: F103C8T_F103CB(T-U) Pinout
 | PB_1_ALT1 | ADC2 | 9 | - | - | - | - | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L010RBT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L0xx](../index.md) / L010RBT
+[Home](../../index) / [STM32L0xx](../index) / L010RBT
 
 ## PWM Timer Pins
 
@@ -54,4 +55,4 @@ title: L010RBT Pinout
 | PC_5 | ADC1 | 15 | D37/A15 | PC_5 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

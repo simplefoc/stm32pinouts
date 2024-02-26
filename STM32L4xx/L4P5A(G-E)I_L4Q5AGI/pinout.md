@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L4P5A(G-E)I_L4Q5AGI Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L4P5A(G-E)I_L4Q5AGI
+[Home](../../index) / [STM32L4xx](../index) / L4P5A(G-E)I_L4Q5AGI
 
 ## PWM Timer Pins
 
@@ -142,4 +143,4 @@ title: L4P5A(G-E)I_L4Q5AGI Pinout
 | PC_5_ALT1 | ADC2 | 14 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

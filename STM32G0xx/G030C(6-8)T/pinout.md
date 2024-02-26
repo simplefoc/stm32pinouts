@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G030C(6-8)T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G0xx](../index.md) / G030C(6-8)T
+[Home](../../index) / [STM32G0xx](../index) / G030C(6-8)T
 
 ## PWM Timer Pins
 
@@ -71,4 +72,4 @@ title: G030C(6-8)T Pinout
 | PB_12 | ADC1 | 16 | D28/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

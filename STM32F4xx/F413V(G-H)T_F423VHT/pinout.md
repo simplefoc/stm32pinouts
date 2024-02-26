@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F413V(G-H)T_F423VHT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F413V(G-H)T_F423VHT
+[Home](../../index) / [STM32F4xx](../index) / F413V(G-H)T_F423VHT
 
 ## PWM Timer Pins
 
@@ -102,4 +103,4 @@ title: F413V(G-H)T_F423VHT Pinout
 | PC_5 | ADC1 | 15 | D36/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

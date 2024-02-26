@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F401V(B-C-D-E)T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F401V(B-C-D-E)T
+[Home](../../index) / [STM32F4xx](../index) / F401V(B-C-D-E)T
 
 ## PWM Timer Pins
 
@@ -88,4 +89,4 @@ title: F401V(B-C-D-E)T Pinout
 | PC_5 | ADC1 | 15 | D36/A15 | E2_FAN |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

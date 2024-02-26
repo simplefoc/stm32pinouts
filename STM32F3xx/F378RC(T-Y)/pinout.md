@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F378RC(T-Y) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F3xx](../index.md) / F378RC(T-Y)
+[Home](../../index) / [STM32F3xx](../index) / F378RC(T-Y)
 
 ## PWM Timer Pins
 
@@ -121,4 +122,4 @@ title: F378RC(T-Y) Pinout
 | PC_5 | ADC1 | 15 | D32/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

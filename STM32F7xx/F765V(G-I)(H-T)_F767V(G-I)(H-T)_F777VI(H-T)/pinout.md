@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F7xx Family Pinout
 title: F765V(G-I)(H-T)_F767V(G-I)(H-T)_F777VI(H-T) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F7xx](../index.md) / F765V(G-I)(H-T)_F767V(G-I)(H-T)_F777VI(H-T)
+[Home](../../index) / [STM32F7xx](../index) / F765V(G-I)(H-T)_F767V(G-I)(H-T)_F777VI(H-T)
 
 ## PWM Timer Pins
 
@@ -127,4 +128,4 @@ title: F765V(G-I)(H-T)_F767V(G-I)(H-T)_F777VI(H-T) Pinout
 | PC_5_ALT1 | ADC2 | 15 | - | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

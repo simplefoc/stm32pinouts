@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H7A3R(G-I)T_H7B0RBT_H7B3RIT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H7xx](../index.md) / H7A3R(G-I)T_H7B0RBT_H7B3RIT
+[Home](../../index) / [STM32H7xx](../index) / H7A3R(G-I)T_H7B0RBT_H7B3RIT
 
 ## PWM Timer Pins
 
@@ -101,4 +102,4 @@ title: H7A3R(G-I)T_H7B0RBT_H7B3RIT Pinout
 | PC_5_ALT1 | ADC2 | 8 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

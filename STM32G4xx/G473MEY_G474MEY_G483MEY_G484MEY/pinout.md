@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G473MEY_G474MEY_G483MEY_G484MEY Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G4xx](../index.md) / G473MEY_G474MEY_G483MEY_G484MEY
+[Home](../../index) / [STM32G4xx](../index) / G473MEY_G474MEY_G483MEY_G484MEY
 
 ## PWM Timer Pins
 
@@ -190,4 +191,4 @@ title: G473MEY_G474MEY_G483MEY_G484MEY Pinout
 | PF_1 | ADC2 | 10 | D65/A38 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

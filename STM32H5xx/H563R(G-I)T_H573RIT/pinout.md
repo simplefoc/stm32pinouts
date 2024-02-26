@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H563R(G-I)T_H573RIT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H5xx](../index.md) / H563R(G-I)T_H573RIT
+[Home](../../index) / [STM32H5xx](../index) / H563R(G-I)T_H573RIT
 
 ## PWM Timer Pins
 
@@ -112,4 +113,4 @@ title: H563R(G-I)T_H573RIT Pinout
 | PC_5_ALT1 | ADC2 | 8 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L1xx Family Pinout
 title: L151RC(T-Y)x(A)_L151UCY_L152RCTx(A)_L152UCY_L162RCTx(A) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L1xx](../index.md) / L151RC(T-Y)x(A)_L151UCY_L152RCTx(A)_L152UCY_L162RCTx(A)
+[Home](../../index) / [STM32L1xx](../index) / L151RC(T-Y)x(A)_L151UCY_L152RCTx(A)_L152UCY_L162RCTx(A)
 
 ## PWM Timer Pins
 
@@ -76,4 +77,4 @@ title: L151RC(T-Y)x(A)_L151UCY_L152RCTx(A)_L152UCY_L162RCTx(A) Pinout
 | PC_5 | ADC1 | 15 | D37/A19 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

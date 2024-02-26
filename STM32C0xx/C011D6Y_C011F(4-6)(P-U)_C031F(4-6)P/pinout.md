@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32C0xx Family Pinout
 title: C011D6Y_C011F(4-6)(P-U)_C031F(4-6)P Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32C0xx](../index.md) / C011D6Y_C011F(4-6)(P-U)_C031F(4-6)P
+[Home](../../index) / [STM32C0xx](../index) / C011D6Y_C011F(4-6)(P-U)_C031F(4-6)P
 
 ## PWM Timer Pins
 
@@ -76,4 +77,4 @@ title: C011D6Y_C011F(4-6)(P-U)_C031F(4-6)P Pinout
 | PA_14 | ADC1 | 14 | D12/A12 | D12/A12 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

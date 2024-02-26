@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L051C(6-8)(T-U) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L0xx](../index.md) / L051C(6-8)(T-U)
+[Home](../../index) / [STM32L0xx](../index) / L051C(6-8)(T-U)
 
 ## PWM Timer Pins
 
@@ -46,4 +47,4 @@ title: L051C(6-8)(T-U) Pinout
 | PB_1 | ADC1 | 9 | D17/A9 | D7 - DIO3 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

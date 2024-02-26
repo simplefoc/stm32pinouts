@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U5F9NJHxQ_U5G9NJHxQ Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32U5xx](../index.md) / U5F9NJHxQ_U5G9NJHxQ
+[Home](../../index) / [STM32U5xx](../index) / U5F9NJHxQ_U5G9NJHxQ
 
 ## PWM Timer Pins
 
@@ -173,4 +174,4 @@ title: U5F9NJHxQ_U5G9NJHxQ Pinout
 | PG_1 | ADC4 | 8 | D97/A23 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

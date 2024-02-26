@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L071C(B-Z)Y Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L0xx](../index.md) / L071C(B-Z)Y
+[Home](../../index) / [STM32L0xx](../index) / L071C(B-Z)Y
 
 ## PWM Timer Pins
 
@@ -55,4 +56,4 @@ title: L071C(B-Z)Y Pinout
 | PC_2 | ADC1 | 12 | D34/A12 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F1xx Family Pinout
 title: F103R(F-G)T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F1xx](../index.md) / F103R(F-G)T
+[Home](../../index) / [STM32F1xx](../index) / F103R(F-G)T
 
 ## PWM Timer Pins
 
@@ -124,4 +125,4 @@ title: F103R(F-G)T Pinout
 | PC_5_ALT1 | ADC2 | 15 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

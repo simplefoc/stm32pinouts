@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H503KBU Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H5xx](../index.md) / H503KBU
+[Home](../../index) / [STM32H5xx](../index) / H503KBU
 
 ## PWM Timer Pins
 
@@ -74,4 +75,4 @@ title: H503KBU Pinout
 | PB_1 | ADC1 | 5 | D16/A9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

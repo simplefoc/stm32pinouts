@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L476ZGTxP Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L476ZGTxP
+[Home](../../index) / [STM32L4xx](../index) / L476ZGTxP
 
 ## PWM Timer Pins
 
@@ -147,4 +148,4 @@ title: L476ZGTxP Pinout
 | PF_10 | ADC3 | 13 | D89/A23 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

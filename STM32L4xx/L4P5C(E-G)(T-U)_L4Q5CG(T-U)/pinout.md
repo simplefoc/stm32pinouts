@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L4P5C(E-G)(T-U)_L4Q5CG(T-U) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L4P5C(E-G)(T-U)_L4Q5CG(T-U)
+[Home](../../index) / [STM32L4xx](../index) / L4P5C(E-G)(T-U)_L4Q5CG(T-U)
 
 ## PWM Timer Pins
 
@@ -90,4 +91,4 @@ title: L4P5C(E-G)(T-U)_L4Q5CG(T-U) Pinout
 | PB_1_ALT1 | ADC2 | 16 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

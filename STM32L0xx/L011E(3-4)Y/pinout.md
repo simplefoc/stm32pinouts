@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L011E(3-4)Y Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L0xx](../index.md) / L011E(3-4)Y
+[Home](../../index) / [STM32L0xx](../index) / L011E(3-4)Y
 
 ## PWM Timer Pins
 
@@ -46,4 +47,4 @@ title: L011E(3-4)Y Pinout
 | PB_1 | ADC1 | 9 | D14/A9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

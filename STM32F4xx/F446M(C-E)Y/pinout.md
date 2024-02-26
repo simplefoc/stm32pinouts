@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F446M(C-E)Y Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F446M(C-E)Y
+[Home](../../index) / [STM32F4xx](../index) / F446M(C-E)Y
 
 ## PWM Timer Pins
 
@@ -116,4 +117,4 @@ title: F446M(C-E)Y Pinout
 | PC_4_ALT1 | ADC2 | 14 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G0B1R(B-C-E)(I-T)xN_G0C1R(C-E)(I-T)xN Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G0xx](../index.md) / G0B1R(B-C-E)(I-T)xN_G0C1R(C-E)(I-T)xN
+[Home](../../index) / [STM32G0xx](../index) / G0B1R(B-C-E)(I-T)xN_G0C1R(C-E)(I-T)xN
 
 ## PWM Timer Pins
 
@@ -106,4 +107,4 @@ title: G0B1R(B-C-E)(I-T)xN_G0C1R(C-E)(I-T)xN Pinout
 | PC_5 | ADC1 | 18 | D37/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

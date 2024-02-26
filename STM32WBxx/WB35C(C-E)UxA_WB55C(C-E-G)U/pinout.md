@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WBxx Family Pinout
 title: WB35C(C-E)UxA_WB55C(C-E-G)U Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32WBxx](../index.md) / WB35C(C-E)UxA_WB55C(C-E-G)U
+[Home](../../index) / [STM32WBxx](../index) / WB35C(C-E)UxA_WB55C(C-E-G)U
 
 ## PWM Timer Pins
 
@@ -49,4 +50,4 @@ title: WB35C(C-E)UxA_WB55C(C-E-G)U Pinout
 | PA_9 | ADC1 | 16 | D9/A9 | D3 | PA_9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

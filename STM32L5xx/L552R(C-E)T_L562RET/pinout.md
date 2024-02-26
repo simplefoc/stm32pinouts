@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L5xx Family Pinout
 title: L552R(C-E)T_L562RET Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L5xx](../index.md) / L552R(C-E)T_L562RET
+[Home](../../index) / [STM32L5xx](../index) / L552R(C-E)T_L562RET
 
 ## PWM Timer Pins
 
@@ -110,4 +111,4 @@ title: L552R(C-E)T_L562RET Pinout
 | PC_5_ALT1 | ADC2 | 14 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

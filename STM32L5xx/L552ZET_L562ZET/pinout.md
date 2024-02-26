@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L5xx Family Pinout
 title: L552ZET_L562ZET Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L5xx](../index.md) / L552ZET_L562ZET
+[Home](../../index) / [STM32L5xx](../index) / L552ZET_L562ZET
 
 ## PWM Timer Pins
 
@@ -136,4 +137,4 @@ title: L552ZET_L562ZET Pinout
 | PC_5_ALT1 | ADC2 | 14 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32MP1xx Family Pinout
 title: MP151AA(B-D)_MP151CA(B-D)_MP151DA(B-D)_MP151FA(B-D) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32MP1xx](../index.md) / MP151AA(B-D)_MP151CA(B-D)_MP151DA(B-D)_MP151FA(B-D)
+[Home](../../index) / [STM32MP1xx](../index) / MP151AA(B-D)_MP151CA(B-D)_MP151DA(B-D)_MP151FA(B-D)
 
 ## PWM Timer Pins
 
@@ -126,4 +127,4 @@ title: MP151AA(B-D)_MP151CA(B-D)_MP151DA(B-D)_MP151FA(B-D) Pinout
 | PF_11 | ADC1 | 2 | D85/A16 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

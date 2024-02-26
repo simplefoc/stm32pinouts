@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L071K(8-B-Z)U_L081KZU Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L0xx](../index.md) / L071K(8-B-Z)U_L081KZU
+[Home](../../index) / [STM32L0xx](../index) / L071K(8-B-Z)U_L081KZU
 
 ## PWM Timer Pins
 
@@ -46,4 +47,4 @@ title: L071K(8-B-Z)U_L081KZU Pinout
 | PB_1 | ADC1 | 9 | D16/A9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

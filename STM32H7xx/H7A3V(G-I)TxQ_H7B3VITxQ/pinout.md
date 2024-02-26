@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H7A3V(G-I)TxQ_H7B3VITxQ Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H7xx](../index.md) / H7A3V(G-I)TxQ_H7B3VITxQ
+[Home](../../index) / [STM32H7xx](../index) / H7A3V(G-I)TxQ_H7B3VITxQ
 
 ## PWM Timer Pins
 
@@ -109,4 +110,4 @@ title: H7A3V(G-I)TxQ_H7B3VITxQ Pinout
 | PC_5_ALT1 | ADC2 | 8 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

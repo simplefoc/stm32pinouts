@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F0xx Family Pinout
 title: F051K(6-8)U Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F0xx](../index.md) / F051K(6-8)U
+[Home](../../index) / [STM32F0xx](../index) / F051K(6-8)U
 
 ## PWM Timer Pins
 
@@ -59,4 +60,4 @@ title: F051K(6-8)U Pinout
 | PB_1 | ADC1 | 9 | D17/A9 | PB_1 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

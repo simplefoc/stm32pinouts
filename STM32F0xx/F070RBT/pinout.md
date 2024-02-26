@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F0xx Family Pinout
 title: F070RBT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F0xx](../index.md) / F070RBT
+[Home](../../index) / [STM32F0xx](../index) / F070RBT
 
 ## PWM Timer Pins
 
@@ -70,4 +71,4 @@ title: F070RBT Pinout
 | PC_5 | ADC1 | 15 | D37/A15 | PC_5 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

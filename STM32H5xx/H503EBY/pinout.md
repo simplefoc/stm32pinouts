@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H503EBY Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H5xx](../index.md) / H503EBY
+[Home](../../index) / [STM32H5xx](../index) / H503EBY
 
 ## PWM Timer Pins
 
@@ -54,4 +55,4 @@ title: H503EBY Pinout
 | PA_7 | ADC1 | 7 | D2/A2 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

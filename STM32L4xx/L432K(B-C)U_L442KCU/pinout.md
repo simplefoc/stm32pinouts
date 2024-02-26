@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L432K(B-C)U_L442KCU Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L432K(B-C)U_L442KCU
+[Home](../../index) / [STM32L4xx](../index) / L432K(B-C)U_L442KCU
 
 ## PWM Timer Pins
 
@@ -48,4 +49,4 @@ title: L432K(B-C)U_L442KCU Pinout
 | PB_1 | ADC1 | 16 | D17/A9 | D6 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

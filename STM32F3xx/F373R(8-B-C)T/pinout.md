@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F373R(8-B-C)T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F3xx](../index.md) / F373R(8-B-C)T
+[Home](../../index) / [STM32F3xx](../index) / F373R(8-B-C)T
 
 ## PWM Timer Pins
 
@@ -121,4 +122,4 @@ title: F373R(8-B-C)T Pinout
 | PC_5 | ADC1 | 15 | D33/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

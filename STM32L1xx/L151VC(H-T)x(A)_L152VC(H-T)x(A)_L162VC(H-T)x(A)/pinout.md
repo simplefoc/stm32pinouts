@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L1xx Family Pinout
 title: L151VC(H-T)x(A)_L152VC(H-T)x(A)_L162VC(H-T)x(A) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L1xx](../index.md) / L151VC(H-T)x(A)_L152VC(H-T)x(A)_L162VC(H-T)x(A)
+[Home](../../index) / [STM32L1xx](../index) / L151VC(H-T)x(A)_L152VC(H-T)x(A)_L162VC(H-T)x(A)
 
 ## PWM Timer Pins
 
@@ -96,4 +97,4 @@ title: L151VC(H-T)x(A)_L152VC(H-T)x(A)_L162VC(H-T)x(A) Pinout
 | PE_10 | ADC1 | 25 | D74/A23 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

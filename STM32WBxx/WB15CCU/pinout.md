@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WBxx Family Pinout
 title: WB15CCU Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32WBxx](../index.md) / WB15CCU
+[Home](../../index) / [STM32WBxx](../index) / WB15CCU
 
 ## PWM Timer Pins
 
@@ -44,4 +45,4 @@ title: WB15CCU Pinout
 | PA_9 | ADC1 | 4 | D9/A9 | PA_9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

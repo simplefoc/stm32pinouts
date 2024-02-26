@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F0xx Family Pinout
 title: F078RB(H-T) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F0xx](../index.md) / F078RB(H-T)
+[Home](../../index) / [STM32F0xx](../index) / F078RB(H-T)
 
 ## PWM Timer Pins
 
@@ -79,4 +80,4 @@ title: F078RB(H-T) Pinout
 | PC_5 | ADC1 | 15 | D36/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U535R(B-C-E)T_U545RET Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32U5xx](../index.md) / U535R(B-C-E)T_U545RET
+[Home](../../index) / [STM32U5xx](../index) / U535R(B-C-E)T_U545RET
 
 ## PWM Timer Pins
 
@@ -108,4 +109,4 @@ title: U535R(B-C-E)T_U545RET Pinout
 | PC_5_ALT1 | ADC4 | 23 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

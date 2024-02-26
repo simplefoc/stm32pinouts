@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H747ZIY_H757ZIY Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H7xx](../index.md) / H747ZIY_H757ZIY
+[Home](../../index) / [STM32H7xx](../index) / H747ZIY_H757ZIY
 
 ## PWM Timer Pins
 
@@ -128,4 +129,4 @@ title: H747ZIY_H757ZIY Pinout
 | PF_14 | ADC2 | 6 | D87/A20 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G471C(C-E)T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G4xx](../index.md) / G471C(C-E)T
+[Home](../../index) / [STM32G4xx](../index) / G471C(C-E)T
 
 ## PWM Timer Pins
 
@@ -112,4 +113,4 @@ title: G471C(C-E)T Pinout
 | PF_1 | ADC2 | 10 | D36/A17 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G0B0CET Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G0xx](../index.md) / G0B0CET
+[Home](../../index) / [STM32G0xx](../index) / G0B0CET
 
 ## PWM Timer Pins
 
@@ -81,4 +82,4 @@ title: G0B0CET Pinout
 | PB_12 | ADC1 | 16 | D28/A13 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U535N(C-E)YxQ_U545NEYxQ Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32U5xx](../index.md) / U535N(C-E)YxQ_U545NEYxQ
+[Home](../../index) / [STM32U5xx](../index) / U535N(C-E)YxQ_U545NEYxQ
 
 ## PWM Timer Pins
 
@@ -89,4 +90,4 @@ title: U535N(C-E)YxQ_U545NEYxQ Pinout
 | PB_2 | ADC1 | 17 | D18/A10 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

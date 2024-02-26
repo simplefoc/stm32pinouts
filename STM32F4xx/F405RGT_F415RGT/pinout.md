@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F405RGT_F415RGT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F405RGT_F415RGT
+[Home](../../index) / [STM32F4xx](../index) / F405RGT_F415RGT
 
 ## PWM Timer Pins
 
@@ -114,4 +115,4 @@ title: F405RGT_F415RGT Pinout
 | PC_5_ALT1 | ADC2 | 15 | - | - | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

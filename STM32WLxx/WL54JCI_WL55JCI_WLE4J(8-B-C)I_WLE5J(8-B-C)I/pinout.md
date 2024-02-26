@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WLxx Family Pinout
 title: WL54JCI_WL55JCI_WLE4J(8-B-C)I_WLE5J(8-B-C)I Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32WLxx](../index.md) / WL54JCI_WL55JCI_WLE4J(8-B-C)I_WLE5J(8-B-C)I
+[Home](../../index) / [STM32WLxx](../index) / WL54JCI_WL55JCI_WLE4J(8-B-C)I_WLE5J(8-B-C)I
 
 ## PWM Timer Pins
 
@@ -56,4 +57,4 @@ title: WL54JCI_WL55JCI_WLE4J(8-B-C)I_WLE5J(8-B-C)I Pinout
 | PB_14 | ADC1 | 1 | D30/A11 | D13/A2 | D20/A4 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F7xx Family Pinout
 title: F722R(C-E)T_F730R8T_F732RET Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F7xx](../index.md) / F722R(C-E)T_F730R8T_F732RET
+[Home](../../index) / [STM32F7xx](../index) / F722R(C-E)T_F730R8T_F732RET
 
 ## PWM Timer Pins
 
@@ -112,4 +113,4 @@ title: F722R(C-E)T_F730R8T_F732RET Pinout
 | PC_4_ALT1 | ADC2 | 14 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

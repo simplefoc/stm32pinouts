@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G491V(C-E)T_G4A1VET Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G4xx](../index.md) / G491V(C-E)T_G4A1VET
+[Home](../../index) / [STM32G4xx](../index) / G491V(C-E)T_G4A1VET
 
 ## PWM Timer Pins
 
@@ -186,4 +187,4 @@ title: G491V(C-E)T_G4A1VET Pinout
 | PF_1 | ADC2 | 10 | D81/A35 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

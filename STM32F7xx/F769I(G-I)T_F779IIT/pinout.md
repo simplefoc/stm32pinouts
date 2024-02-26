@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F7xx Family Pinout
 title: F769I(G-I)T_F779IIT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F7xx](../index.md) / F769I(G-I)T_F779IIT
+[Home](../../index) / [STM32F7xx](../index) / F769I(G-I)T_F779IIT
 
 ## PWM Timer Pins
 
@@ -144,4 +145,4 @@ title: F769I(G-I)T_F779IIT Pinout
 | PF_10 | ADC3 | 8 | D90/A23 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

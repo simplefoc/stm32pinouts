@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H725R(E-G)V_H735RGV Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H7xx](../index.md) / H725R(E-G)V_H735RGV
+[Home](../../index) / [STM32H7xx](../index) / H725R(E-G)V_H735RGV
 
 ## PWM Timer Pins
 
@@ -103,4 +104,4 @@ title: H725R(E-G)V_H735RGV Pinout
 | PC_5_ALT1 | ADC2 | 8 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

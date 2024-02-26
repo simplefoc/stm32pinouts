@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F413C(G-H)U_F423CHU Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F413C(G-H)U_F423CHU
+[Home](../../index) / [STM32F4xx](../index) / F413C(G-H)U_F423CHU
 
 ## PWM Timer Pins
 
@@ -75,4 +76,4 @@ title: F413C(G-H)U_F423CHU Pinout
 | PB_1 | ADC1 | 9 | D17/A9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

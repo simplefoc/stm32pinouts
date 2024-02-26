@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H562A(G-I)I Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H5xx](../index.md) / H562A(G-I)I
+[Home](../../index) / [STM32H5xx](../index) / H562A(G-I)I
 
 ## PWM Timer Pins
 
@@ -164,4 +165,4 @@ title: H562A(G-I)I Pinout
 | PF_14 | ADC2 | 6 | D94/A19 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

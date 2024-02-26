@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U595R(I-J)T_U5A5RJT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32U5xx](../index.md) / U595R(I-J)T_U5A5RJT
+[Home](../../index) / [STM32U5xx](../index) / U595R(I-J)T_U5A5RJT
 
 ## PWM Timer Pins
 
@@ -125,4 +126,4 @@ title: U595R(I-J)T_U5A5RJT Pinout
 | PC_5_ALT2 | ADC4 | 23 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

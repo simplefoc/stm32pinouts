@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L072CBY_L072CZ(E-Y)_L073CZY_L082CZY Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L0xx](../index.md) / L072CBY_L072CZ(E-Y)_L073CZY_L082CZY
+[Home](../../index) / [STM32L0xx](../index) / L072CBY_L072CZ(E-Y)_L073CZY_L082CZY
 
 ## PWM Timer Pins
 
@@ -55,4 +56,4 @@ title: L072CBY_L072CZ(E-Y)_L073CZY_L082CZY Pinout
 | PC_2 | ADC1 | 12 | PC_2 | D34/A12 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

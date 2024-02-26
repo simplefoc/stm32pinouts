@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32MP1xx Family Pinout
 title: MP151AAC_MP151CAC_MP151DAC_MP151FAC Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32MP1xx](../index.md) / MP151AAC_MP151CAC_MP151DAC_MP151FAC
+[Home](../../index) / [STM32MP1xx](../index) / MP151AAC_MP151CAC_MP151DAC_MP151FAC
 
 ## PWM Timer Pins
 
@@ -146,4 +147,4 @@ title: MP151AAC_MP151CAC_MP151DAC_MP151FAC Pinout
 | PF_14 | ADC2 | 6 | D96/A21 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

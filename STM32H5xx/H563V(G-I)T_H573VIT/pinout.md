@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H563V(G-I)T_H573VIT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H5xx](../index.md) / H563V(G-I)T_H573VIT
+[Home](../../index) / [STM32H5xx](../index) / H563V(G-I)T_H573VIT
 
 ## PWM Timer Pins
 
@@ -131,4 +132,4 @@ title: H563V(G-I)T_H573VIT Pinout
 | PC_5_ALT1 | ADC2 | 8 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L011G(3-4)U_L021G4U Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L0xx](../index.md) / L011G(3-4)U_L021G4U
+[Home](../../index) / [STM32L0xx](../index) / L011G(3-4)U_L021G4U
 
 ## PWM Timer Pins
 
@@ -48,4 +49,4 @@ title: L011G(3-4)U_L021G4U Pinout
 | PB_1 | ADC1 | 9 | D15/A9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

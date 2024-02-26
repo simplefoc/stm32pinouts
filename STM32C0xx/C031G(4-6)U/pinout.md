@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32C0xx Family Pinout
 title: C031G(4-6)U Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32C0xx](../index.md) / C031G(4-6)U
+[Home](../../index) / [STM32C0xx](../index) / C031G(4-6)U
 
 ## PWM Timer Pins
 
@@ -93,4 +94,4 @@ title: C031G(4-6)U Pinout
 | PB_1 | ADC1 | 18 | D15/A14 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

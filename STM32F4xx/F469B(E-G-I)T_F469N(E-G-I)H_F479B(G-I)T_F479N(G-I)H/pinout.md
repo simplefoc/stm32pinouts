@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F469B(E-G-I)T_F469N(E-G-I)H_F479B(G-I)T_F479N(G-I)H Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F469B(E-G-I)T_F469N(E-G-I)H_F479B(G-I)T_F479N(G-I)H
+[Home](../../index) / [STM32F4xx](../index) / F469B(E-G-I)T_F469N(E-G-I)H_F479B(G-I)T_F479N(G-I)H
 
 ## PWM Timer Pins
 
@@ -152,4 +153,4 @@ title: F469B(E-G-I)T_F469N(E-G-I)H_F479B(G-I)T_F479N(G-I)H Pinout
 | PF_10 | ADC3 | 8 | D90/A23 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

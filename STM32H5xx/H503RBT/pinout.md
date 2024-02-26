@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H503RBT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H5xx](../index.md) / H503RBT
+[Home](../../index) / [STM32H5xx](../index) / H503RBT
 
 ## PWM Timer Pins
 
@@ -100,4 +101,4 @@ title: H503RBT Pinout
 | PC_5 | ADC1 | 8 | D35/A15 | D37/A8 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

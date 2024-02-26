@@ -135,7 +135,7 @@ for family_folder in os.listdir(families_path):
         os.makedirs(family_output_folder, exist_ok=True)
         
         # Create a main page for the family
-        family_main_page = os.path.join(family_output_folder, "index.md")
+        family_main_page = os.path.join(family_output_folder, "index")
         
         with open(family_main_page, 'w') as f:
             # Writing Jekyll front matter
@@ -143,10 +143,11 @@ for family_folder in os.listdir(families_path):
             f.write('layout: default\n')
             f.write('parent: STM32 Family Pinout\n')
             f.write(f'title: {family_folder} Family Pinout\n')
+            f.write('has_children: true\n')
             f.write('---\n\n')
             
             # Breadcrumbs
-            f.write("[Home](../index.md) / ")
+            f.write("[Home](../index) / ")
             f.write(f"{family_folder}\n\n")
     
             f.write(f"# {family_folder} Family\n\n")
@@ -162,14 +163,14 @@ for family_folder in os.listdir(families_path):
                 variant_names = ", ".join(variant_names)
                 # use only the subfamily name using os package
                 subfamily1 = os.path.basename(subfamily)
-                f.write(f"- [{subfamily1}]({subfamily1}/pinout.md) ")
+                f.write(f"- [{subfamily1}]({subfamily1}/pinout) ")
                 if variant_names: f.write(f"({variant_names})")
                 f.write("\n")
                 # Create subfamily folder
                 os.makedirs(os.path.join(subfamily), exist_ok=True)
             
             # Add link to the main page
-            f.write("\n\n[Back to Main Page](../index.md)")
+            f.write("\n\n[Back to Main Page](../index)")
         
         # Process each subfamily
         for subfamily_folder in os.listdir(family_path):
@@ -187,11 +188,12 @@ for family_folder in os.listdir(families_path):
                     f.write('grand_parent: STM32 Family Pinout\n')
                     f.write(f'parent: {family_folder} Family Pinout\n') 
                     f.write(f'title: {subfamily_folder} Pinout\n')
+                    f.write('has_children: false\n')
                     f.write('---\n\n')
                     
                     # Breadcrumbs
-                    f.write("[Home](../../index.md) / ")
-                    f.write(f"[{family_folder}](../index.md)")
+                    f.write("[Home](../../index) / ")
+                    f.write(f"[{family_folder}](../index)")
                     f.write(f" / {subfamily_folder}\n\n")
                     
                     
@@ -224,7 +226,7 @@ for family_folder in os.listdir(families_path):
                         f.write('\n\n')
                     
                     # Add link to the main page
-                    f.write("[Back to Main Page](../../index.md)")
+                    f.write("[Back to Main Page](../../index)")
                     
                     # Append subfamily markdown file to family section
                     main_page_content.append(f"- [{subfamily_folder}]({family_output_folder}/{sanitize_filename(subfamily_folder)}/pinout.md)")
@@ -235,6 +237,7 @@ with open('index.md', 'w') as main_page_file:
     main_page_file.write('---\n')
     main_page_file.write('layout: home\n')
     main_page_file.write('title: STM32 Family Pinout\n')
+    main_page_file.write('has_children: true\n')
     main_page_file.write('---\n\n')
 
     main_page_file.write('# STM32 Family Pinout\n\n')
@@ -254,7 +257,7 @@ with open('index.md', 'w') as main_page_file:
             _, _, subfamilies, _ = process_family(family_path, family_folder)
             
             for subfamily in subfamilies:
-                main_page_file.write(f"<li><a href='{subfamily}/pinout.md'>{os.path.basename(subfamily)}</a></li>\n")
+                main_page_file.write(f"<li><a href='{subfamily}/pinout'>{os.path.basename(subfamily)}</a></li>\n")
             
             main_page_file.write("</ul>\n")
             main_page_file.write("</details>\n")

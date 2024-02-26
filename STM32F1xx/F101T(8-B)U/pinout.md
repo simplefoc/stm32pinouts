@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F1xx Family Pinout
 title: F101T(8-B)U Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F1xx](../index.md) / F101T(8-B)U
+[Home](../../index) / [STM32F1xx](../index) / F101T(8-B)U
 
 ## PWM Timer Pins
 
@@ -51,4 +52,4 @@ title: F101T(8-B)U Pinout
 | PB_1 | ADC1 | 9 | D17/A9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

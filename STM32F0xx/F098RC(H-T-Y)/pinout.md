@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F0xx Family Pinout
 title: F098RC(H-T-Y) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F0xx](../index.md) / F098RC(H-T-Y)
+[Home](../../index) / [STM32F0xx](../index) / F098RC(H-T-Y)
 
 ## PWM Timer Pins
 
@@ -79,4 +80,4 @@ title: F098RC(H-T-Y) Pinout
 | PC_5 | ADC1 | 15 | D36/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

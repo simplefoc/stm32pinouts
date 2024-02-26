@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L031F(4-6)P_L041F6P Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L0xx](../index.md) / L031F(4-6)P_L041F6P
+[Home](../../index) / [STM32L0xx](../index) / L031F(4-6)P_L041F6P
 
 ## PWM Timer Pins
 
@@ -40,4 +41,4 @@ title: L031F(4-6)P_L041F6P Pinout
 | PB_1 | ADC1 | 9 | D12/A8 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

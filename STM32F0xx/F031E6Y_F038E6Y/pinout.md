@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F0xx Family Pinout
 title: F031E6Y_F038E6Y Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F0xx](../index.md) / F031E6Y_F038E6Y
+[Home](../../index) / [STM32F0xx](../index) / F031E6Y_F038E6Y
 
 ## PWM Timer Pins
 
@@ -52,4 +53,4 @@ title: F031E6Y_F038E6Y Pinout
 | PB_1 | ADC1 | 9 | D14/A9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

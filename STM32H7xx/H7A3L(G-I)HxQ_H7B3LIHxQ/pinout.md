@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H7A3L(G-I)HxQ_H7B3LIHxQ Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H7xx](../index.md) / H7A3L(G-I)HxQ_H7B3LIHxQ
+[Home](../../index) / [STM32H7xx](../index) / H7A3L(G-I)HxQ_H7B3LIHxQ
 
 ## PWM Timer Pins
 
@@ -164,4 +165,4 @@ title: H7A3L(G-I)HxQ_H7B3LIHxQ Pinout
 | PF_14 | ADC2 | 6 | D94/A19 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

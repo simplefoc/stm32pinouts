@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L471R(E-G)T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L471R(E-G)T
+[Home](../../index) / [STM32L4xx](../index) / L471R(E-G)T
 
 ## PWM Timer Pins
 
@@ -114,4 +115,4 @@ title: L471R(E-G)T Pinout
 | PC_5_ALT1 | ADC2 | 14 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

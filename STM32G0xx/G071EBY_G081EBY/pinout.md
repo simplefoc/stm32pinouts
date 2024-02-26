@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G071EBY_G081EBY Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G0xx](../index.md) / G071EBY_G081EBY
+[Home](../../index) / [STM32G0xx](../index) / G071EBY_G081EBY
 
 ## PWM Timer Pins
 
@@ -59,4 +60,4 @@ title: G071EBY_G081EBY Pinout
 | PB_1 | ADC1 | 9 | D15/A9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -2,6 +2,7 @@
 layout: default
 parent: STM32 Family Pinout
 title: STM32F4xx Family Pinout
+has_children: true
 ---
 
 [Home](../index.md) / STM32F4xx

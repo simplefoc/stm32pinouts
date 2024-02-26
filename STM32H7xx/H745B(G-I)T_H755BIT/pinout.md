@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H745B(G-I)T_H755BIT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H7xx](../index.md) / H745B(G-I)T_H755BIT
+[Home](../../index) / [STM32H7xx](../index) / H745B(G-I)T_H755BIT
 
 ## PWM Timer Pins
 
@@ -170,4 +171,4 @@ title: H745B(G-I)T_H755BIT Pinout
 | PH_5 | ADC3 | 16 | D115/A29 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

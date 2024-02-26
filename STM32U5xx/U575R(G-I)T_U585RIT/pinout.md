@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U575R(G-I)T_U585RIT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32U5xx](../index.md) / U575R(G-I)T_U585RIT
+[Home](../../index) / [STM32U5xx](../index) / U575R(G-I)T_U585RIT
 
 ## PWM Timer Pins
 
@@ -108,4 +109,4 @@ title: U575R(G-I)T_U585RIT Pinout
 | PC_5_ALT1 | ADC4 | 23 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

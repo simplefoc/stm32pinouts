@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F0xx Family Pinout
 title: F030R8T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F0xx](../index.md) / F030R8T
+[Home](../../index) / [STM32F0xx](../index) / F030R8T
 
 ## PWM Timer Pins
 
@@ -69,4 +70,4 @@ title: F030R8T Pinout
 | PC_5 | ADC1 | 15 | PC_5 | D37/A15 | PC_5 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

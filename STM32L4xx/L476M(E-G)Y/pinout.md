@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L476M(E-G)Y Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L476M(E-G)Y
+[Home](../../index) / [STM32L4xx](../index) / L476M(E-G)Y
 
 ## PWM Timer Pins
 
@@ -118,4 +119,4 @@ title: L476M(E-G)Y Pinout
 | PC_5_ALT1 | ADC2 | 14 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

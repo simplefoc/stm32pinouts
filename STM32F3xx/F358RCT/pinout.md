@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F358RCT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F3xx](../index.md) / F358RCT
+[Home](../../index) / [STM32F3xx](../index) / F358RCT
 
 ## PWM Timer Pins
 
@@ -122,4 +123,4 @@ title: F358RCT Pinout
 | PF_4 | ADC1 | 5 | D50/A20 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

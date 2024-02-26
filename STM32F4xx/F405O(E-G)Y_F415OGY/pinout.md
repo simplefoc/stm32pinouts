@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F405O(E-G)Y_F415OGY Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F405O(E-G)Y_F415OGY
+[Home](../../index) / [STM32F4xx](../index) / F405O(E-G)Y_F415OGY
 
 ## PWM Timer Pins
 
@@ -118,4 +119,4 @@ title: F405O(E-G)Y_F415OGY Pinout
 | PC_3_ALT2 | ADC3 | 13 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

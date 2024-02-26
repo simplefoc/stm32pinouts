@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F318K8U Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F3xx](../index.md) / F318K8U
+[Home](../../index) / [STM32F3xx](../index) / F318K8U
 
 ## PWM Timer Pins
 
@@ -55,4 +56,4 @@ title: F318K8U Pinout
 | PB_0 | ADC1 | 11 | D16/A7 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

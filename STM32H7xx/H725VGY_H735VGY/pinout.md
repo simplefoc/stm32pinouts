@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H725VGY_H735VGY Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32H7xx](../index.md) / H725VGY_H735VGY
+[Home](../../index) / [STM32H7xx](../index) / H725VGY_H735VGY
 
 ## PWM Timer Pins
 
@@ -112,4 +113,4 @@ title: H725VGY_H735VGY Pinout
 | PC_5_ALT1 | ADC2 | 8 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

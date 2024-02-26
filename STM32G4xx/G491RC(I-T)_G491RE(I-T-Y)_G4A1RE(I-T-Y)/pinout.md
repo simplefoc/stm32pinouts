@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G491RC(I-T)_G491RE(I-T-Y)_G4A1RE(I-T-Y) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G4xx](../index.md) / G491RC(I-T)_G491RE(I-T-Y)_G4A1RE(I-T-Y)
+[Home](../../index) / [STM32G4xx](../index) / G491RC(I-T)_G491RE(I-T-Y)_G4A1RE(I-T-Y)
 
 ## PWM Timer Pins
 
@@ -140,4 +141,4 @@ title: G491RC(I-T)_G491RE(I-T-Y)_G4A1RE(I-T-Y) Pinout
 | PF_1 | ADC2 | 10 | D50/A23 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

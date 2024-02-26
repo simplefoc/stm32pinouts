@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WBxx Family Pinout
 title: WB55R(C-E-G)V Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32WBxx](../index.md) / WB55R(C-E-G)V
+[Home](../../index) / [STM32WBxx](../index) / WB55R(C-E-G)V
 
 ## PWM Timer Pins
 
@@ -60,4 +61,4 @@ title: WB55R(C-E-G)V Pinout
 | PC_5 | ADC1 | 14 | D37/A15 | PC_5 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

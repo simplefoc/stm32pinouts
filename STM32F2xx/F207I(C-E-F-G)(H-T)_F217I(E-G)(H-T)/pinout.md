@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F2xx Family Pinout
 title: F207I(C-E-F-G)(H-T)_F217I(E-G)(H-T) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F2xx](../index.md) / F207I(C-E-F-G)(H-T)_F217I(E-G)(H-T)
+[Home](../../index) / [STM32F2xx](../index) / F207I(C-E-F-G)(H-T)_F217I(E-G)(H-T)
 
 ## PWM Timer Pins
 
@@ -152,4 +153,4 @@ title: F207I(C-E-F-G)(H-T)_F217I(E-G)(H-T) Pinout
 | PF_10 | ADC3 | 8 | D90/A23 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

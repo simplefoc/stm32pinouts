@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L431VC(I-T) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L431VC(I-T)
+[Home](../../index) / [STM32L4xx](../index) / L431VC(I-T)
 
 ## PWM Timer Pins
 
@@ -71,4 +72,4 @@ title: L431VC(I-T) Pinout
 | PC_5 | ADC1 | 14 | D37/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

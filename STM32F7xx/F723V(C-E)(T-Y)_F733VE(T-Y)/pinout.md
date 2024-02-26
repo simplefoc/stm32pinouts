@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F7xx Family Pinout
 title: F723V(C-E)(T-Y)_F733VE(T-Y) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F7xx](../index.md) / F723V(C-E)(T-Y)_F733VE(T-Y)
+[Home](../../index) / [STM32F7xx](../index) / F723V(C-E)(T-Y)_F733VE(T-Y)
 
 ## PWM Timer Pins
 
@@ -121,4 +122,4 @@ title: F723V(C-E)(T-Y)_F733VE(T-Y) Pinout
 | PC_5_ALT1 | ADC2 | 15 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

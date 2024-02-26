@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L1xx Family Pinout
 title: L100RCT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L1xx](../index.md) / L100RCT
+[Home](../../index) / [STM32L1xx](../index) / L100RCT
 
 ## PWM Timer Pins
 
@@ -72,4 +73,4 @@ title: L100RCT Pinout
 | PC_5 | ADC1 | 15 | D37/A19 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

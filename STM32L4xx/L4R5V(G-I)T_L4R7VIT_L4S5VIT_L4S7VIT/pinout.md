@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L4R5V(G-I)T_L4R7VIT_L4S5VIT_L4S7VIT Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L4xx](../index.md) / L4R5V(G-I)T_L4R7VIT_L4S5VIT_L4S7VIT
+[Home](../../index) / [STM32L4xx](../index) / L4R5V(G-I)T_L4R7VIT_L4S5VIT_L4S7VIT
 
 ## PWM Timer Pins
 
@@ -111,4 +112,4 @@ title: L4R5V(G-I)T_L4R7VIT_L4S5VIT_L4S7VIT Pinout
 | PC_5 | ADC1 | 14 | D69/A0 | D37/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

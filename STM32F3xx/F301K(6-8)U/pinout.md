@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F301K(6-8)U Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F3xx](../index.md) / F301K(6-8)U
+[Home](../../index) / [STM32F3xx](../index) / F301K(6-8)U
 
 ## PWM Timer Pins
 
@@ -56,4 +57,4 @@ title: F301K(6-8)U Pinout
 | PB_0 | ADC1 | 11 | D16/A7 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

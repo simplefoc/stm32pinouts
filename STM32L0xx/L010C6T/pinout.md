@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L010C6T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L0xx](../index.md) / L010C6T
+[Home](../../index) / [STM32L0xx](../index) / L010C6T
 
 ## PWM Timer Pins
 
@@ -47,4 +48,4 @@ title: L010C6T Pinout
 | PB_1 | ADC1 | 9 | D17/A9 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

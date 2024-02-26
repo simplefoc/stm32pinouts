@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F7xx Family Pinout
 title: F765B(G-I)T_F765N(G-I)H_F767B(G-I)T_F767N(G-I)H_F777BIT_F777NIH Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F7xx](../index.md) / F765B(G-I)T_F765N(G-I)H_F767B(G-I)T_F767N(G-I)H_F777BIT_F777NIH
+[Home](../../index) / [STM32F7xx](../index) / F765B(G-I)T_F765N(G-I)H_F767B(G-I)T_F767N(G-I)H_F777BIT_F777NIH
 
 ## PWM Timer Pins
 
@@ -152,4 +153,4 @@ title: F765B(G-I)T_F765N(G-I)H_F767B(G-I)T_F767N(G-I)H_F777BIT_F777NIH Pinout
 | PF_10 | ADC3 | 8 | D90/A23 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

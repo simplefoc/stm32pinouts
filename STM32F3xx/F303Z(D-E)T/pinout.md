@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F303Z(D-E)T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F3xx](../index.md) / F303Z(D-E)T
+[Home](../../index) / [STM32F3xx](../index) / F303Z(D-E)T
 
 ## PWM Timer Pins
 
@@ -197,4 +198,4 @@ title: F303Z(D-E)T Pinout
 | PF_4 | ADC1 | 5 | D84/A39 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L5xx Family Pinout
 title: L552C(C-E)(T-U)_L562CE(T-U) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L5xx](../index.md) / L552C(C-E)(T-U)_L562CE(T-U)
+[Home](../../index) / [STM32L5xx](../index) / L552C(C-E)(T-U)_L562CE(T-U)
 
 ## PWM Timer Pins
 
@@ -90,4 +91,4 @@ title: L552C(C-E)(T-U)_L562CE(T-U) Pinout
 | PB_1_ALT1 | ADC2 | 16 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

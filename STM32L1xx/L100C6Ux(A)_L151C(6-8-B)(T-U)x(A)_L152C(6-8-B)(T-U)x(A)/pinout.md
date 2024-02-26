@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L1xx Family Pinout
 title: L100C6Ux(A)_L151C(6-8-B)(T-U)x(A)_L152C(6-8-B)(T-U)x(A) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L1xx](../index.md) / L100C6Ux(A)_L151C(6-8-B)(T-U)x(A)_L152C(6-8-B)(T-U)x(A)
+[Home](../../index) / [STM32L1xx](../index) / L100C6Ux(A)_L151C(6-8-B)(T-U)x(A)_L152C(6-8-B)(T-U)x(A)
 
 ## PWM Timer Pins
 
@@ -62,4 +63,4 @@ title: L100C6Ux(A)_L151C(6-8-B)(T-U)x(A)_L152C(6-8-B)(T-U)x(A) Pinout
 | PB_15 | ADC1 | 21 | D31/A13 | D20 - LIS3DH_INT2_PIN |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

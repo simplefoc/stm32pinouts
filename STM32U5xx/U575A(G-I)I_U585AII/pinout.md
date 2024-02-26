@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U575A(G-I)I_U585AII Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32U5xx](../index.md) / U575A(G-I)I_U585AII
+[Home](../../index) / [STM32U5xx](../index) / U575A(G-I)I_U585AII
 
 ## PWM Timer Pins
 
@@ -156,4 +157,4 @@ title: U575A(G-I)I_U585AII Pinout
 | PG_1 | ADC4 | 8 | D97/A23 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U575C(G-I)(T-U)_U585CI(T-U) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32U5xx](../index.md) / U575C(G-I)(T-U)_U585CI(T-U)
+[Home](../../index) / [STM32U5xx](../index) / U575C(G-I)(T-U)_U585CI(T-U)
 
 ## PWM Timer Pins
 
@@ -87,4 +88,4 @@ title: U575C(G-I)(T-U)_U585CI(T-U) Pinout
 | PB_2 | ADC1 | 17 | D13/A5 | D18/A10 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

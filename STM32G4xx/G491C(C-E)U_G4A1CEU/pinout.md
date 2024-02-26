@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G491C(C-E)U_G4A1CEU Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32G4xx](../index.md) / G491C(C-E)U_G4A1CEU
+[Home](../../index) / [STM32G4xx](../index) / G491C(C-E)U_G4A1CEU
 
 ## PWM Timer Pins
 
@@ -117,4 +118,4 @@ title: G491C(C-E)U_G4A1CEU Pinout
 | PF_1 | ADC2 | 10 | D40/A18 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

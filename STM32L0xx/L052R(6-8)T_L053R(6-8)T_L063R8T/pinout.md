@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L052R(6-8)T_L053R(6-8)T_L063R8T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L0xx](../index.md) / L052R(6-8)T_L053R(6-8)T_L063R8T
+[Home](../../index) / [STM32L0xx](../index) / L052R(6-8)T_L053R(6-8)T_L063R8T
 
 ## PWM Timer Pins
 
@@ -54,4 +55,4 @@ title: L052R(6-8)T_L053R(6-8)T_L063R8T Pinout
 | PC_5 | ADC1 | 15 | D37/A15 | D35/A10 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F301C6T_F301C8(T-Y) Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F3xx](../index.md) / F301C6T_F301C8(T-Y)
+[Home](../../index) / [STM32F3xx](../index) / F301C6T_F301C8(T-Y)
 
 ## PWM Timer Pins
 
@@ -71,4 +72,4 @@ title: F301C6T_F301C8(T-Y) Pinout
 | PB_13 | ADC1 | 13 | D29/A10 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

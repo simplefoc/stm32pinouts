@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L5xx Family Pinout
 title: L552V(C-E)TxQ_L562VETxQ Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32L5xx](../index.md) / L552V(C-E)TxQ_L562VETxQ
+[Home](../../index) / [STM32L5xx](../index) / L552V(C-E)TxQ_L562VETxQ
 
 ## PWM Timer Pins
 
@@ -122,4 +123,4 @@ title: L552V(C-E)TxQ_L562VETxQ Pinout
 | PC_3_ALT1 | ADC2 | 4 | - |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F413M(G-H)Y_F423MHY Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F4xx](../index.md) / F413M(G-H)Y_F423MHY
+[Home](../../index) / [STM32F4xx](../index) / F413M(G-H)Y_F423MHY
 
 ## PWM Timer Pins
 
@@ -95,4 +96,4 @@ title: F413M(G-H)Y_F423MHY Pinout
 | PC_5 | ADC1 | 15 | D36/A15 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)

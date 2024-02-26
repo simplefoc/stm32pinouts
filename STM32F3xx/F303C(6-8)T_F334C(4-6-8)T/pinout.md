@@ -3,9 +3,10 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F303C(6-8)T_F334C(4-6-8)T Pinout
+has_children: false
 ---
 
-[Home](../../index.md) / [STM32F3xx](../index.md) / F303C(6-8)T_F334C(4-6-8)T
+[Home](../../index) / [STM32F3xx](../index) / F303C(6-8)T_F334C(4-6-8)T
 
 ## PWM Timer Pins
 
@@ -83,4 +84,4 @@ title: F303C(6-8)T_F334C(4-6-8)T Pinout
 | PB_15 | ADC2 | 15 | D31/A14 |
 
 
-[Back to Main Page](../../index.md)
+[Back to Main Page](../../index)
