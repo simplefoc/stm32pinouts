@@ -220,8 +220,8 @@ with open('index.md', 'w') as main_page_file:
         family_path = os.path.join(families_path, family_folder)
         if os.path.isdir(family_path):
             
-            main_page_file.write("<details>\n")
-            main_page_file.write(f"<li><summary><a href='{sanitize_filename(family_folder)}/index'>{family_folder}</a></summary>\n")
+            main_page_file.write("<li><details>\n")
+            main_page_file.write(f"<summary><a href='{sanitize_filename(family_folder)}/index'>{family_folder}</a></summary>\n")
             main_page_file.write("<ul>\n")
 
             
