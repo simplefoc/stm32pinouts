@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://docs.simplefoc.com/stm32pinouts
 
 # chage the logo
-logo: https://docs.simplefoc.com/logo.png
+favicon_ico: https://docs.simplefoc.com/logo.png
 
 aux_links:
   Github Repository: https://github.com/simplefoc/mcupinouts
