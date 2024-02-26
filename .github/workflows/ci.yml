@@ -17,7 +17,8 @@ jobs:
       - name: generate pinout
         run: |
           python3 parser.py
-          tree
+          rm -r Arduino_Core_STM32
+          tree 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
