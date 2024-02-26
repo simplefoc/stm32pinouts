@@ -231,7 +231,7 @@ with open('index.md', 'w') as main_page_file:
             _, _, subfamilies, _ = process_family(family_path, family_folder)
             
             for subfamily in subfamilies:
-                main_page_file.write(f"<li><a href='{subfamily}/pinout'>{os.path.basename(subfamily)}</a>\n")
+                main_page_file.write(f"<li><a href='{subfamily}/pinout'>{os.path.basename(subfamily)}</a></li>\n")
             
             main_page_file.write("</ul>\n")
             main_page_file.write("</details>\n")
