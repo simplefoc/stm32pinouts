@@ -11,7 +11,7 @@ def extract_pins_from_variant(variant_file):
     with open(variant_file, "r") as file:
         variant_content = file.read()
         # Remove commented lines
-        variant_content = re.sub(r'^\s+\/\/.*\n', '', variant_content)
+        variant_content = re.sub(r'^\s*\/\/.*\n', '', variant_content)
         # Regular expression pattern to extract pin information
         pin_pattern = r"^\s*(\w+),?\s*(?:\/\/\s*(.+))?$"
         # Find all matches of the pattern in the variant content
