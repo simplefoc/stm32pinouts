@@ -32,7 +32,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: clone stm32duino
-        run: git clone https://github.com/stm32duino/Arduino_Core_STM32.git
+        run: git clone https://github.com/stm32duino/Arduino_Core_STM32.git --branch 2.7.1 --single-branch
       - name: generate pinout
         run: |
           python3 parser.py

@@ -104,6 +104,7 @@ def process_family(family_path, family_name):
 
 # Path to the directory containing family folders
 families_path = 'Arduino_Core_STM32/variants/'
+url_to_repo = 'https://github.com/stm32duino/Arduino_Core_STM32/blob/2.7.1/variants'
 
 # Create a main page to list all family-specific main pages
 main_page_content = []
@@ -174,8 +175,11 @@ for family_folder in os.listdir(families_path):
                     f.write(f'title: {subfamily_folder} Pinout\n')
                     f.write('has_toc: false\n')
                     f.write('has_children: false\n')
+                    f.write('nav_exclude: true\n')
                     f.write('---\n\n')
                                         
+                    f.write(f" See more info in the [STM32duino repository]({url_to_repo}/{family_folder}/{subfamily_folder}/PeripheralPins.c)\n\n")
+
                     f.write("## PWM Timer Pins\n\n")
 
                     table_headers = ["Pin", "PWM Timer", "Channel"]
