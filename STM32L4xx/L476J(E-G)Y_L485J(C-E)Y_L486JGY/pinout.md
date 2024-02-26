@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L476J(E-G)Y_L485J(C-E)Y_L486JGY Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -116,4 +117,4 @@ has_children: false
 | PC_5_ALT1 | ADC2 | 14 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U535C(B-C-E)(T-U)_U545CE(T-U) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -86,4 +87,4 @@ has_children: false
 | PB_2 | ADC1 | 17 | D18/A10 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

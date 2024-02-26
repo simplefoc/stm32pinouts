@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G431R(6-8-B)(I-T)_G441RB(I-T) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -133,4 +134,4 @@ has_children: false
 | PF_1 | ADC2 | 10 | D50/A22 | D26/A15 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

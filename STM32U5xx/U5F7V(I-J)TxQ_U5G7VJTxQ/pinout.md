@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U5F7V(I-J)TxQ_U5G7VJTxQ Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -139,4 +140,4 @@ has_children: false
 | PD_13 | ADC4 | 17 | D58/A17 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

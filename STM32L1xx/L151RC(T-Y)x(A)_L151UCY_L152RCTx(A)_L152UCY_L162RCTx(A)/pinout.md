@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L1xx Family Pinout
 title: L151RC(T-Y)x(A)_L151UCY_L152RCTx(A)_L152UCY_L162RCTx(A) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -75,4 +76,4 @@ has_children: false
 | PC_5 | ADC1 | 15 | D37/A19 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

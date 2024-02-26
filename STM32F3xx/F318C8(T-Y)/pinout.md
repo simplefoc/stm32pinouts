@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F318C8(T-Y) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -70,4 +71,4 @@ has_children: false
 | PB_13 | ADC1 | 13 | D28/A10 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

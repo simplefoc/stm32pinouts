@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F469V(E-G-I)T_F479V(G-I)T Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -118,4 +119,4 @@ has_children: false
 | PC_3_ALT2 | ADC3 | 13 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

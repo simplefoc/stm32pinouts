@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U599N(I-J)HxQ_U5A9NJHxQ Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -172,4 +173,4 @@ has_children: false
 | PG_1 | ADC4 | 8 | D97/A23 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

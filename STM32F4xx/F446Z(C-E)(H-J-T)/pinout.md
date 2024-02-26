@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F446Z(C-E)(H-J-T) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -141,4 +142,4 @@ has_children: false
 | PF_10 | ADC3 | 8 | D90/A23 | D83/A5 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

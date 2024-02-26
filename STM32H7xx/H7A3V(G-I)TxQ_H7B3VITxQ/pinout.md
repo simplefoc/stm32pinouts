@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H7A3V(G-I)TxQ_H7B3VITxQ Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -108,4 +109,4 @@ has_children: false
 | PC_5_ALT1 | ADC2 | 8 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

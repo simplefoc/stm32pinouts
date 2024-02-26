@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G473P(B-C-E)I_G474P(B-C-E)I_G483PEI_G484PEI Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -238,4 +239,4 @@ has_children: false
 | PF_1 | ADC2 | 10 | D81/A41 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

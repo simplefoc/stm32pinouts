@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WBxx Family Pinout
 title: WB55R(C-E-G)V Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -59,4 +60,4 @@ has_children: false
 | PC_5 | ADC1 | 14 | D37/A15 | PC_5 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

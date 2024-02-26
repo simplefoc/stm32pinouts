@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H503KBU Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -73,4 +74,4 @@ has_children: false
 | PB_1 | ADC1 | 5 | D16/A9 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

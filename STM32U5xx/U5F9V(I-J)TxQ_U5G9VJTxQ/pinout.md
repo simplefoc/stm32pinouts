@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U5F9V(I-J)TxQ_U5G9VJTxQ Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -121,4 +122,4 @@ has_children: false
 | PC_3_ALT2 | ADC4 | 4 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

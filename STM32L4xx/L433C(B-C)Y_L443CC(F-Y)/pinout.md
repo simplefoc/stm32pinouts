@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L433C(B-C)Y_L443CC(F-Y) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -57,4 +58,4 @@ has_children: false
 | PC_3 | ADC1 | 4 | D32/A10 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

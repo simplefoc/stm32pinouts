@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G031G(4-6-8)U_G041G(6-8)U Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -65,4 +66,4 @@ has_children: false
 | PB_7 | ADC1 | 11 | D20/A14 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

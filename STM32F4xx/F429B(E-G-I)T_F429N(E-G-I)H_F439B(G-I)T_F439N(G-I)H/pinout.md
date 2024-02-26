@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F429B(E-G-I)T_F429N(E-G-I)H_F439B(G-I)T_F439N(G-I)H Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -151,4 +152,4 @@ has_children: false
 | PF_10 | ADC3 | 8 | D90/A23 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

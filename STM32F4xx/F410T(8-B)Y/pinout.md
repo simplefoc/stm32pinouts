@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F410T(8-B)Y Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -29,4 +30,4 @@ has_children: false
 | PA_5 | ADC1 | 5 | D3/A3 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

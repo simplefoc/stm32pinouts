@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H503EBY Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -53,4 +54,4 @@ has_children: false
 | PA_7 | ADC1 | 7 | D2/A2 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

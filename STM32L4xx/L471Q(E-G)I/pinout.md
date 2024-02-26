@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L471Q(E-G)I Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -136,4 +137,4 @@ has_children: false
 | PF_5 | ADC3 | 8 | D85/A18 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

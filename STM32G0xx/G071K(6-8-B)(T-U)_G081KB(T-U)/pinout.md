@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G071K(6-8-B)(T-U)_G081KB(T-U) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -67,4 +68,4 @@ has_children: false
 | PB_2 | ADC1 | 10 | D18/A10 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

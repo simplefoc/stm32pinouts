@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F7xx Family Pinout
 title: F723V(C-E)(T-Y)_F733VE(T-Y) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -120,4 +121,4 @@ has_children: false
 | PC_5_ALT1 | ADC2 | 15 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

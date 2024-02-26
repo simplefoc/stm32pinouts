@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G0B1C(B-C-E)(T-U)_G0C1C(C-E)(T-U) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -91,4 +92,4 @@ has_children: false
 | PB_12 | ADC1 | 16 | D28/A13 | D28/A13 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

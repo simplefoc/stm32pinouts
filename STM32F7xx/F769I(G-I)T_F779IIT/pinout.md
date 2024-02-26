@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F7xx Family Pinout
 title: F769I(G-I)T_F779IIT Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -143,4 +144,4 @@ has_children: false
 | PF_10 | ADC3 | 8 | D90/A23 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

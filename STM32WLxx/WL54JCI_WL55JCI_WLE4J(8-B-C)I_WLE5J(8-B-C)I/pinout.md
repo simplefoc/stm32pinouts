@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WLxx Family Pinout
 title: WL54JCI_WL55JCI_WLE4J(8-B-C)I_WLE5J(8-B-C)I Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -55,4 +56,4 @@ has_children: false
 | PB_14 | ADC1 | 1 | D30/A11 | D13/A2 | D20/A4 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

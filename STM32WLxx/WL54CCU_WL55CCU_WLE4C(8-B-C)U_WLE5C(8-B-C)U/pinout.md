@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WLxx Family Pinout
 title: WL54CCU_WL55CCU_WLE4C(8-B-C)U_WLE5C(8-B-C)U Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -45,4 +46,4 @@ has_children: false
 | PB_4 | ADC1 | 3 | D19/A8 | D19/VBAT_READ_EN | D18/A1 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

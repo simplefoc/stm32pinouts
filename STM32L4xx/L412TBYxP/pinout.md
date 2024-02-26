@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L412TBYxP Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -56,4 +57,4 @@ has_children: false
 | PB_1_ALT1 | ADC2 | 16 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

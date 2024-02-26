@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F0xx Family Pinout
 title: F048G6U Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -51,4 +52,4 @@ has_children: false
 | PB_0 | ADC1 | 8 | D13/A8 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

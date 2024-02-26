@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F7xx Family Pinout
 title: F722R(C-E)T_F730R8T_F732RET Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -111,4 +112,4 @@ has_children: false
 | PC_4_ALT1 | ADC2 | 14 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

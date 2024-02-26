@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WBxx Family Pinout
 title: WB35C(C-E)UxA_WB55C(C-E-G)U Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -48,4 +49,4 @@ has_children: false
 | PA_9 | ADC1 | 16 | D9/A9 | D3 | PA_9 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

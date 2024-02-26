@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F2xx Family Pinout
 title: F207I(C-E-F-G)(H-T)_F217I(E-G)(H-T) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -151,4 +152,4 @@ has_children: false
 | PF_10 | ADC3 | 8 | D90/A23 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

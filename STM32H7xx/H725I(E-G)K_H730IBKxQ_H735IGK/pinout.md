@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H725I(E-G)K_H730IBKxQ_H735IGK Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -180,4 +181,4 @@ has_children: false
 | PH_5 | ADC3 | 16 | D117/A31 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

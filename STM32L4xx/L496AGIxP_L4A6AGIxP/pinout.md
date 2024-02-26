@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L496AGIxP_L4A6AGIxP Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -148,4 +149,4 @@ has_children: false
 | PF_10 | ADC3 | 13 | D86/A19 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

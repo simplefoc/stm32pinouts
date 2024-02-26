@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F7xx Family Pinout
 title: F765B(G-I)T_F765N(G-I)H_F767B(G-I)T_F767N(G-I)H_F777BIT_F777NIH Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -151,4 +152,4 @@ has_children: false
 | PF_10 | ADC3 | 8 | D90/A23 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

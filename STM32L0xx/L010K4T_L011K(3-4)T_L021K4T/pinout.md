@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L010K4T_L011K(3-4)T_L021K4T Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -48,4 +49,4 @@ has_children: false
 | PB_1 | ADC1 | 9 | D17/A9 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

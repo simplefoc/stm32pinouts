@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F1xx Family Pinout
 title: F103T(4-6)U Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -69,4 +70,4 @@ has_children: false
 | PB_1_ALT1 | ADC2 | 9 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

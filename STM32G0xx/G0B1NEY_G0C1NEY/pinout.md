@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G0B1NEY_G0C1NEY Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -95,4 +96,4 @@ has_children: false
 | PC_5 | ADC1 | 18 | D33/A15 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

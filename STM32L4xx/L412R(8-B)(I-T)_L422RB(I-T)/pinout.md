@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L412R(8-B)(I-T)_L422RB(I-T) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -76,4 +77,4 @@ has_children: false
 | PC_5_ALT1 | ADC2 | 14 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

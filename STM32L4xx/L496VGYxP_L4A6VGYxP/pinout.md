@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L496VGYxP_L4A6VGYxP Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -127,4 +128,4 @@ has_children: false
 | PC_4_ALT1 | ADC2 | 13 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H562I(G-I)(K-T) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -167,4 +168,4 @@ has_children: false
 | PF_14 | ADC2 | 6 | D94/A19 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L072R(B-Z)T_L073R(B-Z)T_L083R(B-Z)T Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -63,4 +64,4 @@ has_children: false
 | PC_5 | ADC1 | 15 | D12/A12 | D37/A15 | PC_5 | ADC1 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

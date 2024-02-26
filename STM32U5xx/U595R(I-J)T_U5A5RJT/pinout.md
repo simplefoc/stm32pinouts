@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U595R(I-J)T_U5A5RJT Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -124,4 +125,4 @@ has_children: false
 | PC_5_ALT2 | ADC4 | 23 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

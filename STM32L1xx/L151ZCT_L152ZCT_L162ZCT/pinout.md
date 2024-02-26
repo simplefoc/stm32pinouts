@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L1xx Family Pinout
 title: L151ZCT_L152ZCT_L162ZCT Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -115,4 +116,4 @@ has_children: false
 | PG_4 | ADC1 | 12 | D100/A39 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

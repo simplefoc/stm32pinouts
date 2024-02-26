@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G0B1K(B-C-E)(T-U)xN_G0C1K(C-E)(T-U)xN Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -70,4 +71,4 @@ has_children: false
 | PB_1 | ADC1 | 9 | D16/A9 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

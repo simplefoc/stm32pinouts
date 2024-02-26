@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32WBxx Family Pinout
 title: WB1MMCH Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -40,4 +41,4 @@ has_children: false
 | PA_9 | ADC1 | 4 | D9/A9 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

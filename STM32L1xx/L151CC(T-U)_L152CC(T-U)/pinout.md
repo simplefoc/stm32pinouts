@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L1xx Family Pinout
 title: L151CC(T-U)_L152CC(T-U) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -65,4 +66,4 @@ has_children: false
 | PB_15 | ADC1 | 21 | D31/A13 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

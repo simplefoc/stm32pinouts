@@ -2,6 +2,7 @@
 layout: home
 title: STM32 Family Pinout
 has_children: true
+has_toc: false
 ---
 
 # STM32 Family Pinout
@@ -9,8 +10,8 @@ has_children: true
 This page contains a list of pinout information for each subfamily of STM32 variants.
 
 <ul>
-<details>
-<summary><a href='STM32C0xx/index'>STM32C0xx</a></summary>
+<li><details>
+<summary><a href='STM32C0xx/'>STM32C0xx</a></summary>
 <ul>
 <li><a href='STM32C0xx\C011D6Y_C011F(4-6)(P-U)_C031F(4-6)P/pinout'>C011D6Y_C011F(4-6)(P-U)_C031F(4-6)P</a>
 <li><a href='STM32C0xx\C011J(4-6)M/pinout'>C011J(4-6)M</a>
@@ -20,8 +21,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32F0xx/index'>STM32F0xx</a></summary>
+<li><details>
+<summary><a href='STM32F0xx/'>STM32F0xx</a></summary>
 <ul>
 <li><a href='STM32F0xx\F030C6T/pinout'>F030C6T</a>
 <li><a href='STM32F0xx\F030C8T/pinout'>F030C8T</a>
@@ -85,8 +86,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32F1xx/index'>STM32F1xx</a></summary>
+<li><details>
+<summary><a href='STM32F1xx/'>STM32F1xx</a></summary>
 <ul>
 <li><a href='STM32F1xx\F100C(4-6)T/pinout'>F100C(4-6)T</a>
 <li><a href='STM32F1xx\F100C(8-B)T/pinout'>F100C(8-B)T</a>
@@ -139,8 +140,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32F2xx/index'>STM32F2xx</a></summary>
+<li><details>
+<summary><a href='STM32F2xx/'>STM32F2xx</a></summary>
 <ul>
 <li><a href='STM32F2xx\F205RE(T-Y)_F205R(B-C-F)T_F205RG(E-T-Y)_F215R(E-G)T/pinout'>F205RE(T-Y)_F205R(B-C-F)T_F205RG(E-T-Y)_F215R(E-G)T</a>
 <li><a href='STM32F2xx\F205V(B-C-E-F-G)T_F215V(E-G)T/pinout'>F205V(B-C-E-F-G)T_F215V(E-G)T</a>
@@ -151,8 +152,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32F3xx/index'>STM32F3xx</a></summary>
+<li><details>
+<summary><a href='STM32F3xx/'>STM32F3xx</a></summary>
 <ul>
 <li><a href='STM32F3xx\F301C6T_F301C8(T-Y)/pinout'>F301C6T_F301C8(T-Y)</a>
 <li><a href='STM32F3xx\F301K(6-8)T/pinout'>F301K(6-8)T</a>
@@ -197,8 +198,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32F4xx/index'>STM32F4xx</a></summary>
+<li><details>
+<summary><a href='STM32F4xx/'>STM32F4xx</a></summary>
 <ul>
 <li><a href='STM32F4xx\F401CC(F-U-Y)_F401C(B-D-E)(U-Y)/pinout'>F401CC(F-U-Y)_F401C(B-D-E)(U-Y)</a>
 <li><a href='STM32F4xx\F401R(B-C-D-E)T/pinout'>F401R(B-C-D-E)T</a>
@@ -247,8 +248,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32F7xx/index'>STM32F7xx</a></summary>
+<li><details>
+<summary><a href='STM32F7xx/'>STM32F7xx</a></summary>
 <ul>
 <li><a href='STM32F7xx\F722I(C-E)(K-T)_F732IE(K-T)/pinout'>F722I(C-E)(K-T)_F732IE(K-T)</a>
 <li><a href='STM32F7xx\F722R(C-E)T_F730R8T_F732RET/pinout'>F722R(C-E)T_F730R8T_F732RET</a>
@@ -271,8 +272,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32G0xx/index'>STM32G0xx</a></summary>
+<li><details>
+<summary><a href='STM32G0xx/'>STM32G0xx</a></summary>
 <ul>
 <li><a href='STM32G0xx\G030C(6-8)T/pinout'>G030C(6-8)T</a>
 <li><a href='STM32G0xx\G030F6P/pinout'>G030F6P</a>
@@ -316,8 +317,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32G4xx/index'>STM32G4xx</a></summary>
+<li><details>
+<summary><a href='STM32G4xx/'>STM32G4xx</a></summary>
 <ul>
 <li><a href='STM32G4xx\G431C(6-8-B)T_G441CBT/pinout'>G431C(6-8-B)T_G441CBT</a>
 <li><a href='STM32G4xx\G431C(6-8-B)U_G441CBU/pinout'>G431C(6-8-B)U_G441CBU</a>
@@ -350,8 +351,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32H5xx/index'>STM32H5xx</a></summary>
+<li><details>
+<summary><a href='STM32H5xx/'>STM32H5xx</a></summary>
 <ul>
 <li><a href='STM32H5xx\H503CB(T-U)/pinout'>H503CB(T-U)</a>
 <li><a href='STM32H5xx\H503EBY/pinout'>H503EBY</a>
@@ -378,8 +379,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32H7xx/index'>STM32H7xx</a></summary>
+<li><details>
+<summary><a href='STM32H7xx/'>STM32H7xx</a></summary>
 <ul>
 <li><a href='STM32H7xx\H723V(E-G)(H-T)_H730VB(H-T)_H733VG(H-T)/pinout'>H723V(E-G)(H-T)_H730VB(H-T)_H733VG(H-T)</a>
 <li><a href='STM32H7xx\H723Z(E-G)I_H730ZBI_H733ZGI/pinout'>H723Z(E-G)I_H730ZBI_H733ZGI</a>
@@ -420,8 +421,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32L0xx/index'>STM32L0xx</a></summary>
+<li><details>
+<summary><a href='STM32L0xx/'>STM32L0xx</a></summary>
 <ul>
 <li><a href='STM32L0xx\L010C6T/pinout'>L010C6T</a>
 <li><a href='STM32L0xx\L010F4P_L011F(3-4)P_L021F4P/pinout'>L010F4P_L011F(3-4)P_L021F4P</a>
@@ -470,8 +471,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32L1xx/index'>STM32L1xx</a></summary>
+<li><details>
+<summary><a href='STM32L1xx/'>STM32L1xx</a></summary>
 <ul>
 <li><a href='STM32L1xx\L100C6Ux(A)_L151C(6-8-B)(T-U)x(A)_L152C(6-8-B)(T-U)x(A)/pinout'>L100C6Ux(A)_L151C(6-8-B)(T-U)x(A)_L152C(6-8-B)(T-U)x(A)</a>
 <li><a href='STM32L1xx\L100R(8-B)Tx(A)_L151R(6-8-B)Tx(A)_L152R(6-8-B)Tx(A)/pinout'>L100R(8-B)Tx(A)_L151R(6-8-B)Tx(A)_L152R(6-8-B)Tx(A)</a>
@@ -494,8 +495,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32L4xx/index'>STM32L4xx</a></summary>
+<li><details>
+<summary><a href='STM32L4xx/'>STM32L4xx</a></summary>
 <ul>
 <li><a href='STM32L4xx\L412C(8-B)(T-U)_L422CB(T-U)/pinout'>L412C(8-B)(T-U)_L422CB(T-U)</a>
 <li><a href='STM32L4xx\L412CB(T-U)xP/pinout'>L412CB(T-U)xP</a>
@@ -577,8 +578,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32L5xx/index'>STM32L5xx</a></summary>
+<li><details>
+<summary><a href='STM32L5xx/'>STM32L5xx</a></summary>
 <ul>
 <li><a href='STM32L5xx\L552C(C-E)(T-U)_L562CE(T-U)/pinout'>L552C(C-E)(T-U)_L562CE(T-U)</a>
 <li><a href='STM32L5xx\L552CE(T-U)xP_L562CE(T-U)xP/pinout'>L552CE(T-U)xP_L562CE(T-U)xP</a>
@@ -597,8 +598,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32MP1xx/index'>STM32MP1xx</a></summary>
+<li><details>
+<summary><a href='STM32MP1xx/'>STM32MP1xx</a></summary>
 <ul>
 <li><a href='STM32MP1xx\MP151AA(B-D)_MP151CA(B-D)_MP151DA(B-D)_MP151FA(B-D)/pinout'>MP151AA(B-D)_MP151CA(B-D)_MP151DA(B-D)_MP151FA(B-D)</a>
 <li><a href='STM32MP1xx\MP151AAA_MP151CAA_MP151DAA_MP151FAA/pinout'>MP151AAA_MP151CAA_MP151DAA_MP151FAA</a>
@@ -609,8 +610,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32U5xx/index'>STM32U5xx</a></summary>
+<li><details>
+<summary><a href='STM32U5xx/'>STM32U5xx</a></summary>
 <ul>
 <li><a href='STM32U5xx\U535C(B-C-E)(T-U)xQ_U545CE(T-U)xQ/pinout'>U535C(B-C-E)(T-U)xQ_U545CE(T-U)xQ</a>
 <li><a href='STM32U5xx\U535C(B-C-E)(T-U)_U545CE(T-U)/pinout'>U535C(B-C-E)(T-U)_U545CE(T-U)</a>
@@ -661,8 +662,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32WBxx/index'>STM32WBxx</a></summary>
+<li><details>
+<summary><a href='STM32WBxx/'>STM32WBxx</a></summary>
 <ul>
 <li><a href='STM32WBxx\WB10CCU/pinout'>WB10CCU</a>
 <li><a href='STM32WBxx\WB15CCU/pinout'>WB15CCU</a>
@@ -677,8 +678,8 @@ This page contains a list of pinout information for each subfamily of STM32 vari
 </ul>
 </details>
 </li>
-<details>
-<summary><a href='STM32WLxx/index'>STM32WLxx</a></summary>
+<li><details>
+<summary><a href='STM32WLxx/'>STM32WLxx</a></summary>
 <ul>
 <li><a href='STM32WLxx\WL54CCU_WL55CCU_WLE4C(8-B-C)U_WLE5C(8-B-C)U/pinout'>WL54CCU_WL55CCU_WLE4C(8-B-C)U_WLE5C(8-B-C)U</a>
 <li><a href='STM32WLxx\WL54JCI_WL55JCI_WLE4J(8-B-C)I_WLE5J(8-B-C)I/pinout'>WL54JCI_WL55JCI_WLE4J(8-B-C)I_WLE5J(8-B-C)I</a>

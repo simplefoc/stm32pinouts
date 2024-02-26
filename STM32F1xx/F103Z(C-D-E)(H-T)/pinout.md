@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F1xx Family Pinout
 title: F103Z(C-D-E)(H-T) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -131,4 +132,4 @@ has_children: false
 | PF_10 | ADC3 | 8 | D90/A20 | D90 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

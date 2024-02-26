@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F302R(D-E)T Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -103,4 +104,4 @@ has_children: false
 | PC_5 | ADC2 | 11 | D37/A15 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

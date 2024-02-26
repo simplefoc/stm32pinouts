@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32C0xx Family Pinout
 title: C011J(4-6)M Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -57,4 +58,4 @@ has_children: false
 | PA_14 | ADC1 | 14 | D7/A7 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

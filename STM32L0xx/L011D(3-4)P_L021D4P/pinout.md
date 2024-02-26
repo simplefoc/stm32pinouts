@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L011D(3-4)P_L021D4P Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -27,4 +28,4 @@ has_children: false
 | PA_7 | ADC1 | 7 | D3/A3 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

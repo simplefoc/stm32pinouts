@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F358CCT Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -99,4 +100,4 @@ has_children: false
 | PB_15 | ADC4 | 5 | D30/A13 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

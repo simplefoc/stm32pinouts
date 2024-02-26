@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32MP1xx Family Pinout
 title: MP151AA(B-D)_MP151CA(B-D)_MP151DA(B-D)_MP151FA(B-D) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -125,4 +126,4 @@ has_children: false
 | PF_11 | ADC1 | 2 | D85/A16 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

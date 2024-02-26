@@ -117,7 +117,7 @@ for family_folder in os.listdir(families_path):
         os.makedirs(family_output_folder, exist_ok=True)
         
         # Create a main page for the family
-        family_main_page = os.path.join(family_output_folder, "index")
+        family_main_page = os.path.join(family_output_folder, "index.md")
         
         with open(family_main_page, 'w') as f:
             # Writing Jekyll front matter
@@ -126,6 +126,7 @@ for family_folder in os.listdir(families_path):
             f.write('parent: STM32 Family Pinout\n')
             f.write(f'title: {family_folder} Family Pinout\n')
             f.write('has_children: true\n')
+            f.write('has_toc: false\n')
             f.write('---\n\n')
             
             f.write(f"# {family_folder} Family\n\n")
@@ -148,7 +149,7 @@ for family_folder in os.listdir(families_path):
                 os.makedirs(os.path.join(subfamily), exist_ok=True)
             
             # Add link to the main page
-            f.write("\n\n[Back to Main Page](../index)")
+            f.write("\n\n[Back to Main Page](../)")
         
         # Process each subfamily
         for subfamily_folder in os.listdir(family_path):
@@ -158,7 +159,7 @@ for family_folder in os.listdir(families_path):
                 timer_info, adc_info, _, variant_names = process_family(subfamily_path, family_output_folder)
                 
                 # Create a markdown file for the subfamily
-                subfamily_markdown_file = os.path.join(family_output_folder, sanitize_filename(subfamily_folder), "pinout")
+                subfamily_markdown_file = os.path.join(family_output_folder, sanitize_filename(subfamily_folder), "pinout.md")
                 with open(subfamily_markdown_file, 'w') as f:
                     # Writing Jekyll front matter
                     f.write('---\n')
@@ -166,6 +167,7 @@ for family_folder in os.listdir(families_path):
                     f.write('grand_parent: STM32 Family Pinout\n')
                     f.write(f'parent: {family_folder} Family Pinout\n') 
                     f.write(f'title: {subfamily_folder} Pinout\n')
+                    f.write('has_toc: false\n')
                     f.write('has_children: false\n')
                     f.write('---\n\n')
                                         
@@ -198,7 +200,7 @@ for family_folder in os.listdir(families_path):
                         f.write('\n\n')
                     
                     # Add link to the main page
-                    f.write("[Back to Main Page](../../index)")
+                    f.write("[Back to Main Page](../../)")
                     
                     # Append subfamily markdown file to family section
                     main_page_content.append(f"- [{subfamily_folder}]({family_output_folder}/{sanitize_filename(subfamily_folder)}/pinout)")
@@ -210,6 +212,7 @@ with open('index.md', 'w') as main_page_file:
     main_page_file.write('layout: home\n')
     main_page_file.write('title: STM32 Family Pinout\n')
     main_page_file.write('has_children: true\n')
+    main_page_file.write('has_toc: false\n')
     main_page_file.write('---\n\n')
 
     main_page_file.write('# STM32 Family Pinout\n\n')
@@ -221,7 +224,7 @@ with open('index.md', 'w') as main_page_file:
         if os.path.isdir(family_path):
             
             main_page_file.write("<li><details>\n")
-            main_page_file.write(f"<summary><a href='{sanitize_filename(family_folder)}/index'>{family_folder}</a></summary>\n")
+            main_page_file.write(f"<summary><a href='{sanitize_filename(family_folder)}/'>{family_folder}</a></summary>\n")
             main_page_file.write("<ul>\n")
 
             

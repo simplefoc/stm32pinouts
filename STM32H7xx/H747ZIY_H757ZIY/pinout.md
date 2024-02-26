@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H747ZIY_H757ZIY Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -127,4 +128,4 @@ has_children: false
 | PF_14 | ADC2 | 6 | D87/A20 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

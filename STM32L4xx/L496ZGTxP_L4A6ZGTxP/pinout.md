@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L496ZGTxP_L4A6ZGTxP Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -146,4 +147,4 @@ has_children: false
 | PF_10 | ADC3 | 13 | D89/A23 | D90 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

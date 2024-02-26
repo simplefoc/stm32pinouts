@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H747B(G-I)T_H757BIT Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -155,4 +156,4 @@ has_children: false
 | PH_5 | ADC3 | 16 | D115/A29 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

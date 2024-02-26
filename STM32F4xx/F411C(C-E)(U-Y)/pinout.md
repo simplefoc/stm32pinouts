@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F411C(C-E)(U-Y) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -64,4 +65,4 @@ has_children: false
 | PB_1 | ADC1 | 9 | Digital pin 17 | D17/A9 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

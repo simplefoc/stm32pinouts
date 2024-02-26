@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F7xx Family Pinout
 title: F723I(C-E)(K-T)_F730I8K_F733IE(K-T) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -145,4 +146,4 @@ has_children: false
 | PF_10 | ADC3 | 8 | D90/A23 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

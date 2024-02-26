@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H563IIKxQ_H573IIKxQ Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -166,4 +167,4 @@ has_children: false
 | PF_14 | ADC2 | 6 | D94/A19 | D118/A9 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

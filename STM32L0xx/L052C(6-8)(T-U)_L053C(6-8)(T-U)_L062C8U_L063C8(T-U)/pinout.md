@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L0xx Family Pinout
 title: L052C(6-8)(T-U)_L053C(6-8)(T-U)_L062C8U_L063C8(T-U) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -45,4 +46,4 @@ has_children: false
 | PB_1 | ADC1 | 9 | D17/A9 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

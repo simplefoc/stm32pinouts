@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F1xx Family Pinout
 title: F107VBT_F107VC(H-T) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -111,4 +112,4 @@ has_children: false
 | PC_5_ALT1 | ADC2 | 15 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

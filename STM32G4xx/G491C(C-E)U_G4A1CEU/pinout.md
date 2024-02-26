@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G491C(C-E)U_G4A1CEU Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -116,4 +117,4 @@ has_children: false
 | PF_1 | ADC2 | 10 | D40/A18 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

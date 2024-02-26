@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F0xx Family Pinout
 title: F038F6P Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -40,4 +41,4 @@ has_children: false
 | PA_7 | ADC1 | 7 | D7/A7 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

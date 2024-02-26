@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G0xx Family Pinout
 title: G071G(8-B)UxN_G081GBUxN Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -61,4 +62,4 @@ has_children: false
 | PB_0 | ADC1 | 8 | D13/A8 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

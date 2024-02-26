@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L5xx Family Pinout
 title: L552Z(C-E)TxQ_L562ZETxQ Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -130,4 +131,4 @@ has_children: false
 | PC_3_ALT1 | ADC2 | 4 | - | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

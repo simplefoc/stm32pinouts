@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G491RC(I-T)_G491RE(I-T-Y)_G4A1RE(I-T-Y) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -139,4 +140,4 @@ has_children: false
 | PF_1 | ADC2 | 10 | D50/A23 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

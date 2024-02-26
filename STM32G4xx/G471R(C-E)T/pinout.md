@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G471R(C-E)T Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -139,4 +140,4 @@ has_children: false
 | PF_1 | ADC2 | 10 | D50/A23 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

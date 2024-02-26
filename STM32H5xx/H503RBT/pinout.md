@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H503RBT Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -99,4 +100,4 @@ has_children: false
 | PC_5 | ADC1 | 8 | D35/A15 | D37/A8 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

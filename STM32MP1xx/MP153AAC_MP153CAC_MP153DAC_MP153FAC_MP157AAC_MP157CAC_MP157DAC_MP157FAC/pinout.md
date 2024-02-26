@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32MP1xx Family Pinout
 title: MP153AAC_MP153CAC_MP153DAC_MP153FAC_MP157AAC_MP157CAC_MP157DAC_MP157FAC Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -145,4 +146,4 @@ has_children: false
 | PF_14 | ADC2 | 6 | D96/A21 | A0 - D19, D47 - ADC2_INP6 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

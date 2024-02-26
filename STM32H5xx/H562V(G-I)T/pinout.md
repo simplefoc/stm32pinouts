@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H5xx Family Pinout
 title: H562V(G-I)T Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -130,4 +131,4 @@ has_children: false
 | PC_5_ALT1 | ADC2 | 8 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

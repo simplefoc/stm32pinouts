@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F4xx Family Pinout
 title: F401R(B-C-D-E)T Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -74,4 +75,4 @@ has_children: false
 | PC_5 | ADC1 | 15 | Digital pin 36 | D36/A15 | D35 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

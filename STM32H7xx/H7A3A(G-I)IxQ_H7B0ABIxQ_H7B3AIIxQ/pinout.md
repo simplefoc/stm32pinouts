@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32H7xx Family Pinout
 title: H7A3A(G-I)IxQ_H7B0ABIxQ_H7B3AIIxQ Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -141,4 +142,4 @@ has_children: false
 | PF_14 | ADC2 | 6 | D94/A19 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32MP1xx Family Pinout
 title: MP153AA(B-D)_MP153CA(B-D)_MP153DA(B-D)_MP153FA(B-D)_MP157AA(B-D)_MP157CA(B-D)_MP157DA(B-D)_MP157FA(B-D) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -125,4 +126,4 @@ has_children: false
 | PF_11 | ADC1 | 2 | D85/A16 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L4R5V(G-I)T_L4R7VIT_L4S5VIT_L4S7VIT Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -110,4 +111,4 @@ has_children: false
 | PC_5 | ADC1 | 14 | D69/A0 | D37/A15 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

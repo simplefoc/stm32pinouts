@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32U5xx Family Pinout
 title: U535R(B-C-E)IxQ_U545REIxQ Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -100,4 +101,4 @@ has_children: false
 | PC_3_ALT1 | ADC4 | 4 | - |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

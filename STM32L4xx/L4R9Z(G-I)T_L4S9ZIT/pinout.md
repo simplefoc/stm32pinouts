@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L4xx Family Pinout
 title: L4R9Z(G-I)T_L4S9ZIT Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -115,4 +116,4 @@ has_children: false
 | PC_4 | ADC1 | 13 | D36/A14 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

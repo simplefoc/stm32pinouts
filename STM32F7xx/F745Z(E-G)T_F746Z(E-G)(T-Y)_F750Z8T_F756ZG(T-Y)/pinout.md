@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F7xx Family Pinout
 title: F745Z(E-G)T_F746Z(E-G)(T-Y)_F750Z8T_F756ZG(T-Y) Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -138,4 +139,4 @@ has_children: false
 | PF_10 | ADC3 | 8 | D43 | D90/A23 | D83/A5 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

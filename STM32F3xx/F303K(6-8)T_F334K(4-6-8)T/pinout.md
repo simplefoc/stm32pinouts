@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32F3xx Family Pinout
 title: F303K(6-8)T_F334K(4-6-8)T Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -66,4 +67,4 @@ has_children: false
 | PB_1 | ADC1 | 12 | D17/A9 | D6/A9 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

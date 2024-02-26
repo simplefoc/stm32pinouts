@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32G4xx Family Pinout
 title: G431V(6-8-B)T_G441VBT Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -159,4 +160,4 @@ has_children: false
 | PF_1 | ADC2 | 10 | D81/A22 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)

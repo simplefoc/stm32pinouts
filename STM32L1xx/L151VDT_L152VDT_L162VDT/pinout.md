@@ -3,6 +3,7 @@ layout: default
 grand_parent: STM32 Family Pinout
 parent: STM32L1xx Family Pinout
 title: L151VDT_L152VDT_L162VDT Pinout
+has_toc: false
 has_children: false
 ---
 
@@ -95,4 +96,4 @@ has_children: false
 | PE_10 | ADC1 | 25 | D74/A23 |
 
 
-[Back to Main Page](../../index)
+[Back to Main Page](../../)
