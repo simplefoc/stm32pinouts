@@ -1,0 +1,42 @@
+---
+layout: default
+title: STM32G4xx Family Pinout
+---
+
+[Home](../index.md) / STM32G4xx
+
+# STM32G4xx Family
+
+## Subfamilies
+
+- [G431C(6-8-B)T_G441CBT](G431C(6-8-B)T_G441CBT/pinout.md) (generic)
+- [G431C(6-8-B)U_G441CBU](G431C(6-8-B)U_G441CBU/pinout.md) (B_G431B_ESC1, generic)
+- [G431CBY_G441CBY](G431CBY_G441CBY/pinout.md) (generic)
+- [G431K(6-8-B)(T-U)_G441KB(T-U)](G431K(6-8-B)(T-U)_G441KB(T-U)/pinout.md) (generic, NUCLEO_G431KB)
+- [G431M(6-8-B)T_G441MBT](G431M(6-8-B)T_G441MBT/pinout.md) (generic)
+- [G431R(6-8-B)(I-T)_G441RB(I-T)](G431R(6-8-B)(I-T)_G441RB(I-T)/pinout.md) (generic, NUCLEO_G431RB)
+- [G431V(6-8-B)T_G441VBT](G431V(6-8-B)T_G441VBT/pinout.md) (generic)
+- [G471C(C-E)T](G471C(C-E)T/pinout.md) (generic)
+- [G471C(C-E)U](G471C(C-E)U/pinout.md) (generic)
+- [G471M(C-E)T](G471M(C-E)T/pinout.md) (generic)
+- [G471MEY](G471MEY/pinout.md) (generic)
+- [G471Q(C-E)T](G471Q(C-E)T/pinout.md) (generic)
+- [G471R(C-E)T](G471R(C-E)T/pinout.md) (generic)
+- [G471V(C-E)(H-I-T)](G471V(C-E)(H-I-T)/pinout.md) (generic)
+- [G473C(B-C-E)T_G474C(B-C-E)T_G483CET_G484CET](G473C(B-C-E)T_G474C(B-C-E)T_G483CET_G484CET/pinout.md) (generic)
+- [G473C(B-C-E)U_G474C(B-C-E)U_G483CEU_G484CEU](G473C(B-C-E)U_G474C(B-C-E)U_G483CEU_G484CEU/pinout.md) (generic)
+- [G473M(B-C-E)T_G474M(B-C-E)T_G483MET_G484MET](G473M(B-C-E)T_G474M(B-C-E)T_G483MET_G484MET/pinout.md) (generic)
+- [G473MEY_G474MEY_G483MEY_G484MEY](G473MEY_G474MEY_G483MEY_G484MEY/pinout.md) (generic)
+- [G473P(B-C-E)I_G474P(B-C-E)I_G483PEI_G484PEI](G473P(B-C-E)I_G474P(B-C-E)I_G483PEI_G484PEI/pinout.md) (generic)
+- [G473Q(B-C-E)T_G474Q(B-C-E)T_G483QET_G484QET](G473Q(B-C-E)T_G474Q(B-C-E)T_G483QET_G484QET/pinout.md) (generic)
+- [G473R(B-C-E)T_G474R(B-C-E)T_G483RET_G484RET](G473R(B-C-E)T_G474R(B-C-E)T_G483RET_G484RET/pinout.md) (generic, NUCLEO_G474RE)
+- [G473V(B-C-E)(H-T)_G474V(B-C-E)(H-T)_G483VE(H-T)_G484VE(H-T)](G473V(B-C-E)(H-T)_G474V(B-C-E)(H-T)_G483VE(H-T)_G484VE(H-T)/pinout.md) (generic)
+- [G491C(C-E)T_G4A1CET](G491C(C-E)T_G4A1CET/pinout.md) (generic)
+- [G491C(C-E)U_G4A1CEU](G491C(C-E)U_G4A1CEU/pinout.md) (generic)
+- [G491K(C-E)U_G4A1KEU](G491K(C-E)U_G4A1KEU/pinout.md) (generic)
+- [G491M(C-E)(S-T)_G4A1ME(S-T)](G491M(C-E)(S-T)_G4A1ME(S-T)/pinout.md) (generic)
+- [G491RC(I-T)_G491RE(I-T-Y)_G4A1RE(I-T-Y)](G491RC(I-T)_G491RE(I-T-Y)_G4A1RE(I-T-Y)/pinout.md) (generic)
+- [G491V(C-E)T_G4A1VET](G491V(C-E)T_G4A1VET/pinout.md) (generic)
+
+
+[Back to Main Page](../index.md)

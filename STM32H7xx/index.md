@@ -1,0 +1,50 @@
+---
+layout: default
+title: STM32H7xx Family Pinout
+---
+
+[Home](../index.md) / STM32H7xx
+
+# STM32H7xx Family
+
+## Subfamilies
+
+- [H723V(E-G)(H-T)_H730VB(H-T)_H733VG(H-T)](H723V(E-G)(H-T)_H730VB(H-T)_H733VG(H-T)/pinout.md) (generic)
+- [H723Z(E-G)I_H730ZBI_H733ZGI](H723Z(E-G)I_H730ZBI_H733ZGI/pinout.md) (generic)
+- [H723Z(E-G)T_H730ZBT_H733ZGT](H723Z(E-G)T_H730ZBT_H733ZGT/pinout.md) (generic, NUCLEO_H723ZG)
+- [H725A(E-G)I_H730ABIxQ_H735AGI](H725A(E-G)I_H730ABIxQ_H735AGI/pinout.md) (generic)
+- [H725I(E-G)K_H730IBKxQ_H735IGK](H725I(E-G)K_H730IBKxQ_H735IGK/pinout.md) (generic)
+- [H725I(E-G)T_H730IBTxQ_H735IGT](H725I(E-G)T_H730IBTxQ_H735IGT/pinout.md) (generic)
+- [H725R(E-G)V_H735RGV](H725R(E-G)V_H735RGV/pinout.md) (generic)
+- [H725V(E-G)H_H735VGH](H725V(E-G)H_H735VGH/pinout.md) (generic)
+- [H725V(E-G)T_H735VGT](H725V(E-G)T_H735VGT/pinout.md) (generic)
+- [H725VGY_H735VGY](H725VGY_H735VGY/pinout.md) (generic)
+- [H725Z(E-G)T_H735ZGT](H725Z(E-G)T_H735ZGT/pinout.md) (generic)
+- [H742A(G-I)I_H743A(G-I)I_H753AII](H742A(G-I)I_H743A(G-I)I_H753AII/pinout.md) (generic)
+- [H742B(G-I)T_H743B(G-I)T_H753BIT](H742B(G-I)T_H743B(G-I)T_H753BIT/pinout.md) (generic)
+- [H742I(G-I)(K-T)_H743I(G-I)(K-T)_H750IB(K-T)_H753II(K-T)](H742I(G-I)(K-T)_H743I(G-I)(K-T)_H750IB(K-T)_H753II(K-T)/pinout.md) (DAISY_PATCH_SM, DAISY_PETAL_SM, DAISY_SEED, generic)
+- [H742V(G-I)(H-T)_H743V(G-I)(H-T)_H750VBT_H753VI(H-T)](H742V(G-I)(H-T)_H743V(G-I)(H-T)_H750VBT_H753VI(H-T)/pinout.md) (DevEBoxH7xx, generic, WeActMiniH7xx)
+- [H742X(G-I)H_H743X(G-I)H_H745X(G-I)H_H747X(G-I)H_H750XBH_H753XIH_H755XIH_H757XIH](H742X(G-I)H_H743X(G-I)H_H745X(G-I)H_H747X(G-I)H_H750XBH_H753XIH_H755XIH_H757XIH/pinout.md) (generic, STM32H747I_DISCO)
+- [H742Z(G-I)T_H743Z(G-I)T_H747A(G-I)I_H747I(G-I)T_H750ZBT_H753ZIT_H757AII_H757IIT](H742Z(G-I)T_H743Z(G-I)T_H747A(G-I)I_H747I(G-I)T_H750ZBT_H753ZIT_H757AII_H757IIT/pinout.md) (generic, NUCLEO_H743ZI, NUCLEO_H753ZI)
+- [H745B(G-I)T_H755BIT](H745B(G-I)T_H755BIT/pinout.md) (generic)
+- [H745I(G-I)K_H755IIK](H745I(G-I)K_H755IIK/pinout.md) (generic)
+- [H745I(G-I)T_H755IIT](H745I(G-I)T_H755IIT/pinout.md) (generic)
+- [H745Z(G-I)T_H755ZIT](H745Z(G-I)T_H755ZIT/pinout.md) (generic)
+- [H747B(G-I)T_H757BIT](H747B(G-I)T_H757BIT/pinout.md) (generic)
+- [H747ZIY_H757ZIY](H747ZIY_H757ZIY/pinout.md) (generic)
+- [H7A3A(G-I)IxQ_H7B0ABIxQ_H7B3AIIxQ](H7A3A(G-I)IxQ_H7B0ABIxQ_H7B3AIIxQ/pinout.md) (generic)
+- [H7A3I(G-I)(K-T)_H7B0IBT_H7B3II(K-T)](H7A3I(G-I)(K-T)_H7B0IBT_H7B3II(K-T)/pinout.md) (generic)
+- [H7A3I(G-I)KxQ_H7B0IBKxQ_H7B3IIKxQ](H7A3I(G-I)KxQ_H7B0IBKxQ_H7B3IIKxQ/pinout.md) (generic)
+- [H7A3I(G-I)TxQ_H7B3IITxQ](H7A3I(G-I)TxQ_H7B3IITxQ/pinout.md) (generic)
+- [H7A3L(G-I)HxQ_H7B3LIHxQ](H7A3L(G-I)HxQ_H7B3LIHxQ/pinout.md) (generic)
+- [H7A3N(G-I)H_H7B3NIH](H7A3N(G-I)H_H7B3NIH/pinout.md) (generic)
+- [H7A3QIYxQ_H7B3QIYxQ](H7A3QIYxQ_H7B3QIYxQ/pinout.md) (generic)
+- [H7A3R(G-I)T_H7B0RBT_H7B3RIT](H7A3R(G-I)T_H7B0RBT_H7B3RIT/pinout.md) (generic)
+- [H7A3V(G-I)(H-T)_H7B0VBT_H7B3VI(H-T)](H7A3V(G-I)(H-T)_H7B0VBT_H7B3VI(H-T)/pinout.md) (generic)
+- [H7A3V(G-I)HxQ_H7B3VIHxQ](H7A3V(G-I)HxQ_H7B3VIHxQ/pinout.md) (generic)
+- [H7A3V(G-I)TxQ_H7B3VITxQ](H7A3V(G-I)TxQ_H7B3VITxQ/pinout.md) (generic)
+- [H7A3Z(G-I)TxQ_H7B3ZITxQ](H7A3Z(G-I)TxQ_H7B3ZITxQ/pinout.md) (generic)
+- [H7A3Z(G-I)T_H7B0ZBT_H7B3ZIT](H7A3Z(G-I)T_H7B0ZBT_H7B3ZIT/pinout.md) (generic)
+
+
+[Back to Main Page](../index.md)
