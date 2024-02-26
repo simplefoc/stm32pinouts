@@ -232,13 +232,24 @@ with open('index.md', 'w') as main_page_file:
     main_page_file.write('# STM32 Family Pinout\n\n')
     main_page_file.write('This page contains a list of pinout information for each subfamily of STM32 variants.\n\n')
 
-    main_page_file.write("This page is automatically generated from the [STM32duino](https://github.com/stm32duino/Arduino_Core_STM32) repository.  This webpage has been generated using the its version is [2.7.1](https://github.com/stm32duino/Arduino_Core_STM32/releases).")
+    main_page_file.write("This page is automatically generated from the [STM32duino](https://github.com/stm32duino/Arduino_Core_STM32) repository. This webpage has been generated using version [2.7.1](https://github.com/stm32duino/Arduino_Core_STM32/releases).")
 
     main_page_file.write('\n\n')
-    main_page_file.write("This webpavge is inteded to be used for quick search of available PWM timers and ADC channels for a given STM32 family and subfamily. ")
+    main_page_file.write("This page is inteded to be used for quick search of available PWM timers and ADC channels for a given STM32 family and subfamily. ")
     main_page_file.write("The information is extracted from the `PeripheralPins.c` file of the STM32duino repository. ")
     main_page_file.write("The `variant_*.cpp` files are used to provide the variant names for each subfamily. ")
     main_page_file.write("The `variant_generic.cpp` file is used as a generic variant for each subfamily. ")
 
     main_page_file.write('\n\n')
+
+    main_page_file.write('## How to Use It\n\n')
+    main_page_file.write('1. Navigate to the STM32 family and subfamily of interest using the provided links.\n')
+    main_page_file.write('2. Click on the subfamily link to view the pinout information for that specific STM32 variant.\n')
+    main_page_file.write('3. Use the provided information to identify available PWM timers and ADC channels for your project.\n')
+
+    main_page_file.write('\n\n')
     
+    main_page_file.write('## Contributing\n\n')
+    main_page_file.write('This page is automatically generated using a Python script. ')
+    main_page_file.write('The script is available in the [GitHub repository](https://github.com/simplefoc/mcupinouts). ')
+    main_page_file.write('Please feel free to contribute to the script if you find any issues or have any suggestions. ')
