@@ -31,6 +31,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: clone stm32duino
+        run: git clone https://github.com/stm32duino/Arduino_Core_STM32.git
+      - name: generate pinout
+        run: |
+          python3 parser.py
+          rm -r Arduino_Core_STM32
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
