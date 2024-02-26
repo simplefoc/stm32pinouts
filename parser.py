@@ -111,6 +111,7 @@ main_page_content = []
 # Processing each family folder
 for family_folder in os.listdir(families_path):
     family_path = os.path.join(families_path, family_folder)
+    print(family_path)
     if os.path.isdir(family_path):
         # Create a folder for each family to store subfamily markdown files
         family_output_folder = sanitize_filename(family_folder)
