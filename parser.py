@@ -166,7 +166,7 @@ for family_folder in os.listdir(families_path):
                 variant_names = [f"[{name}]({url_to_repo}/{family_folder}/{subfamily_folder}/variant_{name}.cpp)" for name in variant_names]
 
                 # rename the generic variant to the subfamily name
-                variant_names = [name.replace("generic", "Generic label") for name in variant_names]
+                variant_names = [name.replace("[generic]", "[Generic label]") for name in variant_names]
 
 
                 # Create a markdown file for the subfamily
