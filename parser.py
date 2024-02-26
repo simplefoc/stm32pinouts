@@ -161,8 +161,13 @@ for family_folder in os.listdir(families_path):
             if os.path.isdir(subfamily_path):
                 # Generate pin tables for the subfamily
                 timer_info, adc_info, _, variant_names = process_family(subfamily_path, family_output_folder)
+
+                # replace the variant names with the link to the variant file
+                variant_names = [f"[{name}]({url_to_repo}/{family_folder}/{subfamily_folder}/variant_{name}.cpp)" for name in variant_names]
+
                 # rename the generic variant to the subfamily name
-                variant_names = [name if name != "generic" else "Generic label" for name in variant_names]
+                variant_names = [name.replace("generic", "Generic label") for name in variant_names]
+
 
                 # Create a markdown file for the subfamily
                 subfamily_markdown_file = os.path.join(family_output_folder, sanitize_filename(subfamily_folder), "pinout.md")
