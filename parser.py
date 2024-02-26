@@ -151,6 +151,7 @@ for family_folder in os.listdir(families_path):
             
             # Add link to the main page
             f.write("\n\n[Back to Main Page](../)")
+            print(family_main_page)
         
         # Process each subfamily
         for subfamily_folder in os.listdir(family_path):

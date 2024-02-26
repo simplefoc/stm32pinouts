@@ -15,7 +15,7 @@ jobs:
       - name: clone stm32duino
         run: git clone https://github.com/stm32duino/Arduino_Core_STM32.git
       - name: generate pinout
-        run: 
+        run: |
           python3 parser.py
           tree
       - name: Setup Ruby
