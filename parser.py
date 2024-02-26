@@ -226,27 +226,19 @@ with open('index.md', 'w') as main_page_file:
     main_page_file.write('layout: home\n')
     main_page_file.write('title: STM32 Family Pinout\n')
     main_page_file.write('has_children: true\n')
-    main_page_file.write('has_toc: false\n')
+    main_page_file.write('has_toc: true\n')
     main_page_file.write('---\n\n')
 
     main_page_file.write('# STM32 Family Pinout\n\n')
     main_page_file.write('This page contains a list of pinout information for each subfamily of STM32 variants.\n\n')
 
-    for family_folder in os.listdir(families_path):
-        family_path = os.path.join(families_path, family_folder)
-        if os.path.isdir(family_path):
-            
-            main_page_file.write("<p><details>\n")
-            main_page_file.write(f"<summary><a href='{sanitize_filename(family_folder)}/'>{family_folder}</a></summary>\n")
-            main_page_file.write("<ul>\n")
+    main_page_file.write("This page is automatically generated from the [STM32duino](https://github.com/stm32duino/Arduino_Core_STM32) repository.  This webpage has been generated using the its version is [2.7.1](https://github.com/stm32duino/Arduino_Core_STM32/releases).")
 
-            
-            _, _, subfamilies, _ = process_family(family_path, family_folder)
-            
-            for subfamily in subfamilies:
-                main_page_file.write(f"<li><a href='{subfamily}/pinout'>{os.path.basename(subfamily)}</a></li>\n")
-            
-            main_page_file.write("</ul>\n")
-            main_page_file.write("</details>\n")
-            main_page_file.write("</p>\n")
+    main_page_file.write('\n\n')
+    main_page_file.write("This webpavge is inteded to be used for quick search of available PWM timers and ADC channels for a given STM32 family and subfamily. ")
+    main_page_file.write("The information is extracted from the `PeripheralPins.c` file of the STM32duino repository. ")
+    main_page_file.write("The `variant_*.cpp` files are used to provide the variant names for each subfamily. ")
+    main_page_file.write("The `variant_generic.cpp` file is used as a generic variant for each subfamily. ")
 
+    main_page_file.write('\n\n')
+    
