@@ -47,8 +47,6 @@ def generate_timer_pin_table(file_path, variant_files):
                     row.append(variant_pins[pin])
                 else:
                     row.append("-")
-        # else:
-        #     print("No variant pins found", variant_files, variant_pins,file_path)
         return table_rows
 
 def generate_adc_pin_table(file_path, variant_files):
@@ -90,6 +88,8 @@ def process_family(family_path, family_name):
     variant_names = []
     for root, dirs, files in os.walk(family_path):
         variant_files = [os.path.join(root, f) for f in files if f.startswith("variant_") and f.endswith(".cpp")]
+        # set the generic variant first
+        variant_files = sorted(variant_files, key=lambda x: "generic" not in x)
         variant_names = [os.path.basename(f).replace("variant_", "").replace(".cpp", "") for f in variant_files]
         for file in files:
             if file.endswith('PeripheralPins.c'):
@@ -111,7 +111,6 @@ main_page_content = []
 # Processing each family folder
 for family_folder in os.listdir(families_path):
     family_path = os.path.join(families_path, family_folder)
-    print(family_path)
     if os.path.isdir(family_path):
         # Create a folder for each family to store subfamily markdown files
         family_output_folder = sanitize_filename(family_folder)
@@ -140,18 +139,20 @@ for family_folder in os.listdir(families_path):
                 subfamily_path = os.path.join(family_path, os.path.basename(subfamily))
                 # print(subfamily_path)
                 _, _, _, variant_names = process_family(subfamily_path, family_output_folder)
+                # remove generic from the variant names
+                variant_names = [name for name in variant_names if name != "generic"]
                 variant_names = ", ".join(variant_names)
                 # use only the subfamily name using os package
                 subfamily1 = os.path.basename(subfamily)
                 f.write(f"- [{subfamily1}]({subfamily1}/pinout) ")
-                if variant_names: f.write(f"({variant_names})")
+                # add variant names if available
+                if variant_names: f.write(f"({variant_names.replace('generic', '')})")
                 f.write("\n")
                 # Create subfamily folder
                 os.makedirs(os.path.join(subfamily), exist_ok=True)
             
             # Add link to the main page
             f.write("\n\n[Back to Main Page](../)")
-            print(family_main_page)
         
         # Process each subfamily
         for subfamily_folder in os.listdir(family_path):
@@ -159,7 +160,9 @@ for family_folder in os.listdir(families_path):
             if os.path.isdir(subfamily_path):
                 # Generate pin tables for the subfamily
                 timer_info, adc_info, _, variant_names = process_family(subfamily_path, family_output_folder)
-                
+                # rename the generic variant to the subfamily name
+                variant_names = [name if name != "generic" else "Generic label" for name in variant_names]
+
                 # Create a markdown file for the subfamily
                 subfamily_markdown_file = os.path.join(family_output_folder, sanitize_filename(subfamily_folder), "pinout.md")
                 with open(subfamily_markdown_file, 'w') as f:
@@ -219,13 +222,12 @@ with open('index.md', 'w') as main_page_file:
 
     main_page_file.write('# STM32 Family Pinout\n\n')
     main_page_file.write('This page contains a list of pinout information for each subfamily of STM32 variants.\n\n')
-    main_page_file.write("<ul>\n")
 
     for family_folder in os.listdir(families_path):
         family_path = os.path.join(families_path, family_folder)
         if os.path.isdir(family_path):
             
-            main_page_file.write("<li><details>\n")
+            main_page_file.write("<p><details>\n")
             main_page_file.write(f"<summary><a href='{sanitize_filename(family_folder)}/'>{family_folder}</a></summary>\n")
             main_page_file.write("<ul>\n")
 
@@ -237,6 +239,5 @@ with open('index.md', 'w') as main_page_file:
             
             main_page_file.write("</ul>\n")
             main_page_file.write("</details>\n")
-            main_page_file.write("</li>\n")
+            main_page_file.write("</p>\n")
 
-    main_page_file.write("</ul>\n")
