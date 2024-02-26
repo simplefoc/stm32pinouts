@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F4xx Family Pinout
 title: F411R(C-E)T Pinout
 ---
 

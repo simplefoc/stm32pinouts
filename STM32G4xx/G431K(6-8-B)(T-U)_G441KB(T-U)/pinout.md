@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32G4xx Family Pinout
 title: G431K(6-8-B)(T-U)_G441KB(T-U) Pinout
 ---
 

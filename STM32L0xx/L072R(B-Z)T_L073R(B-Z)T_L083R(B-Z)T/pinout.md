@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L0xx Family Pinout
 title: L072R(B-Z)T_L073R(B-Z)T_L083R(B-Z)T Pinout
 ---
 

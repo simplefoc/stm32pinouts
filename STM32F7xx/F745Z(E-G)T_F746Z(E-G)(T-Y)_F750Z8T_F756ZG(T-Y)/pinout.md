@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F7xx Family Pinout
 title: F745Z(E-G)T_F746Z(E-G)(T-Y)_F750Z8T_F756ZG(T-Y) Pinout
 ---
 

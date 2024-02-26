@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32H5xx Family Pinout
 title: H563R(G-I)V_H573RIV Pinout
 ---
 

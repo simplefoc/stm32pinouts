@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32G0xx Family Pinout
 title: G0B1K(B-C-E)(T-U)_G0C1K(C-E)(T-U) Pinout
 ---
 

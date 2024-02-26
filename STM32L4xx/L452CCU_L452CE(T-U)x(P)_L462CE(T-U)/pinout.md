@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L4xx Family Pinout
 title: L452CCU_L452CE(T-U)x(P)_L462CE(T-U) Pinout
 ---
 

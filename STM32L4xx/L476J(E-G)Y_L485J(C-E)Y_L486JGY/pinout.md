@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L4xx Family Pinout
 title: L476J(E-G)Y_L485J(C-E)Y_L486JGY Pinout
 ---
 

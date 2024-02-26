@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32G0xx Family Pinout
 title: G071EBY_G081EBY Pinout
 ---
 

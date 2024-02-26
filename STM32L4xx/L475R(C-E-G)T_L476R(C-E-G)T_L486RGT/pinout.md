@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L4xx Family Pinout
 title: L475R(C-E-G)T_L476R(C-E-G)T_L486RGT Pinout
 ---
 

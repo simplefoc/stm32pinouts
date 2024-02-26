@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32U5xx Family Pinout
 title: U575A(G-I)IxQ_U585AIIxQ Pinout
 ---
 

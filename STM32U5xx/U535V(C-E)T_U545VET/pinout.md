@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32U5xx Family Pinout
 title: U535V(C-E)T_U545VET Pinout
 ---
 

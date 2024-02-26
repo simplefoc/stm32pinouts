@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32WLxx Family Pinout
 title: WL5MOCH Pinout
 ---
 

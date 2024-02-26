@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L4xx Family Pinout
 title: L4P5Z(G-E)T_L4Q5ZGT Pinout
 ---
 

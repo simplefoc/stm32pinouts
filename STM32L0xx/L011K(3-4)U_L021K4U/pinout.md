@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L0xx Family Pinout
 title: L011K(3-4)U_L021K4U Pinout
 ---
 

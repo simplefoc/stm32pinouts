@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L4xx Family Pinout
 title: L476ZET_L476ZG(J-T)_L486ZGT Pinout
 ---
 

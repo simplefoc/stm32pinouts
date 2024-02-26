@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L0xx Family Pinout
 title: L071K(B-Z)T_L081KZT Pinout
 ---
 

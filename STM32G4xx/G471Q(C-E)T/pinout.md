@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32G4xx Family Pinout
 title: G471Q(C-E)T Pinout
 ---
 

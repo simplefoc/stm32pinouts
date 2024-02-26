@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32U5xx Family Pinout
 title: U535R(B-C-E)IxQ_U545REIxQ Pinout
 ---
 

@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32WLxx Family Pinout
 title: WL54JCI_WL55JCI_WLE4J(8-B-C)I_WLE5J(8-B-C)I Pinout
 ---
 

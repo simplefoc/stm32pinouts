@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: STM32 Family Pinout
 title: STM32MP1xx Family Pinout
 ---
 

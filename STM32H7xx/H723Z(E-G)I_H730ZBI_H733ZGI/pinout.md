@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32H7xx Family Pinout
 title: H723Z(E-G)I_H730ZBI_H733ZGI Pinout
 ---
 

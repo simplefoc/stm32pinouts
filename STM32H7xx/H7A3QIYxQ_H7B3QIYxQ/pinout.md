@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32H7xx Family Pinout
 title: H7A3QIYxQ_H7B3QIYxQ Pinout
 ---
 

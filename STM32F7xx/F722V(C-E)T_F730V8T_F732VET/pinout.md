@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F7xx Family Pinout
 title: F722V(C-E)T_F730V8T_F732VET Pinout
 ---
 

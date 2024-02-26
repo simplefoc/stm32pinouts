@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L1xx Family Pinout
 title: L151VD(T-Y)xX_L151VE(T-Y)_L152VDTxX_L152VE(T-Y)_L162VDYxX_L162VE(T-Y) Pinout
 ---
 

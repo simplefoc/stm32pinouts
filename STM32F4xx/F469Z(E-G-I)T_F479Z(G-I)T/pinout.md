@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F4xx Family Pinout
 title: F469Z(E-G-I)T_F479Z(G-I)T Pinout
 ---
 

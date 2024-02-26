@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F3xx Family Pinout
 title: F301C6T_F301C8(T-Y) Pinout
 ---
 

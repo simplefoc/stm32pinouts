@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L1xx Family Pinout
 title: L151R(6-8-B)Hx(A)_L152R(6-8-B)Hx(A) Pinout
 ---
 

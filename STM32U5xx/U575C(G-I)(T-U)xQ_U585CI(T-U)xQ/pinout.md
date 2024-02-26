@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32U5xx Family Pinout
 title: U575C(G-I)(T-U)xQ_U585CI(T-U)xQ Pinout
 ---
 

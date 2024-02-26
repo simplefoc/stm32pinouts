@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F4xx Family Pinout
 title: F412C(E-G)U Pinout
 ---
 

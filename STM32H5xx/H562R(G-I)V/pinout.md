@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32H5xx Family Pinout
 title: H562R(G-I)V Pinout
 ---
 

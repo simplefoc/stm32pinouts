@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32C0xx Family Pinout
 title: C011D6Y_C011F(4-6)(P-U)_C031F(4-6)P Pinout
 ---
 

@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32G0xx Family Pinout
 title: G051K(6-8)(T-U)_G061K(6-8)(T-U) Pinout
 ---
 

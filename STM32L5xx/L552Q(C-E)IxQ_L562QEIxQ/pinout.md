@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L5xx Family Pinout
 title: L552Q(C-E)IxQ_L562QEIxQ Pinout
 ---
 

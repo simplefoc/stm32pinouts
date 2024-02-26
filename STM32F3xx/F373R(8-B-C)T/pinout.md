@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F3xx Family Pinout
 title: F373R(8-B-C)T Pinout
 ---
 

@@ -141,6 +141,7 @@ for family_folder in os.listdir(families_path):
             # Writing Jekyll front matter
             f.write('---\n')
             f.write('layout: default\n')
+            f.write('parent: STM32 Family Pinout\n')
             f.write(f'title: {family_folder} Family Pinout\n')
             f.write('---\n\n')
             
@@ -183,6 +184,8 @@ for family_folder in os.listdir(families_path):
                     # Writing Jekyll front matter
                     f.write('---\n')
                     f.write('layout: default\n')
+                    f.write('grand_parent: STM32 Family Pinout\n')
+                    f.write(f'parent: {family_folder} Family Pinout\n') 
                     f.write(f'title: {subfamily_folder} Pinout\n')
                     f.write('---\n\n')
                     
@@ -231,10 +234,10 @@ with open('index.md', 'w') as main_page_file:
     # Writing Jekyll front matter
     main_page_file.write('---\n')
     main_page_file.write('layout: home\n')
-    main_page_file.write('title: STM32 Subfamily Pinout\n')
+    main_page_file.write('title: STM32 Family Pinout\n')
     main_page_file.write('---\n\n')
 
-    main_page_file.write('# STM32 Subfamily Pinout\n\n')
+    main_page_file.write('# STM32 Family Pinout\n\n')
     main_page_file.write('This page contains a list of pinout information for each subfamily of STM32 variants.\n\n')
     main_page_file.write("<ul>\n")
 

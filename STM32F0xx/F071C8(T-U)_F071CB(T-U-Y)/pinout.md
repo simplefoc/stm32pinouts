@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F0xx Family Pinout
 title: F071C8(T-U)_F071CB(T-U-Y) Pinout
 ---
 

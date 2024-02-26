@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32G4xx Family Pinout
 title: G491RC(I-T)_G491RE(I-T-Y)_G4A1RE(I-T-Y) Pinout
 ---
 

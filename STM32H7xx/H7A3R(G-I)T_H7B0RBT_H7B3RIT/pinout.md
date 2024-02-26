@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32H7xx Family Pinout
 title: H7A3R(G-I)T_H7B0RBT_H7B3RIT Pinout
 ---
 

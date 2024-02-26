@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L4xx Family Pinout
 title: L433C(B-C)Y_L443CC(F-Y) Pinout
 ---
 

@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32U5xx Family Pinout
 title: U595Z(I-J)T_U5A5ZJT Pinout
 ---
 

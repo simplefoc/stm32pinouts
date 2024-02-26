@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32H7xx Family Pinout
 title: H742B(G-I)T_H743B(G-I)T_H753BIT Pinout
 ---
 

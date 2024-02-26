@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F1xx Family Pinout
 title: F103R(8-B)H Pinout
 ---
 

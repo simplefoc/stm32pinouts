@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F7xx Family Pinout
 title: F723Z(C-E)(I-T)_F730Z8T_F733ZE(I-T) Pinout
 ---
 

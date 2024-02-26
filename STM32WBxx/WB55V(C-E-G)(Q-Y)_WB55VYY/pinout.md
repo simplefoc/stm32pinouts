@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32WBxx Family Pinout
 title: WB55V(C-E-G)(Q-Y)_WB55VYY Pinout
 ---
 

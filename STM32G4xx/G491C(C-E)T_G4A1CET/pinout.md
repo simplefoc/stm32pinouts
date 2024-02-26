@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32G4xx Family Pinout
 title: G491C(C-E)T_G4A1CET Pinout
 ---
 

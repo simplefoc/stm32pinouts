@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L4xx Family Pinout
 title: L412C(8-B)(T-U)_L422CB(T-U) Pinout
 ---
 

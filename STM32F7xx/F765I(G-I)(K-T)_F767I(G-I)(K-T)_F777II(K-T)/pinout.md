@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F7xx Family Pinout
 title: F765I(G-I)(K-T)_F767I(G-I)(K-T)_F777II(K-T) Pinout
 ---
 

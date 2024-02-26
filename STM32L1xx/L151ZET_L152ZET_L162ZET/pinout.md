@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L1xx Family Pinout
 title: L151ZET_L152ZET_L162ZET Pinout
 ---
 

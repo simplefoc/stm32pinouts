@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32WBxx Family Pinout
 title: WB30CEUxA_WB50CGU Pinout
 ---
 

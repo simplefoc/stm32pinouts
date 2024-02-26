@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32G4xx Family Pinout
 title: G473M(B-C-E)T_G474M(B-C-E)T_G483MET_G484MET Pinout
 ---
 

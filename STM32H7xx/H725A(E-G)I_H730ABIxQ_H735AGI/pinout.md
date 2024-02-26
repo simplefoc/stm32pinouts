@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32H7xx Family Pinout
 title: H725A(E-G)I_H730ABIxQ_H735AGI Pinout
 ---
 

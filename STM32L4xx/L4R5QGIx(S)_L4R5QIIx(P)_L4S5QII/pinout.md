@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L4xx Family Pinout
 title: L4R5QGIx(S)_L4R5QIIx(P)_L4S5QII Pinout
 ---
 

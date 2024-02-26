@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32G0xx Family Pinout
 title: G031F(4-6-8)P_G031Y8Y_G041F(6-8)P_G041Y8Y Pinout
 ---
 

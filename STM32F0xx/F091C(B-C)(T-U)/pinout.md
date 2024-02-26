@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F0xx Family Pinout
 title: F091C(B-C)(T-U) Pinout
 ---
 

@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F3xx Family Pinout
 title: F303K(6-8)T_F334K(4-6-8)T Pinout
 ---
 

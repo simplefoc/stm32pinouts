@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32MP1xx Family Pinout
 title: MP151AAC_MP151CAC_MP151DAC_MP151FAC Pinout
 ---
 

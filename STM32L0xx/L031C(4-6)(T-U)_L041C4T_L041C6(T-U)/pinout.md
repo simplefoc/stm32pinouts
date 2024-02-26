@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L0xx Family Pinout
 title: L031C(4-6)(T-U)_L041C4T_L041C6(T-U) Pinout
 ---
 

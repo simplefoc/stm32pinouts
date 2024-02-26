@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32WBxx Family Pinout
 title: WB35C(C-E)UxA_WB55C(C-E-G)U Pinout
 ---
 

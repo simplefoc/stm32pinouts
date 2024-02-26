@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F7xx Family Pinout
 title: F768AIY_F769A(G-I)Y_F778AIY_F779AIY Pinout
 ---
 

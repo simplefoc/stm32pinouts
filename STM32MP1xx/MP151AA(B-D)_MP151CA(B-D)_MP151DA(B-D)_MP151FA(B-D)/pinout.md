@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32MP1xx Family Pinout
 title: MP151AA(B-D)_MP151CA(B-D)_MP151DA(B-D)_MP151FA(B-D) Pinout
 ---
 

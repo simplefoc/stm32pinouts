@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F7xx Family Pinout
 title: F769B(G-I)T_F769N(G-I)H_F779BIT_F779NIH Pinout
 ---
 

@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L4xx Family Pinout
 title: L476QEI_L476QGIx(P)_L486QGI Pinout
 ---
 

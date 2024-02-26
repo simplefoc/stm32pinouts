@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32G4xx Family Pinout
 title: G473MEY_G474MEY_G483MEY_G484MEY Pinout
 ---
 

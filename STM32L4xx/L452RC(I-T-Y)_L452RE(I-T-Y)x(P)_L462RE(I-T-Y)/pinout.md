@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L4xx Family Pinout
 title: L452RC(I-T-Y)_L452RE(I-T-Y)x(P)_L462RE(I-T-Y) Pinout
 ---
 

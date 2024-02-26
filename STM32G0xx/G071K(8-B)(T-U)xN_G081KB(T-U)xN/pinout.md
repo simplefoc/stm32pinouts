@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32G0xx Family Pinout
 title: G071K(8-B)(T-U)xN_G081KB(T-U)xN Pinout
 ---
 

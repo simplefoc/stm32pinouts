@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32G4xx Family Pinout
 title: G431R(6-8-B)(I-T)_G441RB(I-T) Pinout
 ---
 

@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F2xx Family Pinout
 title: F207I(C-E-F-G)(H-T)_F217I(E-G)(H-T) Pinout
 ---
 

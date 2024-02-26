@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32F1xx Family Pinout
 title: F103C8T_F103CB(T-U) Pinout
 ---
 

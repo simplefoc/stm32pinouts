@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32L5xx Family Pinout
 title: L552QEIxP_L562QEIxP Pinout
 ---
 

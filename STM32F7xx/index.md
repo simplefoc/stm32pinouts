@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: STM32 Family Pinout
 title: STM32F7xx Family Pinout
 ---
 

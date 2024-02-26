@@ -1,5 +1,7 @@
 ---
 layout: default
+grand_parent: STM32 Family Pinout
+parent: STM32U5xx Family Pinout
 title: U599N(I-J)HxQ_U5A9NJHxQ Pinout
 ---
 
