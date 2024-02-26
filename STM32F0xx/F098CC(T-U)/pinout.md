@@ -6,8 +6,6 @@ title: F098CC(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F098CC(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

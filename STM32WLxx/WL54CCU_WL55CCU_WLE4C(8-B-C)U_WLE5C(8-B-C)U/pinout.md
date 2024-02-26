@@ -6,8 +6,6 @@ title: WL54CCU_WL55CCU_WLE4C(8-B-C)U_WLE5C(8-B-C)U Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32WLxx](../index) / WL54CCU_WL55CCU_WLE4C(8-B-C)U_WLE5C(8-B-C)U
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | GENERIC_NODE_SE_TTI | RAK3172_MODULE |

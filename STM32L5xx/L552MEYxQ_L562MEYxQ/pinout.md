@@ -6,8 +6,6 @@ title: L552MEYxQ_L562MEYxQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L5xx](../index) / L552MEYxQ_L562MEYxQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

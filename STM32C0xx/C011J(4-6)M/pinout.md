@@ -6,8 +6,6 @@ title: C011J(4-6)M Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32C0xx](../index) / C011J(4-6)M
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: F107VBT_F107VC(H-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F107VBT_F107VC(H-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

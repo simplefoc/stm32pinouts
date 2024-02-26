@@ -6,8 +6,6 @@ title: F101R(F-G)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F101R(F-G)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

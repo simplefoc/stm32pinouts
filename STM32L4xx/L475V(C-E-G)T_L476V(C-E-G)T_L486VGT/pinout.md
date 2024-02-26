@@ -6,8 +6,6 @@ title: L475V(C-E-G)T_L476V(C-E-G)T_L486VGT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L475V(C-E-G)T_L476V(C-E-G)T_L486VGT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | B_L475E_IOT01A | generic |

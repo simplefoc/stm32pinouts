@@ -6,8 +6,6 @@ title: G0B0KET Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G0B0KET
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: L151VD(T-Y)xX_L151VE(T-Y)_L152VDTxX_L152VE(T-Y)_L162VDYxX_L162VE(T-Y) Pin
 has_children: false
 ---
 
-[Home](../../index) / [STM32L1xx](../index) / L151VD(T-Y)xX_L151VE(T-Y)_L152VDTxX_L152VE(T-Y)_L162VDYxX_L162VE(T-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

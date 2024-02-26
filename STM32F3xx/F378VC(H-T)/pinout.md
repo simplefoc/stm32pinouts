@@ -6,8 +6,6 @@ title: F378VC(H-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F378VC(H-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: F429B(E-G-I)T_F429N(E-G-I)H_F439B(G-I)T_F439N(G-I)H Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F429B(E-G-I)T_F429N(E-G-I)H_F439B(G-I)T_F439N(G-I)H
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

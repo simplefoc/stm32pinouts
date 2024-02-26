@@ -6,8 +6,6 @@ title: L071V(8-B-Z)(I-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L071V(8-B-Z)(I-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

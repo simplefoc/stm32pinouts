@@ -6,8 +6,6 @@ title: G473Q(B-C-E)T_G474Q(B-C-E)T_G483QET_G484QET Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G4xx](../index) / G473Q(B-C-E)T_G474Q(B-C-E)T_G483QET_G484QET
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

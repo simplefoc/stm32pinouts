@@ -6,8 +6,6 @@ title: L496A(E-G)I_L4A6AGI Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L496A(E-G)I_L4A6AGI
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

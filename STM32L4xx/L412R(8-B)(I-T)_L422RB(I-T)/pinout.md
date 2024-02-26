@@ -6,8 +6,6 @@ title: L412R(8-B)(I-T)_L422RB(I-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L412R(8-B)(I-T)_L422RB(I-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

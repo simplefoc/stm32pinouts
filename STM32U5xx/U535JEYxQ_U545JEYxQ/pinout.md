@@ -6,8 +6,6 @@ title: U535JEYxQ_U545JEYxQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32U5xx](../index) / U535JEYxQ_U545JEYxQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

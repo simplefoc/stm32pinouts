@@ -6,8 +6,6 @@ title: WL54JCI_WL55JCI_WLE4J(8-B-C)I_WLE5J(8-B-C)I Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32WLxx](../index) / WL54JCI_WL55JCI_WLE4J(8-B-C)I_WLE5J(8-B-C)I
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | LORA_E5_MINI | NUCLEO_WL55JC1 |

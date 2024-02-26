@@ -6,8 +6,6 @@ title: L476ZET_L476ZG(J-T)_L486ZGT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L476ZET_L476ZG(J-T)_L486ZGT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

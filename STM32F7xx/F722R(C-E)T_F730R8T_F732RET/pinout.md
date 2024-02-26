@@ -6,8 +6,6 @@ title: F722R(C-E)T_F730R8T_F732RET Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F722R(C-E)T_F730R8T_F732RET
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

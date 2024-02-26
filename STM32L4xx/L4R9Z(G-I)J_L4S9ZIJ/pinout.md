@@ -6,8 +6,6 @@ title: L4R9Z(G-I)J_L4S9ZIJ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4R9Z(G-I)J_L4S9ZIJ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | STEVAL_MKSBOX1V1 |

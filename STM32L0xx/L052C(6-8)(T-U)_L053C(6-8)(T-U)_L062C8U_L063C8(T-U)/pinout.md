@@ -6,8 +6,6 @@ title: L052C(6-8)(T-U)_L053C(6-8)(T-U)_L062C8U_L063C8(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L052C(6-8)(T-U)_L053C(6-8)(T-U)_L062C8U_L063C8(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

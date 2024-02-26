@@ -6,8 +6,6 @@ title: L431C(B-C)Y Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L431C(B-C)Y
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

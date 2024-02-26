@@ -6,8 +6,6 @@ title: F401CC(F-U-Y)_F401C(B-D-E)(U-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F401CC(F-U-Y)_F401C(B-D-E)(U-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | BLACKPILL_F401Cx | generic | PYBSTICK26_LITE |

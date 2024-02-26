@@ -6,8 +6,6 @@ title: F302C(B-C)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F302C(B-C)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

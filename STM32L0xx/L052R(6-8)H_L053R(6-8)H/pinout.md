@@ -6,8 +6,6 @@ title: L052R(6-8)H_L053R(6-8)H Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L052R(6-8)H_L053R(6-8)H
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

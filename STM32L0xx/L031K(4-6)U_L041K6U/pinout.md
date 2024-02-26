@@ -6,8 +6,6 @@ title: L031K(4-6)U_L041K6U Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L031K(4-6)U_L041K6U
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

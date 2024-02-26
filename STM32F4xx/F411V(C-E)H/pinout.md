@@ -6,8 +6,6 @@ title: F411V(C-E)H Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F411V(C-E)H
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

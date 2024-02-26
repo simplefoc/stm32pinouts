@@ -6,8 +6,6 @@ title: WB15CCUxE Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32WBxx](../index) / WB15CCUxE
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

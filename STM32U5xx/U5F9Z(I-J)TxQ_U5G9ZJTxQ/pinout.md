@@ -6,8 +6,6 @@ title: U5F9Z(I-J)TxQ_U5G9ZJTxQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32U5xx](../index) / U5F9Z(I-J)TxQ_U5G9ZJTxQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

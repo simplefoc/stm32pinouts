@@ -6,8 +6,6 @@ title: F328C8T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F328C8T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

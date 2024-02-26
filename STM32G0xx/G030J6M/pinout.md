@@ -6,8 +6,6 @@ title: G030J6M Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G030J6M
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: L4P5VGTxP_L4Q5VGTxP Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4P5VGTxP_L4Q5VGTxP
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

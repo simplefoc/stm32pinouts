@@ -6,8 +6,6 @@ title: L552RETxP_L562RETxP Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L5xx](../index) / L552RETxP_L562RETxP
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

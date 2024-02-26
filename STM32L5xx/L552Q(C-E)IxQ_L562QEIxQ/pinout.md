@@ -6,8 +6,6 @@ title: L552Q(C-E)IxQ_L562QEIxQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L5xx](../index) / L552Q(C-E)IxQ_L562QEIxQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

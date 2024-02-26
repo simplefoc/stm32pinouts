@@ -6,8 +6,6 @@ title: F303VEY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F303VEY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: U5F7V(I-J)T_U5G7VJT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32U5xx](../index) / U5F7V(I-J)T_U5G7VJT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

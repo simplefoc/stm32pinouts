@@ -6,8 +6,6 @@ title: F411R(C-E)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F411R(C-E)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_F411RE | PYBSTICK26_STD |

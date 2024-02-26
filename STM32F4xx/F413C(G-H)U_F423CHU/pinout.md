@@ -6,8 +6,6 @@ title: F413C(G-H)U_F423CHU Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F413C(G-H)U_F423CHU
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

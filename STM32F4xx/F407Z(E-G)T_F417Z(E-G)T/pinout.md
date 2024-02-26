@@ -6,8 +6,6 @@ title: F407Z(E-G)T_F417Z(E-G)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F407Z(E-G)T_F417Z(E-G)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | BLACK_F407ZX | generic | VCCGND_F407ZG_MINI |

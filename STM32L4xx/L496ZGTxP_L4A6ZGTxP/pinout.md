@@ -6,8 +6,6 @@ title: L496ZGTxP_L4A6ZGTxP Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L496ZGTxP_L4A6ZGTxP
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_L496ZG_P |

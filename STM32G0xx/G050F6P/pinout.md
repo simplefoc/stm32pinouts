@@ -6,8 +6,6 @@ title: G050F6P Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G050F6P
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

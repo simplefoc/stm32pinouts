@@ -6,8 +6,6 @@ title: L151VC(H-T)x(A)_L152VC(H-T)x(A)_L162VC(H-T)x(A) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L1xx](../index) / L151VC(H-T)x(A)_L152VC(H-T)x(A)_L162VC(H-T)x(A)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

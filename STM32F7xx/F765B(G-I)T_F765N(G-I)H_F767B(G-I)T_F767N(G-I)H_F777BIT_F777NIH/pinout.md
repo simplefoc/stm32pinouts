@@ -6,8 +6,6 @@ title: F765B(G-I)T_F765N(G-I)H_F767B(G-I)T_F767N(G-I)H_F777BIT_F777NIH Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F765B(G-I)T_F765N(G-I)H_F767B(G-I)T_F767N(G-I)H_F777BIT_F777NIH
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: G071K(6-8-B)(T-U)_G081KB(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G071K(6-8-B)(T-U)_G081KB(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

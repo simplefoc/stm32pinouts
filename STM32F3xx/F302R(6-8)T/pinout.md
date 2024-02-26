@@ -6,8 +6,6 @@ title: F302R(6-8)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F302R(6-8)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_F302R8 |

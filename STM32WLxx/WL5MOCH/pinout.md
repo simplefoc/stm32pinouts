@@ -6,8 +6,6 @@ title: WL5MOCH Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32WLxx](../index) / WL5MOCH
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: F091RBT_F091RC(H-T-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F091RBT_F091RC(H-T-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_F091RC |

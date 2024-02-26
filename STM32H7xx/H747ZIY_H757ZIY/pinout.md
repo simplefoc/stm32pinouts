@@ -6,8 +6,6 @@ title: H747ZIY_H757ZIY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H747ZIY_H757ZIY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: L4R9V(G-I)T_L4S9VIT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4R9V(G-I)T_L4S9VIT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

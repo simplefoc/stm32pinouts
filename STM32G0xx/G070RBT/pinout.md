@@ -6,8 +6,6 @@ title: G070RBT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G070RBT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_G070RB |

@@ -6,8 +6,6 @@ title: F398VET Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F398VET
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

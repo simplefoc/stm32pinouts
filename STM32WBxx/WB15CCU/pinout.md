@@ -6,8 +6,6 @@ title: WB15CCU Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32WBxx](../index) / WB15CCU
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_WB15CC |

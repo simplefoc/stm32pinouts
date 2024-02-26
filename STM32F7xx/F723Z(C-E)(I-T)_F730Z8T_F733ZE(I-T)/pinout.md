@@ -6,8 +6,6 @@ title: F723Z(C-E)(I-T)_F730Z8T_F733ZE(I-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F723Z(C-E)(I-T)_F730Z8T_F733ZE(I-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

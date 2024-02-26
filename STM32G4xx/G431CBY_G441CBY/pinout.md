@@ -6,8 +6,6 @@ title: G431CBY_G441CBY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G4xx](../index) / G431CBY_G441CBY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

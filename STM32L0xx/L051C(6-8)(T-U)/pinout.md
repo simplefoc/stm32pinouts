@@ -6,8 +6,6 @@ title: L051C(6-8)(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L051C(6-8)(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | RHF76_052 |

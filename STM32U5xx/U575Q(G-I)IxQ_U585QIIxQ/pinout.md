@@ -6,8 +6,6 @@ title: U575Q(G-I)IxQ_U585QIIxQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32U5xx](../index) / U575Q(G-I)IxQ_U585QIIxQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

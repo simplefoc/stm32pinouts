@@ -6,8 +6,6 @@ title: MP153AA(B-D)_MP153CA(B-D)_MP153DA(B-D)_MP153FA(B-D)_MP157AA(B-D)_MP157CA(
 has_children: false
 ---
 
-[Home](../../index) / [STM32MP1xx](../index) / MP153AA(B-D)_MP153CA(B-D)_MP153DA(B-D)_MP153FA(B-D)_MP157AA(B-D)_MP157CA(B-D)_MP157DA(B-D)_MP157FA(B-D)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

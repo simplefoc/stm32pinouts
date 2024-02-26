@@ -6,8 +6,6 @@ title: H742B(G-I)T_H743B(G-I)T_H753BIT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H742B(G-I)T_H743B(G-I)T_H753BIT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

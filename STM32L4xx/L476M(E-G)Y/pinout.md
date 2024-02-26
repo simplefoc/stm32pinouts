@@ -6,8 +6,6 @@ title: L476M(E-G)Y Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L476M(E-G)Y
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

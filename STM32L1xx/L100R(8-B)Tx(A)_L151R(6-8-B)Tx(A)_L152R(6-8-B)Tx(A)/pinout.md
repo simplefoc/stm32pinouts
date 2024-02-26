@@ -6,8 +6,6 @@ title: L100R(8-B)Tx(A)_L151R(6-8-B)Tx(A)_L152R(6-8-B)Tx(A) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L1xx](../index) / L100R(8-B)Tx(A)_L151R(6-8-B)Tx(A)_L152R(6-8-B)Tx(A)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

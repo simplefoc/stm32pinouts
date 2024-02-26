@@ -6,8 +6,6 @@ title: H563IITxQ_H573IITxQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H5xx](../index) / H563IITxQ_H573IITxQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

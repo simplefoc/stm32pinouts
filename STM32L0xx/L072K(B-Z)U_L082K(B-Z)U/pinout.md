@@ -6,8 +6,6 @@ title: L072K(B-Z)U_L082K(B-Z)U Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L072K(B-Z)U_L082K(B-Z)U
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

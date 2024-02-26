@@ -6,8 +6,6 @@ title: H563MIYxQ_H573MIYxQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H5xx](../index) / H563MIYxQ_H573MIYxQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

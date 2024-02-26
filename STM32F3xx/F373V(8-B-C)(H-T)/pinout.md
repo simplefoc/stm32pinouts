@@ -6,8 +6,6 @@ title: F373V(8-B-C)(H-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F373V(8-B-C)(H-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

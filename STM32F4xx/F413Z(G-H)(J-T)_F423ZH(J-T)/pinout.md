@@ -6,8 +6,6 @@ title: F413Z(G-H)(J-T)_F423ZH(J-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F413Z(G-H)(J-T)_F423ZH(J-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | DISCO_F413ZH | generic | NUCLEO_F413ZH |

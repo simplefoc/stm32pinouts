@@ -6,8 +6,6 @@ title: L011D(3-4)P_L021D4P Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L011D(3-4)P_L021D4P
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: F412R(E-G)(T-Y)x(P) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F412R(E-G)(T-Y)x(P)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | PYBSTICK26_PRO |

@@ -6,8 +6,6 @@ title: L451CCU_L451CE(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L451CCU_L451CE(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: L433C(B-C)(T-U)_L443CC(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L433C(B-C)(T-U)_L443CC(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

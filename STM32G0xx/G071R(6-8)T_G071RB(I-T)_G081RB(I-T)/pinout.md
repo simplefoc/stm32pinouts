@@ -6,8 +6,6 @@ title: G071R(6-8)T_G071RB(I-T)_G081RB(I-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G071R(6-8)T_G071RB(I-T)_G081RB(I-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_G071RB |

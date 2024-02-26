@@ -6,8 +6,6 @@ title: L552R(C-E)T_L562RET Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L5xx](../index) / L552R(C-E)T_L562RET
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

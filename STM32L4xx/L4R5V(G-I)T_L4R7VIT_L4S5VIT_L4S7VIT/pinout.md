@@ -6,8 +6,6 @@ title: L4R5V(G-I)T_L4R7VIT_L4S5VIT_L4S7VIT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4R5V(G-I)T_L4R7VIT_L4S5VIT_L4S7VIT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | B_L4S5I_IOT01A | generic |

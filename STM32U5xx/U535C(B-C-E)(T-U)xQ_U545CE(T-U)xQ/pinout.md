@@ -6,8 +6,6 @@ title: U535C(B-C-E)(T-U)xQ_U545CE(T-U)xQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32U5xx](../index) / U535C(B-C-E)(T-U)xQ_U545CE(T-U)xQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

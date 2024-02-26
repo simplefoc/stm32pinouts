@@ -6,8 +6,6 @@ title: G051F6P_G051F8(P-Y)_G061F6P_G061F8(P-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G051F6P_G051F8(P-Y)_G061F6P_G061F8(P-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

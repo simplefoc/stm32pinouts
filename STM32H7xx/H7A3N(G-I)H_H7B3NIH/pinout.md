@@ -6,8 +6,6 @@ title: H7A3N(G-I)H_H7B3NIH Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H7A3N(G-I)H_H7B3NIH
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

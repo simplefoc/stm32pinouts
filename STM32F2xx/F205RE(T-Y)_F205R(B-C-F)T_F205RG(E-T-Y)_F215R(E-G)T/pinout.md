@@ -6,8 +6,6 @@ title: F205RE(T-Y)_F205R(B-C-F)T_F205RG(E-T-Y)_F215R(E-G)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F2xx](../index) / F205RE(T-Y)_F205R(B-C-F)T_F205RG(E-T-Y)_F215R(E-G)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

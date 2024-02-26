@@ -6,8 +6,6 @@ title: L071R(B-Z)H Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L071R(B-Z)H
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

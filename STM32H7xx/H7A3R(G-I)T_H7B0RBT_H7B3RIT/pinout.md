@@ -6,8 +6,6 @@ title: H7A3R(G-I)T_H7B0RBT_H7B3RIT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H7A3R(G-I)T_H7B0RBT_H7B3RIT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

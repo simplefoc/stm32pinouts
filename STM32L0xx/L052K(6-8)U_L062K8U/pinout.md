@@ -6,8 +6,6 @@ title: L052K(6-8)U_L062K8U Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L052K(6-8)U_L062K8U
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

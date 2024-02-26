@@ -6,8 +6,6 @@ title: H725Z(E-G)T_H735ZGT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H725Z(E-G)T_H735ZGT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: WB5MMGH Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32WBxx](../index) / WB5MMGH
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | SFE_MMPB_STM32WB5MMG | STM32WB5MM_DK |

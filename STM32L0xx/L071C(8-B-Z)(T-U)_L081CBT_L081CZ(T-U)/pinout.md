@@ -6,8 +6,6 @@ title: L071C(8-B-Z)(T-U)_L081CBT_L081CZ(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L071C(8-B-Z)(T-U)_L081CBT_L081CZ(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

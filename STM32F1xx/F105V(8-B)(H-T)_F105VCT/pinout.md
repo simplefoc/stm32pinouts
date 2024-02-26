@@ -6,8 +6,6 @@ title: F105V(8-B)(H-T)_F105VCT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F105V(8-B)(H-T)_F105VCT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

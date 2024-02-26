@@ -6,8 +6,6 @@ title: L072CBY_L072CZ(E-Y)_L073CZY_L082CZY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L072CBY_L072CZ(E-Y)_L073CZY_L082CZY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | B_L072Z_LRWAN1 | generic |

@@ -6,8 +6,6 @@ title: MP151AAC_MP151CAC_MP151DAC_MP151FAC Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32MP1xx](../index) / MP151AAC_MP151CAC_MP151DAC_MP151FAC
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

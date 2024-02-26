@@ -6,8 +6,6 @@ title: G431C(6-8-B)U_G441CBU Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G4xx](../index) / G431C(6-8-B)U_G441CBU
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | B_G431B_ESC1 | generic |

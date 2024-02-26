@@ -6,8 +6,6 @@ title: F072V(8-B)(H-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F072V(8-B)(H-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

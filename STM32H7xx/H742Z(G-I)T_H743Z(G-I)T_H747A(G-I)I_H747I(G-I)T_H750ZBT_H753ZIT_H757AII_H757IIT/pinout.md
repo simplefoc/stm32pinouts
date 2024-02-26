@@ -6,8 +6,6 @@ title: H742Z(G-I)T_H743Z(G-I)T_H747A(G-I)I_H747I(G-I)T_H750ZBT_H753ZIT_H757AII_H
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H742Z(G-I)T_H743Z(G-I)T_H747A(G-I)I_H747I(G-I)T_H750ZBT_H753ZIT_H757AII_H757IIT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_H743ZI | NUCLEO_H753ZI |

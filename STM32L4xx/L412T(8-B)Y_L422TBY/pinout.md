@@ -6,8 +6,6 @@ title: L412T(8-B)Y_L422TBY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L412T(8-B)Y_L422TBY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

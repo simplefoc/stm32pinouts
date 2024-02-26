@@ -6,8 +6,6 @@ title: F745Z(E-G)T_F746Z(E-G)(T-Y)_F750Z8T_F756ZG(T-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F745Z(E-G)T_F746Z(E-G)(T-Y)_F750Z8T_F756ZG(T-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | ETHERCAT_DUINO | generic | NUCLEO_F7x6ZG |

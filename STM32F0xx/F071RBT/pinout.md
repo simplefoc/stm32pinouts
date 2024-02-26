@@ -6,8 +6,6 @@ title: F071RBT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F071RBT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

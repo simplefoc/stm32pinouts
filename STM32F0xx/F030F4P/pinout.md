@@ -6,8 +6,6 @@ title: F030F4P Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F030F4P
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | DEMO_F030F4 | generic |

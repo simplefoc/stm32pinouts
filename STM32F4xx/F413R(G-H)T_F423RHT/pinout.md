@@ -6,8 +6,6 @@ title: F413R(G-H)T_F423RHT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F413R(G-H)T_F423RHT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

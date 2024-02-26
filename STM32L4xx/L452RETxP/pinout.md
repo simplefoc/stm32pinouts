@@ -6,8 +6,6 @@ title: L452RETxP Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L452RETxP
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_L452RE_P |

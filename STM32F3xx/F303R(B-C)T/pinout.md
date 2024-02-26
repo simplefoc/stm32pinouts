@@ -6,8 +6,6 @@ title: F303R(B-C)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F303R(B-C)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | OLIMEXINO_STM32F3 |

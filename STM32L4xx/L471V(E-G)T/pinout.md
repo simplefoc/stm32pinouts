@@ -6,8 +6,6 @@ title: L471V(E-G)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L471V(E-G)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

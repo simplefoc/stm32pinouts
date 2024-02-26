@@ -6,8 +6,6 @@ title: L452RC(I-T-Y)_L452RE(I-T-Y)x(P)_L462RE(I-T-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L452RC(I-T-Y)_L452RE(I-T-Y)x(P)_L462RE(I-T-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | LEAFONY_AP03 | NUCLEO_L452RE |

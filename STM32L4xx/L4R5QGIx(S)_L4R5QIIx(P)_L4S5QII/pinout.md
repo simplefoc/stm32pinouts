@@ -6,8 +6,6 @@ title: L4R5QGIx(S)_L4R5QIIx(P)_L4S5QII Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4R5QGIx(S)_L4R5QIIx(P)_L4S5QII
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: F207Z(C-E-F-G)T_F217Z(E-G)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F2xx](../index) / F207Z(C-E-F-G)T_F217Z(E-G)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_F207ZG |

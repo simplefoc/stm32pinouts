@@ -6,8 +6,6 @@ title: F101C(8-B)(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F101C(8-B)(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

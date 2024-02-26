@@ -6,8 +6,6 @@ title: F446V(C-E)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F446V(C-E)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | FYSETC_S6 | generic | RUMBA32 | VAKE_V1 |

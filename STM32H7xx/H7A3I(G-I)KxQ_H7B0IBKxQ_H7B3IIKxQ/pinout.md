@@ -6,8 +6,6 @@ title: H7A3I(G-I)KxQ_H7B0IBKxQ_H7B3IIKxQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H7A3I(G-I)KxQ_H7B0IBKxQ_H7B3IIKxQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: F103C8T_F103CB(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F103C8T_F103CB(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | AFROFLIGHT_F103CB | generic | MALYANM200_F103CB | MAPLEMINI_F103CB | PILL_F103Cx |

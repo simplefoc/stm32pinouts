@@ -6,8 +6,6 @@ title: G070CBT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G070CBT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

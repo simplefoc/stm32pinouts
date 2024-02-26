@@ -6,8 +6,6 @@ title: F078RB(H-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F078RB(H-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

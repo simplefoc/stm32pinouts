@@ -6,8 +6,6 @@ title: F405O(E-G)Y_F415OGY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F405O(E-G)Y_F415OGY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

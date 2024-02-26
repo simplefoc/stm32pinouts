@@ -6,8 +6,6 @@ title: L476J(E-G)Y_L485J(C-E)Y_L486JGY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L476J(E-G)Y_L485J(C-E)Y_L486JGY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

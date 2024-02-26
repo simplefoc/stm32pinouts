@@ -6,8 +6,6 @@ title: L031F(4-6)P_L041F6P Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L031F(4-6)P_L041F6P
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

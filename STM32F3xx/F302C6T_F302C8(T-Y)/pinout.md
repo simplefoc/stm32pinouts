@@ -6,8 +6,6 @@ title: F302C6T_F302C8(T-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F302C6T_F302C8(T-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

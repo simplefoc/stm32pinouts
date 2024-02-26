@@ -6,8 +6,6 @@ title: G431R(6-8-B)(I-T)_G441RB(I-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G4xx](../index) / G431R(6-8-B)(I-T)_G441RB(I-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_G431RB |

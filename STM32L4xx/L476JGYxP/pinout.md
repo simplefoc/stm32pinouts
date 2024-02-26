@@ -6,8 +6,6 @@ title: L476JGYxP Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L476JGYxP
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

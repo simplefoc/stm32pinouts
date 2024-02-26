@@ -6,8 +6,6 @@ title: L431VC(I-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L431VC(I-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

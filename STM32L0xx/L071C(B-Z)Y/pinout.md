@@ -6,8 +6,6 @@ title: L071C(B-Z)Y Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L071C(B-Z)Y
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

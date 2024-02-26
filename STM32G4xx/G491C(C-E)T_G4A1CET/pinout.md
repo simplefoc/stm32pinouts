@@ -6,8 +6,6 @@ title: G491C(C-E)T_G4A1CET Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G4xx](../index) / G491C(C-E)T_G4A1CET
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

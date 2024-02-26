@@ -6,8 +6,6 @@ title: F768AIY_F769A(G-I)Y_F778AIY_F779AIY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F768AIY_F769A(G-I)Y_F778AIY_F779AIY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

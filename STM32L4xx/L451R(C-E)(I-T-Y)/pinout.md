@@ -6,8 +6,6 @@ title: L451R(C-E)(I-T-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L451R(C-E)(I-T-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

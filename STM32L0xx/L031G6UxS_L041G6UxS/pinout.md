@@ -6,8 +6,6 @@ title: L031G6UxS_L041G6UxS Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L031G6UxS_L041G6UxS
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

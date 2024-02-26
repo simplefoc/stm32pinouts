@@ -6,8 +6,6 @@ title: F302R(D-E)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F302R(D-E)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

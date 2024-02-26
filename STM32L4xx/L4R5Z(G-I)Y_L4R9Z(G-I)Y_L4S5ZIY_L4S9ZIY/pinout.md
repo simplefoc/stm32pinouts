@@ -6,8 +6,6 @@ title: L4R5Z(G-I)Y_L4R9Z(G-I)Y_L4S5ZIY_L4S9ZIY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4R5Z(G-I)Y_L4R9Z(G-I)Y_L4S5ZIY_L4S9ZIY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | SWAN_R5 |

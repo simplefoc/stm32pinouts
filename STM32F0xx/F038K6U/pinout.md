@@ -6,8 +6,6 @@ title: F038K6U Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F038K6U
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

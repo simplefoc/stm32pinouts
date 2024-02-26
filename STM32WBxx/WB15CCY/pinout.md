@@ -6,8 +6,6 @@ title: WB15CCY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32WBxx](../index) / WB15CCY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

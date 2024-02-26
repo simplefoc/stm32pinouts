@@ -6,8 +6,6 @@ title: L151RET_L152RET_L162RET Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L1xx](../index) / L151RET_L152RET_L162RET
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_L152RE |

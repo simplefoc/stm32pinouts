@@ -6,8 +6,6 @@ title: F058R8(H-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F058R8(H-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: L4R9ZIYxP Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4R9ZIYxP
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

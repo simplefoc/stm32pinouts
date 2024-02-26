@@ -6,8 +6,6 @@ title: F207I(C-E-F-G)(H-T)_F217I(E-G)(H-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F2xx](../index) / F207I(C-E-F-G)(H-T)_F217I(E-G)(H-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

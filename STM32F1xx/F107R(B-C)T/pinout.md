@@ -6,8 +6,6 @@ title: F107R(B-C)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F107R(B-C)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

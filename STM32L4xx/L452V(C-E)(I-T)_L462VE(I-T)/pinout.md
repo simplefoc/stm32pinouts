@@ -6,8 +6,6 @@ title: L452V(C-E)(I-T)_L462VE(I-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L452V(C-E)(I-T)_L462VE(I-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: F101RBH Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F101RBH
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

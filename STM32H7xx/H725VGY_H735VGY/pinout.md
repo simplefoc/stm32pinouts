@@ -6,8 +6,6 @@ title: H725VGY_H735VGY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H725VGY_H735VGY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

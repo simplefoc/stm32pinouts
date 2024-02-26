@@ -6,8 +6,6 @@ title: WB35C(C-E)UxA_WB55C(C-E-G)U Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32WBxx](../index) / WB35C(C-E)UxA_WB55C(C-E-G)U
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | MKR_SHARKY | P_NUCLEO_WB55_USB_DONGLE |

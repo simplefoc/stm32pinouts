@@ -6,8 +6,6 @@ title: L4R5ZITxP Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4R5ZITxP
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_L4R5ZI_P |

@@ -6,8 +6,6 @@ title: F378RC(T-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F378RC(T-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

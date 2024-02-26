@@ -6,8 +6,6 @@ title: F407I(E-G)(H-T)_F417I(E-G)(H-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F407I(E-G)(H-T)_F417I(E-G)(H-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

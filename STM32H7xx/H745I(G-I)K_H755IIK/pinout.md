@@ -6,8 +6,6 @@ title: H745I(G-I)K_H755IIK Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H745I(G-I)K_H755IIK
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

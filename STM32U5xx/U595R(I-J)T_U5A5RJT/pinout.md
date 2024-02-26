@@ -6,8 +6,6 @@ title: U595R(I-J)T_U5A5RJT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32U5xx](../index) / U595R(I-J)T_U5A5RJT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: F318C8(T-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F318C8(T-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

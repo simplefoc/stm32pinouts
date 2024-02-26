@@ -6,8 +6,6 @@ title: F746B(E-G)T_F746N(E-G)H_F750N8H_F756BGT_F756NGH Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F746B(E-G)T_F746N(E-G)H_F750N8H_F756BGT_F756NGH
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | DISCO_F746NG | generic |

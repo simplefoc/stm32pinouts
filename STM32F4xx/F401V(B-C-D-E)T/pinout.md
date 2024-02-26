@@ -6,8 +6,6 @@ title: F401V(B-C-D-E)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F401V(B-C-D-E)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | ST3DP001_EVAL |

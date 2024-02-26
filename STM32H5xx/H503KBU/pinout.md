@@ -6,8 +6,6 @@ title: H503KBU Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H5xx](../index) / H503KBU
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: H725R(E-G)V_H735RGV Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H725R(E-G)V_H735RGV
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

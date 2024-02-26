@@ -6,8 +6,6 @@ title: F051C6(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F051C6(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

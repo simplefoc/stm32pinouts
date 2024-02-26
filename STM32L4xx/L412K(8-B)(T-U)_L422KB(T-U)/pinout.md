@@ -6,8 +6,6 @@ title: L412K(8-B)(T-U)_L422KB(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L412K(8-B)(T-U)_L422KB(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_L412KB |

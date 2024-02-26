@@ -6,8 +6,6 @@ title: F103R(8-B)H Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F103R(8-B)H
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

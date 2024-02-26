@@ -6,8 +6,6 @@ title: L051T(6-8)Y Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L051T(6-8)Y
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

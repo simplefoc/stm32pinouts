@@ -6,8 +6,6 @@ title: H503EBY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H5xx](../index) / H503EBY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

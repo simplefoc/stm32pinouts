@@ -6,8 +6,6 @@ title: L496VGY_L4A6VGY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L496VGY_L4A6VGY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: C031C(4-6)(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32C0xx](../index) / C031C(4-6)(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_C031C6 | STM32C0316_DK |

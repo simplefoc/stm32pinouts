@@ -6,8 +6,6 @@ title: G0B1M(B-C-E)T_G0C1M(C-E)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G0B1M(B-C-E)T_G0C1M(C-E)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

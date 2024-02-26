@@ -6,8 +6,6 @@ title: F407V(E-G)T_F417V(E-G)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F407V(E-G)T_F417V(E-G)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | ARMED_V1 | BLACK_F407VX | BLUE_F407VE_MINI | DISCO_F407VG | DIYMORE_F407VGT | FK407M1 | generic | PRNTR_Vx |

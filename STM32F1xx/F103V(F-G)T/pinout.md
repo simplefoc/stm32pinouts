@@ -6,8 +6,6 @@ title: F103V(F-G)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F103V(F-G)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: F051R4T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F051R4T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

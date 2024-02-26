@@ -6,8 +6,6 @@ title: L031E(4-6)Y_L041E6Y Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L031E(4-6)Y_L041E6Y
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

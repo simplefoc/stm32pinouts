@@ -6,8 +6,6 @@ title: F427V(G-I)T_F429V(E-G-I)T_F437V(G-I)T_F439V(G-I)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F427V(G-I)T_F429V(E-G-I)T_F437V(G-I)T_F439V(G-I)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: F446M(C-E)Y Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F446M(C-E)Y
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

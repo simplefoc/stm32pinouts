@@ -6,8 +6,6 @@ title: G071EBY_G081EBY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G071EBY_G081EBY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

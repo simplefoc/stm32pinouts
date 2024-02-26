@@ -6,8 +6,6 @@ title: L432K(B-C)U_L442KCU Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L432K(B-C)U_L442KCU
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_L432KC |

@@ -6,8 +6,6 @@ title: F103V8(H-T)_F103VB(H-I-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F103V8(H-T)_F103VB(H-I-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

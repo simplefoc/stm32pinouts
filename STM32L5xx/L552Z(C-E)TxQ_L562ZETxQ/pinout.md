@@ -6,8 +6,6 @@ title: L552Z(C-E)TxQ_L562ZETxQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L5xx](../index) / L552Z(C-E)TxQ_L562ZETxQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_L552ZE_Q |

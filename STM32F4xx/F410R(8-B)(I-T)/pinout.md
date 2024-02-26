@@ -6,8 +6,6 @@ title: F410R(8-B)(I-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F410R(8-B)(I-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

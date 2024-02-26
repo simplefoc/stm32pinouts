@@ -6,8 +6,6 @@ title: H563V(G-I)T_H573VIT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H5xx](../index) / H563V(G-I)T_H573VIT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

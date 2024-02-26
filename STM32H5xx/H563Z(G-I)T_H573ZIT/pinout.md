@@ -6,8 +6,6 @@ title: H563Z(G-I)T_H573ZIT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H5xx](../index) / H563Z(G-I)T_H573ZIT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_H563ZI |

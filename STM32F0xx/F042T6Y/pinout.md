@@ -6,8 +6,6 @@ title: F042T6Y Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F042T6Y
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: H562I(G-I)(K-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H5xx](../index) / H562I(G-I)(K-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

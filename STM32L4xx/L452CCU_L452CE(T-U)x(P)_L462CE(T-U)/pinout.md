@@ -6,8 +6,6 @@ title: L452CCU_L452CE(T-U)x(P)_L462CE(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L452CCU_L452CE(T-U)x(P)_L462CE(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

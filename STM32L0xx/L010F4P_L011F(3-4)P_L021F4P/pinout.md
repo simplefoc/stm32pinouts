@@ -6,8 +6,6 @@ title: L010F4P_L011F(3-4)P_L021F4P Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L010F4P_L011F(3-4)P_L021F4P
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

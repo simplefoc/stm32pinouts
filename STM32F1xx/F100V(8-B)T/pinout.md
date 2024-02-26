@@ -6,8 +6,6 @@ title: F100V(8-B)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F100V(8-B)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

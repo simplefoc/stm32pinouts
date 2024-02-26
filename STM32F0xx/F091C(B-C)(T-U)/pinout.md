@@ -6,8 +6,6 @@ title: F091C(B-C)(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F091C(B-C)(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

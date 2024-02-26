@@ -6,8 +6,6 @@ title: F401R(B-C-D-E)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F401R(B-C-D-E)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | CoreBoard_F401RC | generic | NUCLEO_F401RE |

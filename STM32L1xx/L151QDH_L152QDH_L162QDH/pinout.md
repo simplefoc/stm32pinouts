@@ -6,8 +6,6 @@ title: L151QDH_L152QDH_L162QDH Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L1xx](../index) / L151QDH_L152QDH_L162QDH
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

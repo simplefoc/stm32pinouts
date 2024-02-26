@@ -6,8 +6,6 @@ title: F722I(C-E)(K-T)_F732IE(K-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F722I(C-E)(K-T)_F732IE(K-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

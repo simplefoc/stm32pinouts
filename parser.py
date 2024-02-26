@@ -6,24 +6,6 @@ def sanitize_filename(name):
     # Replace any invalid characters with underscores
     return re.sub(r'[^\w\-_.() ]', '_', name)
 
-# def extract_pins_from_variant(variant_file):
-#     # Read the content of the variant file
-#     with open(variant_file, "r") as file:
-#         variant_content = file.read()
-#         # Regular expression pattern to extract pin information
-#         pin_pattern = r"\s*(\w+),?\s+//\s*(.+)*\n"        
-#         # Find all matches of the pattern in the variant content
-#         matches = re.findall(pin_pattern, variant_content)
-#         if not matches or not matches[0][0].startswith("P"):
-#             # Regular expression pattern to extract pin information
-#             pin_pattern = r"\s+(\w+),?\s*\n"     
-#             # Find all matches of the pattern in the variant content
-#             matches_tmp = re.findall(pin_pattern, variant_content)   
-#             matches = []
-#             for m in matches_tmp:
-#                 if m[0].startswith("P"):
-#                     matches.append((m,m))            
-#         return matches
 def extract_pins_from_variant(variant_file):
     # Read the content of the variant file
     with open(variant_file, "r") as file:
@@ -146,10 +128,6 @@ for family_folder in os.listdir(families_path):
             f.write('has_children: true\n')
             f.write('---\n\n')
             
-            # Breadcrumbs
-            f.write("[Home](../index) / ")
-            f.write(f"{family_folder}\n\n")
-    
             f.write(f"# {family_folder} Family\n\n")
             f.write("## Subfamilies\n\n")
             
@@ -190,13 +168,7 @@ for family_folder in os.listdir(families_path):
                     f.write(f'title: {subfamily_folder} Pinout\n')
                     f.write('has_children: false\n')
                     f.write('---\n\n')
-                    
-                    # Breadcrumbs
-                    f.write("[Home](../../index) / ")
-                    f.write(f"[{family_folder}](../index)")
-                    f.write(f" / {subfamily_folder}\n\n")
-                    
-                    
+                                        
                     f.write("## PWM Timer Pins\n\n")
 
                     table_headers = ["Pin", "PWM Timer", "Channel"]
@@ -229,7 +201,7 @@ for family_folder in os.listdir(families_path):
                     f.write("[Back to Main Page](../../index)")
                     
                     # Append subfamily markdown file to family section
-                    main_page_content.append(f"- [{subfamily_folder}]({family_output_folder}/{sanitize_filename(subfamily_folder)}/pinout.md)")
+                    main_page_content.append(f"- [{subfamily_folder}]({family_output_folder}/{sanitize_filename(subfamily_folder)}/pinout)")
 
 # Write main page content
 with open('index.md', 'w') as main_page_file:
@@ -247,17 +219,16 @@ with open('index.md', 'w') as main_page_file:
     for family_folder in os.listdir(families_path):
         family_path = os.path.join(families_path, family_folder)
         if os.path.isdir(family_path):
-            # main_page_file.write(f"<a href='{sanitize_filename(family_folder)}/index.md'>{family_folder}</a>\n")
             
             main_page_file.write("<details>\n")
-            main_page_file.write(f"<summary><a href='{sanitize_filename(family_folder)}/index.md'>{family_folder}</a></summary>\n")
+            main_page_file.write(f"<summary><a href='{sanitize_filename(family_folder)}/index'>{family_folder}</a></summary>\n")
             main_page_file.write("<ul>\n")
 
             
             _, _, subfamilies, _ = process_family(family_path, family_folder)
             
             for subfamily in subfamilies:
-                main_page_file.write(f"<li><a href='{subfamily}/pinout'>{os.path.basename(subfamily)}</a></li>\n")
+                main_page_file.write(f"<li><a href='{subfamily}/pinout'>{os.path.basename(subfamily)}</a>\n")
             
             main_page_file.write("</ul>\n")
             main_page_file.write("</details>\n")

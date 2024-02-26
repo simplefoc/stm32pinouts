@@ -6,8 +6,6 @@ title: F412Z(E-G)(J-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F412Z(E-G)(J-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_F412ZG |

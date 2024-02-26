@@ -6,8 +6,6 @@ title: F101V(C-D-E)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F101V(C-D-E)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: F098RC(H-T-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F098RC(H-T-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

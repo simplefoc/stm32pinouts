@@ -6,8 +6,6 @@ title: F765V(G-I)(H-T)_F767V(G-I)(H-T)_F777VI(H-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F765V(G-I)(H-T)_F767V(G-I)(H-T)_F777VI(H-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | REMRAM_V1 |

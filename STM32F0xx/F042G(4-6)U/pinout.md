@@ -6,8 +6,6 @@ title: F042G(4-6)U Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F042G(4-6)U
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

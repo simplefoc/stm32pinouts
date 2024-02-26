@@ -6,8 +6,6 @@ title: G471R(C-E)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G4xx](../index) / G471R(C-E)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

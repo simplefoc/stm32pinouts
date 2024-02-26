@@ -6,8 +6,6 @@ title: G031F(4-6-8)P_G031Y8Y_G041F(6-8)P_G041Y8Y Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G031F(4-6-8)P_G031Y8Y_G041F(6-8)P_G041Y8Y
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

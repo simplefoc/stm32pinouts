@@ -6,8 +6,6 @@ title: U575C(G-I)(T-U)_U585CI(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32U5xx](../index) / U575C(G-I)(T-U)_U585CI(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | DEVKIT_IOT_CONTINUUM | generic |

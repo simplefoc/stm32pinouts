@@ -6,8 +6,6 @@ title: L010C6T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L010C6T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

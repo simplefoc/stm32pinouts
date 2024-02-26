@@ -6,8 +6,6 @@ title: L475R(C-E-G)T_L476R(C-E-G)T_L486RGT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L475R(C-E-G)T_L476R(C-E-G)T_L486RGT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_L476RG |

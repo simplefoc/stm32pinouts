@@ -6,8 +6,6 @@ title: F723V(C-E)(T-Y)_F733VE(T-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F723V(C-E)(T-Y)_F733VE(T-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

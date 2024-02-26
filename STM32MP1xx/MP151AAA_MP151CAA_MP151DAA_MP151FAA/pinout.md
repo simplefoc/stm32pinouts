@@ -6,8 +6,6 @@ title: MP151AAA_MP151CAA_MP151DAA_MP151FAA Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32MP1xx](../index) / MP151AAA_MP151CAA_MP151DAA_MP151FAA
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

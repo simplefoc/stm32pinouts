@@ -6,8 +6,6 @@ title: L151RC(T-Y)x(A)_L151UCY_L152RCTx(A)_L152UCY_L162RCTx(A) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L1xx](../index) / L151RC(T-Y)x(A)_L151UCY_L152RCTx(A)_L152UCY_L162RCTx(A)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

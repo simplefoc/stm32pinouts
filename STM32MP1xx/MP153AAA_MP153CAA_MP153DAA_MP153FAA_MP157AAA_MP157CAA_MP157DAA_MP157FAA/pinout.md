@@ -6,8 +6,6 @@ title: MP153AAA_MP153CAA_MP153DAA_MP153FAA_MP157AAA_MP157CAA_MP157DAA_MP157FAA P
 has_children: false
 ---
 
-[Home](../../index) / [STM32MP1xx](../index) / MP153AAA_MP153CAA_MP153DAA_MP153FAA_MP157AAA_MP157CAA_MP157DAA_MP157FAA
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

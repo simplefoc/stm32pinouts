@@ -6,8 +6,6 @@ title: F070F6P Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F070F6P
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

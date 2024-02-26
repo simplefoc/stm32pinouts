@@ -6,8 +6,6 @@ title: L071K(8-B-Z)U_L081KZU Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L071K(8-B-Z)U_L081KZU
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

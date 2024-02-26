@@ -6,8 +6,6 @@ title: H742V(G-I)(H-T)_H743V(G-I)(H-T)_H750VBT_H753VI(H-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H742V(G-I)(H-T)_H743V(G-I)(H-T)_H750VBT_H753VI(H-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | DevEBoxH7xx | generic | WeActMiniH7xx |

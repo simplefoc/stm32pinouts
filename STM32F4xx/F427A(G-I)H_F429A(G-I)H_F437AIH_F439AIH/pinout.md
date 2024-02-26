@@ -6,8 +6,6 @@ title: F427A(G-I)H_F429A(G-I)H_F437AIH_F439AIH Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F427A(G-I)H_F429A(G-I)H_F437AIH_F439AIH
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

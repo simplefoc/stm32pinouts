@@ -6,8 +6,6 @@ title: F411C(C-E)(U-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F411C(C-E)(U-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | BLACKPILL_F411CE | generic | THUNDERPACK_F411 |

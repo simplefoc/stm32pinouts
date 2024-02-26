@@ -6,8 +6,6 @@ title: F103Z(C-D-E)(H-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F103Z(C-D-E)(H-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | VCCGND_F103ZET6_XXX |

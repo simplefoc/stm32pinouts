@@ -6,8 +6,6 @@ title: L4R9A(G-I)I_L4S9AII Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4R9A(G-I)I_L4S9AII
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

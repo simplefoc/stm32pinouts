@@ -6,8 +6,6 @@ title: F769I(G-I)T_F779IIT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F769I(G-I)T_F779IIT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

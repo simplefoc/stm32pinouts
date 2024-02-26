@@ -6,8 +6,6 @@ title: F103C4T_F103C6(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F1xx](../index) / F103C4T_F103C6(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | BLUEPILL_F103C6 | generic |

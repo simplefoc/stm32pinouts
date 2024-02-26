@@ -6,8 +6,6 @@ title: F469Z(E-G-I)T_F479Z(G-I)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F469Z(E-G-I)T_F479Z(G-I)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

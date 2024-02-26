@@ -6,8 +6,6 @@ title: F031C(4-6)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F031C(4-6)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

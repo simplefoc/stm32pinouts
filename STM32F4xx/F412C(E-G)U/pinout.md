@@ -6,8 +6,6 @@ title: F412C(E-G)U Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F412C(E-G)U
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

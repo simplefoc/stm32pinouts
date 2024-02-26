@@ -6,8 +6,6 @@ title: L4R5AGI_L4R5AIIx(P)_L4R7AII_L4S5AII_L4S7AII Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4R5AGI_L4R5AIIx(P)_L4R7AII_L4S5AII_L4S7AII
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

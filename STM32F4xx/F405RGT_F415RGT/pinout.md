@@ -6,8 +6,6 @@ title: F405RGT_F415RGT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F405RGT_F415RGT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | FEATHER_F405 | generic | MICROMOD_F405 |

@@ -6,8 +6,6 @@ title: G491M(C-E)(S-T)_G4A1ME(S-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G4xx](../index) / G491M(C-E)(S-T)_G4A1ME(S-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

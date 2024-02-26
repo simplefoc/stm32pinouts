@@ -6,8 +6,6 @@ title: L052T6Y_L052T8(F-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L052T6Y_L052T8(F-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: L4P5Z(G-E)T_L4Q5ZGT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4P5Z(G-E)T_L4Q5ZGT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

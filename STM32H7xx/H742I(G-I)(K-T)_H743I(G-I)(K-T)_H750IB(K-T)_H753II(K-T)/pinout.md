@@ -6,8 +6,6 @@ title: H742I(G-I)(K-T)_H743I(G-I)(K-T)_H750IB(K-T)_H753II(K-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H742I(G-I)(K-T)_H743I(G-I)(K-T)_H750IB(K-T)_H753II(K-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | DAISY_PATCH_SM | DAISY_PETAL_SM | DAISY_SEED | generic |

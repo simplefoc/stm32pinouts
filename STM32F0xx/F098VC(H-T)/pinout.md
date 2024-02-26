@@ -6,8 +6,6 @@ title: F098VC(H-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F098VC(H-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

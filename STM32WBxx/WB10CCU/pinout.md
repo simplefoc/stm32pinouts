@@ -6,8 +6,6 @@ title: WB10CCU Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32WBxx](../index) / WB10CCU
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

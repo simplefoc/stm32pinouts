@@ -6,8 +6,6 @@ title: G473R(B-C-E)T_G474R(B-C-E)T_G483RET_G484RET Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G4xx](../index) / G473R(B-C-E)T_G474R(B-C-E)T_G483RET_G484RET
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_G474RE |

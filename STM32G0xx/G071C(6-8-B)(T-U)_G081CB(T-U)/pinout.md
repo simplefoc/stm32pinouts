@@ -6,8 +6,6 @@ title: G071C(6-8-B)(T-U)_G081CB(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G071C(6-8-B)(T-U)_G081CB(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | AGAFIA_SG0 | generic |

@@ -6,8 +6,6 @@ title: G491RC(I-T)_G491RE(I-T-Y)_G4A1RE(I-T-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G4xx](../index) / G491RC(I-T)_G491RE(I-T-Y)_G4A1RE(I-T-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

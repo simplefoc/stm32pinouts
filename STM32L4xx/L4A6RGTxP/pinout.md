@@ -6,8 +6,6 @@ title: L4A6RGTxP Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4A6RGTxP
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

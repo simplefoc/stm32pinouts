@@ -6,8 +6,6 @@ title: H723Z(E-G)T_H730ZBT_H733ZGT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H723Z(E-G)T_H730ZBT_H733ZGT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_H723ZG |

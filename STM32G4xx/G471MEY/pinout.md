@@ -6,8 +6,6 @@ title: G471MEY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G4xx](../index) / G471MEY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

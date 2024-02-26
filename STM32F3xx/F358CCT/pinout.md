@@ -6,8 +6,6 @@ title: F358CCT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F358CCT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

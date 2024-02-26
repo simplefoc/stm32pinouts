@@ -6,8 +6,6 @@ title: F072R8T_F072RB(H-I-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F072R8T_F072RB(H-I-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | DISCO_F072RB | generic | NUCLEO_F072RB | PYBSTICK26_DUINO |

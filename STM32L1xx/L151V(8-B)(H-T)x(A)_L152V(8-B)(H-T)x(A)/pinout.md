@@ -6,8 +6,6 @@ title: L151V(8-B)(H-T)x(A)_L152V(8-B)(H-T)x(A) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L1xx](../index) / L151V(8-B)(H-T)x(A)_L152V(8-B)(H-T)x(A)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

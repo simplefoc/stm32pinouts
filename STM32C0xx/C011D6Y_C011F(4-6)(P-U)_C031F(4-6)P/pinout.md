@@ -6,8 +6,6 @@ title: C011D6Y_C011F(4-6)(P-U)_C031F(4-6)P Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32C0xx](../index) / C011D6Y_C011F(4-6)(P-U)_C031F(4-6)P
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | STM32C0116_DK |

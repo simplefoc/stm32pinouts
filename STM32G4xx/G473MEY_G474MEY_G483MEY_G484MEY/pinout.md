@@ -6,8 +6,6 @@ title: G473MEY_G474MEY_G483MEY_G484MEY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G4xx](../index) / G473MEY_G474MEY_G483MEY_G484MEY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: F205Z(C-E-F-G)T_F215Z(E-G)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F2xx](../index) / F205Z(C-E-F-G)T_F215Z(E-G)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

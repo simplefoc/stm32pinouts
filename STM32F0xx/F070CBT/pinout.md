@@ -6,8 +6,6 @@ title: F070CBT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F070CBT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | MALYANMx00_F070CB |

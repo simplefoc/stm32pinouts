@@ -6,8 +6,6 @@ title: G0B1NEY_G0C1NEY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G0B1NEY_G0C1NEY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

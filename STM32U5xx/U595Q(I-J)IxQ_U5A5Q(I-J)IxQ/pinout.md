@@ -6,8 +6,6 @@ title: U595Q(I-J)IxQ_U5A5Q(I-J)IxQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32U5xx](../index) / U595Q(I-J)IxQ_U5A5Q(I-J)IxQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

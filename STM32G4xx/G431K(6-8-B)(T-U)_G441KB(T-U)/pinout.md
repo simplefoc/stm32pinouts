@@ -6,8 +6,6 @@ title: G431K(6-8-B)(T-U)_G441KB(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G4xx](../index) / G431K(6-8-B)(T-U)_G441KB(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_G431KB |

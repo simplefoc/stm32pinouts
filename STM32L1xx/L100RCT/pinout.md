@@ -6,8 +6,6 @@ title: L100RCT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L1xx](../index) / L100RCT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: H563R(G-I)V_H573RIV Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H5xx](../index) / H563R(G-I)V_H573RIV
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

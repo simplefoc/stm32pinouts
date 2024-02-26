@@ -6,8 +6,6 @@ title: F446Z(C-E)(H-J-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F446Z(C-E)(H-J-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_F446ZE |

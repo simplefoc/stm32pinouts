@@ -6,8 +6,6 @@ title: WB55R(C-E-G)V Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32WBxx](../index) / WB55R(C-E-G)V
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | P_NUCLEO_WB55RG |

@@ -6,8 +6,6 @@ title: F303C(B-C)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F303C(B-C)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | BLACKPILL_F303CC | generic | SPARKY_F303CC |

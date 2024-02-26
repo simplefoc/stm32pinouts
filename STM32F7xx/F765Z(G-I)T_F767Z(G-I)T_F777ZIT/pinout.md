@@ -6,8 +6,6 @@ title: F765Z(G-I)T_F767Z(G-I)T_F777ZIT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F765Z(G-I)T_F767Z(G-I)T_F777ZIT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_F767ZI |

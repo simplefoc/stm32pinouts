@@ -6,8 +6,6 @@ title: G030C(6-8)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G030C(6-8)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

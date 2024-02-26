@@ -6,8 +6,6 @@ title: WB55V(C-E-G)(Q-Y)_WB55VYY Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32WBxx](../index) / WB55V(C-E-G)(Q-Y)_WB55VYY
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

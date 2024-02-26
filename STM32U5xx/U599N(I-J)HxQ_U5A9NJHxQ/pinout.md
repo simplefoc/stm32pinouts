@@ -6,8 +6,6 @@ title: U599N(I-J)HxQ_U5A9NJHxQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32U5xx](../index) / U599N(I-J)HxQ_U5A9NJHxQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

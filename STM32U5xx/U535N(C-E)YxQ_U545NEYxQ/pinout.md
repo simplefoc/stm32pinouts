@@ -6,8 +6,6 @@ title: U535N(C-E)YxQ_U545NEYxQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32U5xx](../index) / U535N(C-E)YxQ_U545NEYxQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

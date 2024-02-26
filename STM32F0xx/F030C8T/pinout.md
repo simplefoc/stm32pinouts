@@ -6,8 +6,6 @@ title: F030C8T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F030C8T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | EEXTR_F030_V1 | generic |

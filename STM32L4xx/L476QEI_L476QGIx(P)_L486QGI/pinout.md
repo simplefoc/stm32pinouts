@@ -6,8 +6,6 @@ title: L476QEI_L476QGIx(P)_L486QGI Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L476QEI_L476QGIx(P)_L486QGI
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

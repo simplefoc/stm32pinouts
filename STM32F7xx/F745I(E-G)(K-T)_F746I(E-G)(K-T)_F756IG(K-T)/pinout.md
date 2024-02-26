@@ -6,8 +6,6 @@ title: F745I(E-G)(K-T)_F746I(E-G)(K-T)_F756IG(K-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F745I(E-G)(K-T)_F746I(E-G)(K-T)_F756IG(K-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

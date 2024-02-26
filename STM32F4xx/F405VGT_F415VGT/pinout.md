@@ -6,8 +6,6 @@ title: F405VGT_F415VGT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F4xx](../index) / F405VGT_F415VGT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

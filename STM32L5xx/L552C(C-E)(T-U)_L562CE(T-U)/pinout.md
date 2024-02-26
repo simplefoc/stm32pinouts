@@ -6,8 +6,6 @@ title: L552C(C-E)(T-U)_L562CE(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L5xx](../index) / L552C(C-E)(T-U)_L562CE(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

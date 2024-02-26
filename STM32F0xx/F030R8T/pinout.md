@@ -6,8 +6,6 @@ title: F030R8T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F030R8T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | DISCO_F030R8 | generic | NUCLEO_F030R8 |

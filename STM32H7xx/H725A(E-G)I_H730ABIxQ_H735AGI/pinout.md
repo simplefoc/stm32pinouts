@@ -6,8 +6,6 @@ title: H725A(E-G)I_H730ABIxQ_H735AGI Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H725A(E-G)I_H730ABIxQ_H735AGI
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

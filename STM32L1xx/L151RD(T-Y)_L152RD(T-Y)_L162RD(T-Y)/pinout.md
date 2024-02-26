@@ -6,8 +6,6 @@ title: L151RD(T-Y)_L152RD(T-Y)_L162RD(T-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L1xx](../index) / L151RD(T-Y)_L152RD(T-Y)_L162RD(T-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

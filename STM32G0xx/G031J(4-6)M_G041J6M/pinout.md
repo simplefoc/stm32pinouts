@@ -6,8 +6,6 @@ title: G031J(4-6)M_G041J6M Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G031J(4-6)M_G041J6M
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | DISCO_G0316 | generic |

@@ -6,8 +6,6 @@ title: U535R(B-C-E)I_U545REI Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32U5xx](../index) / U535R(B-C-E)I_U545REI
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

@@ -6,8 +6,6 @@ title: U535V(C-E)T_U545VET Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32U5xx](../index) / U535V(C-E)T_U545VET
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

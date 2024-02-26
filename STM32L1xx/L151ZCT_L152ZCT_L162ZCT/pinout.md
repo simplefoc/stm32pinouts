@@ -6,8 +6,6 @@ title: L151ZCT_L152ZCT_L162ZCT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L1xx](../index) / L151ZCT_L152ZCT_L162ZCT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

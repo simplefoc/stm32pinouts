@@ -6,8 +6,6 @@ title: F071C8(T-U)_F071CB(T-U-Y) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F071C8(T-U)_F071CB(T-U-Y)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

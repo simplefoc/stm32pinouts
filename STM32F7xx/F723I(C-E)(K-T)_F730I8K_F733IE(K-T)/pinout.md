@@ -6,8 +6,6 @@ title: F723I(C-E)(K-T)_F730I8K_F733IE(K-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F723I(C-E)(K-T)_F730I8K_F733IE(K-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

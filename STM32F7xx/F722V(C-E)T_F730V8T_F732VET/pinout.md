@@ -6,8 +6,6 @@ title: F722V(C-E)T_F730V8T_F732VET Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F722V(C-E)T_F730V8T_F732VET
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

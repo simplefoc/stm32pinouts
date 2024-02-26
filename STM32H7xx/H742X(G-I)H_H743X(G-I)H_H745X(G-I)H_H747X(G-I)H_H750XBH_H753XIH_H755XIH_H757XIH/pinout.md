@@ -6,8 +6,6 @@ title: H742X(G-I)H_H743X(G-I)H_H745X(G-I)H_H747X(G-I)H_H750XBH_H753XIH_H755XIH_H
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H742X(G-I)H_H743X(G-I)H_H745X(G-I)H_H747X(G-I)H_H750XBH_H753XIH_H755XIH_H757XIH
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | STM32H747I_DISCO |

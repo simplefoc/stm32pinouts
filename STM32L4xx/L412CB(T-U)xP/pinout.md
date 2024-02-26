@@ -6,8 +6,6 @@ title: L412CB(T-U)xP Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L412CB(T-U)xP
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

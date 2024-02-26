@@ -6,8 +6,6 @@ title: U575A(G-I)IxQ_U585AIIxQ Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32U5xx](../index) / U575A(G-I)IxQ_U585AIIxQ
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | B_U585I_IOT02A | generic | STEVAL_MKBOXPRO |

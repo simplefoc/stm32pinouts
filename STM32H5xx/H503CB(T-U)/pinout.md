@@ -6,8 +6,6 @@ title: H503CB(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H5xx](../index) / H503CB(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

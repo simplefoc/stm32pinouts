@@ -6,8 +6,6 @@ title: H503RBT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H5xx](../index) / H503RBT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_H503RB |

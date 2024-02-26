@@ -6,8 +6,6 @@ title: L100C6Ux(A)_L151C(6-8-B)(T-U)x(A)_L152C(6-8-B)(T-U)x(A) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L1xx](../index) / L100C6Ux(A)_L151C(6-8-B)(T-U)x(A)_L152C(6-8-B)(T-U)x(A)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | RAK811_TRACKER |

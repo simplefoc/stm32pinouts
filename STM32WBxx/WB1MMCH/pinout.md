@@ -6,8 +6,6 @@ title: WB1MMCH Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32WBxx](../index) / WB1MMCH
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

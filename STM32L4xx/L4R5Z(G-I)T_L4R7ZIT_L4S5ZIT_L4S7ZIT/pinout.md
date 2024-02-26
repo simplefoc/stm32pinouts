@@ -6,8 +6,6 @@ title: L4R5Z(G-I)T_L4R7ZIT_L4S5ZIT_L4S7ZIT Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4R5Z(G-I)T_L4R7ZIT_L4S5ZIT_L4S7ZIT
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_L4R5ZI |

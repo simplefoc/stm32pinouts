@@ -6,8 +6,6 @@ title: F302K(6-8)U Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F302K(6-8)U
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

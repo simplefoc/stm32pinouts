@@ -6,8 +6,6 @@ title: G0B1C(B-C-E)(T-U)_G0C1C(C-E)(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32G0xx](../index) / G0B1C(B-C-E)(T-U)_G0C1C(C-E)(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | EBB42_V1_1 | generic |

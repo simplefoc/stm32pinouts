@@ -6,8 +6,6 @@ title: L4P5C(E-G)(T-U)_L4Q5CG(T-U) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L4xx](../index) / L4P5C(E-G)(T-U)_L4Q5CG(T-U)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

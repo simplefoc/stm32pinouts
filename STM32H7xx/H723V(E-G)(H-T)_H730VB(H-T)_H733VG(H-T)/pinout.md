@@ -6,8 +6,6 @@ title: H723V(E-G)(H-T)_H730VB(H-T)_H733VG(H-T) Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32H7xx](../index) / H723V(E-G)(H-T)_H730VB(H-T)_H733VG(H-T)
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

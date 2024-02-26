@@ -6,8 +6,6 @@ title: F030K6T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F0xx](../index) / F030K6T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

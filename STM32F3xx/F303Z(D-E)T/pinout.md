@@ -6,8 +6,6 @@ title: F303Z(D-E)T Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F3xx](../index) / F303Z(D-E)T
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

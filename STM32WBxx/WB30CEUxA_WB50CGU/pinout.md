@@ -6,8 +6,6 @@ title: WB30CEUxA_WB50CGU Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32WBxx](../index) / WB30CEUxA_WB50CGU
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

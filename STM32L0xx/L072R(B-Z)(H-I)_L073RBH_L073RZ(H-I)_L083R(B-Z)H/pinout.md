@@ -6,8 +6,6 @@ title: L072R(B-Z)(H-I)_L073RBH_L073RZ(H-I)_L083R(B-Z)H Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32L0xx](../index) / L072R(B-Z)(H-I)_L073RBH_L073RZ(H-I)_L083R(B-Z)H
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic |

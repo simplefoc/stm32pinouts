@@ -6,8 +6,6 @@ title: F722Z(C-E)T_F732ZET Pinout
 has_children: false
 ---
 
-[Home](../../index) / [STM32F7xx](../index) / F722Z(C-E)T_F732ZET
-
 ## PWM Timer Pins
 
 | Pin | PWM Timer | Channel | generic | NUCLEO_F722ZE |
