@@ -103,7 +103,7 @@ def process_family(family_path, family_name):
     return timer_info, adc_info, subfamilies, variant_names
 
 # Path to the directory containing family folders
-families_path = '../Arduino_Core_STM32/variants/'
+families_path = 'Arduino_Core_STM32/variants/'
 
 # Create a main page to list all family-specific main pages
 main_page_content = []
