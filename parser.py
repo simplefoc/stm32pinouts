@@ -149,7 +149,7 @@ def generate_collapsible_table(rows, headers):
 
 
 # Path to the directory containing family folders
-families_path = '../Arduino_Core_STM32/variants/'
+families_path = 'Arduino_Core_STM32/variants/'
 url_to_repo = 'https://github.com/stm32duino/Arduino_Core_STM32/blob/2.7.1/variants'
 
 # Create a main page to list all family-specific main pages
