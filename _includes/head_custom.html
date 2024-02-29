@@ -1,0 +1,15 @@
+
+<script>
+    window.onload = function() {
+        var collapsibleRows = document.querySelectorAll('.clickable_pin');
+        collapsibleRows.forEach(function(row) {
+            row.addEventListener('click', function() {
+                console.log('clicked',this.id);
+                this.classList.toggle('active');
+                Array.from(document.getElementsByClassName('toggle_' + this.id)).forEach(function(row) {
+                    row.classList.toggle('hide_alt');
+                })
+            });
+        });
+    };
+</script>

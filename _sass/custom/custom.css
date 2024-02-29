@@ -1,0 +1,6 @@
+.clickable_pin{
+  cursor: pointer;
+}
+.collapsible_pin.hide_alt{
+    display: none;
+}

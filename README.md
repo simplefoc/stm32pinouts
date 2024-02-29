@@ -16,3 +16,27 @@ This page is intended to be used for quick search of available PWM timers and AD
 
 This page is automatically generated using a Python script. The script is [parser.py](parser.py). Please feel free to contribute to the script if you find any issues or have any suggestions.
 
+## Generating the website locally
+
+
+Clone this repo to your computer
+```
+git clone https://github.com/simplefoc/stm32pinouts.git
+cd stm32pinouts
+```
+
+Clone the stm32duino repo
+```
+git clone https://github.com/stm32duino/Arduino_Core_STM32.git
+```
+
+Parse the stm32duino repo
+```shell
+python parser.py
+```
+> This command will create the website from scratch, it will take some time and generate a lot of folders and files
+
+run the website
+```
+jekyll serve
+```

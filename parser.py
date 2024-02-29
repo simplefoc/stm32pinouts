@@ -30,11 +30,18 @@ def generate_timer_pin_table(file_path, variant_files):
         matches = re.findall(pattern, header_content)
         # Initialize table rows
         table_rows = []
+        alternatives_rows = {}
         # Process each match and populate the table rows
         for match in matches:
             pin, timer, channel, inverted = match
+            if "ALT" in pin: 
+                pin, alt = pin.split("_ALT")
+                if pin not in alternatives_rows:
+                    alternatives_rows[pin] = []
+                alternatives_rows[pin].append([alt, timer, channel + ("N" if inverted == "1" else "")])
+                continue
             # if inverted add letter "N" to the channel
-            table_rows.append([pin, f"{timer}", channel + ("N" if inverted == "1" else "")])
+            table_rows.append([pin, timer, channel + ("N" if inverted == "1" else "")])
         
         # Process variant files
         for variant_file in variant_files:
@@ -47,7 +54,7 @@ def generate_timer_pin_table(file_path, variant_files):
                     row.append(variant_pins[pin])
                 else:
                     row.append("-")
-        return table_rows
+        return table_rows, alternatives_rows
 
 def generate_adc_pin_table(file_path, variant_files):
     # Read the content of the header file
@@ -59,11 +66,19 @@ def generate_adc_pin_table(file_path, variant_files):
         matches = re.findall(pattern, header_content)
         # Initialize table rows
         table_rows = []
+        alternatives_rows = {}
         # Process each match and populate the table rows
         for match in matches:
             pin, adc, _, channel, _ = match
             # if adc is not "ADCx" remove
-            if adc[:3] == "ADC":  table_rows.append([pin, adc, channel])
+            if adc[:3] == "ADC":  
+                if "ALT" in pin: 
+                    pin, alt = pin.split("_ALT")
+                    if pin not in alternatives_rows:
+                        alternatives_rows[pin] = []
+                    alternatives_rows[pin].append([alt, adc, channel])
+                    continue
+                table_rows.append([pin, adc, channel])
         
         # Process variant files
         for variant_file in variant_files:
@@ -77,7 +92,7 @@ def generate_adc_pin_table(file_path, variant_files):
                 else:
                     row.append("-")
 
-        return table_rows
+        return table_rows, alternatives_rows
 
 
 
@@ -102,15 +117,47 @@ def process_family(family_path, family_name):
             subfamilies.append(subfamily_path)
     return timer_info, adc_info, subfamilies, variant_names
 
+def generate_collapsible_table(rows, headers):
+    html_table = "<table>\n"
+    html_table += "<thead>\n<tr>\n"
+    for header in headers:
+        html_table += f"<th markdown='1'>{header}</th>\n"
+    html_table += "</tr>\n</thead>\n<tbody>\n"
+
+    for subfamily_pins, alternative_pins in rows:
+         for pin_index, pin in enumerate(subfamily_pins):
+            if alternative_pins.get(pin[0]) is not None:
+                no_alt = len(alternative_pins[pin[0]])
+                html_table += f"<tr id='pin_{pin_index}'  class='clickable_pin'>\n<td ><b>{pin[0]}</b> (no. alternatives: {no_alt})</td>\n<td>{pin[1]}</td>\n<td>{pin[2]}</td>\n"
+                for data in pin[3:]:
+                    html_table += f"<td>{data}</td>\n"
+                html_table += "</tr>\n"
+                for alt in alternative_pins[pin[0]]:
+                    html_table += f"<tr class='collapsible_pin toggle_pin_{pin_index} hide_alt'>\n<td>{pin[0]}_ALT{alt[0]}</td>\n"
+                    for data in alt[1:]:
+                        html_table += f"<td>{data}</td>\n"
+                    html_table += "</tr>\n"
+            else:
+                html_table += f"<tr>\n<td><b>{pin[0]}</b></td>\n<td>{pin[1]}</td>\n<td>{pin[2]}</td>\n"
+                for data in pin[3:]:
+                    html_table += f"<td>{data}</td>\n"
+                html_table += "</tr>\n"
+    
+    html_table += "</tbody>\n</table>"
+    
+    return html_table
+
+
 # Path to the directory containing family folders
-families_path = 'Arduino_Core_STM32/variants/'
+families_path = '../Arduino_Core_STM32/variants/'
 url_to_repo = 'https://github.com/stm32duino/Arduino_Core_STM32/blob/2.7.1/variants'
 
 # Create a main page to list all family-specific main pages
 main_page_content = []
 
+print("Processing families...")
 # Processing each family folder
-for family_folder in os.listdir(families_path):
+for family_folder in os.listdir(families_path)[:2]:
     family_path = os.path.join(families_path, family_folder)
     if os.path.isdir(family_path):
         # Create a folder for each family to store subfamily markdown files
@@ -147,7 +194,7 @@ for family_folder in os.listdir(families_path):
                 subfamily1 = os.path.basename(subfamily)
                 f.write(f"- [{subfamily1}]({subfamily1}/pinout) ")
                 # add variant names if available
-                if variant_names: f.write(f"({variant_names.replace('generic', '')})")
+                if variant_names: f.write(f"\| <small> example: {variant_names.replace('generic', '')} </small>")
                 f.write("\n")
                 # Create subfamily folder
                 os.makedirs(os.path.join(subfamily), exist_ok=True)
@@ -187,35 +234,63 @@ for family_folder in os.listdir(families_path):
 
                     f.write("## PWM Timer Pins\n\n")
 
+
                     table_headers = ["Pin", "PWM Timer", "Channel"]
                     table_headers += variant_names
                     
-                    # Write timer information
-                    for subfamily_timers in timer_info:
-                        # Markdown table formatting
-                        markdown_table = "| " + " | ".join(table_headers) + " |\n"
-                        markdown_table += "| " + " | ".join(["---"] * len(table_headers)) + " |\n"
-                        for row in subfamily_timers:
-                            markdown_table += "| " + " | ".join(row) + " |\n"
-                        f.write(markdown_table)
-                        f.write('\n\n')
-                    
+                    # Markdown table formatting
+                    html_table =  html_content = generate_collapsible_table(timer_info, table_headers)
+                    f.write(html_table)
+                    f.write('\n\n')
+
+                        
                     f.write("## ADC Pins\n\n")
                     table_headers = ["Pin", "ADC", "Channel"]
                     table_headers += variant_names
-                    # Write timer information
-                    for subfamily_timers in adc_info:
-                        # Markdown table formatting
-                        markdown_table = "| " + " | ".join(table_headers) + " |\n"
-                        markdown_table += "| " + " | ".join(["---"] * len(table_headers)) + " |\n"
-                        for row in subfamily_timers:
-                            markdown_table += "| " + " | ".join(row) + " |\n"
-                        f.write(markdown_table)
-                        f.write('\n\n')
+                    html_table =  html_content = generate_collapsible_table(adc_info, table_headers)
+                    f.write(html_table)
+                    f.write('\n\n')
+
+                    # # Write timer information
+                    # for subfamily_pins, alternative_pins in timer_info:
+                    #     # Markdown table formatting
+                    #     markdown_table = "| " + " | ".join(table_headers) + " |\n"
+                    #     markdown_table += "| " + " | ".join(["---"] * len(table_headers)) + " |\n"
+                    #     for pin in subfamily_pins:
+                    #         markdown_table += "| " + " | ".join(pin) + " |\n"
+                    #         # check if key (pin) exist 
+                    #         if alternative_pins.get(pin[0]):
+                    #             for alt in alternative_pins[pin[0]]:
+                    #                     markdown_table += "| " + pin[0]+"_ALT" +(" | ").join(alt) + " |\n"
+                    #     f.write(markdown_table)
+                    #     f.write('\n\n')
+                
+                    # f.write("## ADC Pins\n\n")
+                    # table_headers = ["Pin", "ADC", "Channel"]
+                    # table_headers += variant_names
+                    
+                    # # # Write timer information
+                    # for subfamily_pins, alternative_pins in adc_info:
+                    #     # Markdown table formatting
+                    #     html_table =  html_content = generate_collapsible_table(adc_info, table_headers)
+                    #     f.write(html_table)
+                    #     f.write('\n\n')
+
+                    # # Write timer information
+                    # for subfamily_timers in adc_info:
+                    #     # Markdown table formatting
+                    #     markdown_table = "| " + " | ".join(table_headers) + " |\n"
+                    #     markdown_table += "| " + " | ".join(["---"] * len(table_headers)) + " |\n"
+                    #     for row in subfamily_timers:
+                    #         markdown_table += "| " + " | ".join(row) + " |\n"
+                    #     f.write(markdown_table)
+                    #     f.write('\n\n')
                     
                     # Add link to the main page
                     f.write("[Back to Main Page](../../)")
                     
+                    f.write("")
+
                     # Append subfamily markdown file to family section
                     main_page_content.append(f"- [{subfamily_folder}]({family_output_folder}/{sanitize_filename(subfamily_folder)}/pinout)")
 
