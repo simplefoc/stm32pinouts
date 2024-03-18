@@ -10,6 +10,8 @@ favicon_ico: https://docs.simplefoc.com/logo.png
 aux_links:
   Github Repository: https://github.com/simplefoc/mcupinouts
 
+ga_tracking: "G-4G841WG9SD"
+
 # External navigation links
 nav_external_links:
   - title: "SimpleFOC Docs"
