@@ -7,8 +7,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-toc
 
-baseurl: "/"
-url: https://docs.simplefoc.com/stm32pinouts
+baseurl: "stm32pinouts"
+url: https://docs.simplefoc.com
 
 # chage the logo
 favicon_ico: https://docs.simplefoc.com/logo.png
