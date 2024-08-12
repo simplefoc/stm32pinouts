@@ -5,12 +5,14 @@ remote_theme: simplefoc/simplefoc-docs-theme
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-toc
 
-baseurl: "stm32pinouts"
+baseurl: "/stm32pinouts"
 url: https://docs.simplefoc.com
 
 # change the logo
-# favicon_ico: https://docs.simplefoc.com/logo.png
+favicon_ico: assets/images/favicon.ico
 
 ga_tracking: "G-4G841WG9SD"
 
