@@ -174,7 +174,7 @@ for family_folder in os.listdir(families_path):
             f.write('parent: STM32 Family Pinout\n')
             f.write(f'title: {family_folder} Family Pinout\n')
             f.write('has_children: true\n')
-            f.write('has_toc: false\n'))
+            f.write('has_toc: false\n')
             f.write('---\n\n')
             
             f.write(f"# {family_folder} Family\n\n")
