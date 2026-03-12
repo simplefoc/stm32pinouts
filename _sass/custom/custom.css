@@ -4,3 +4,35 @@
 .collapsible_pin.hide_alt{
     display: none;
 }
+
+.subfamily-table-wrap {
+  width: 100%;
+  max-height: 26rem;
+  overflow-y: auto;
+  overflow-x: auto;
+  border: 1px solid #d8d8d8;
+  border-radius: 6px;
+}
+
+.subfamily-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  min-width: 42rem;
+}
+
+.subfamily-table th,
+.subfamily-table td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid #e6e6e6;
+  text-align: left;
+  vertical-align: top;
+}
+
+.subfamily-table thead th {
+  position: sticky;
+  top: 0;
+  background: #fff;
+  z-index: 2;
+  box-shadow: 0 1px 0 #d8d8d8;
+}

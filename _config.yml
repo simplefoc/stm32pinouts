@@ -11,6 +11,10 @@ plugins:
 baseurl: "/stm32pinouts"
 url: https://docs.simplefoc.com
 
+exclude:
+  - Arduino_Core_STM32
+  - stm32_svd
+
 # change the logo
 favicon_ico: assets/images/favicon.ico
 
