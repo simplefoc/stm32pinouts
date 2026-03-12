@@ -845,7 +845,6 @@ for group_letter in group_letters:
                         aliases.extend(build_search_aliases(row_name))
                     aliases = dedupe_preserve_order(aliases)
                     aliases_md = ", ".join([f"`{alias}`" for alias in aliases])
-                    f.write(f"**Search aliases (Ctrl+F):** {aliases_md}\n\n")
 
                     if board_entries:
                         features = detect_subfamily_features(subfamily_path, board_entries)
