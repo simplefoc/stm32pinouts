@@ -555,6 +555,19 @@ def generate_interface_pin_table(file_path, variant_files, pinmap_definitions):
     return table_rows, alternatives_rows
 
 
+def count_unique_peripherals(pin_table_info, peripheral_index):
+    unique_peripherals = set()
+    for rows, alt_rows in pin_table_info:
+        for row in rows:
+            if len(row) > peripheral_index and row[peripheral_index]:
+                unique_peripherals.add(row[peripheral_index])
+        for alternatives in alt_rows.values():
+            for alternative in alternatives:
+                if len(alternative) > 1 and alternative[1]:
+                    unique_peripherals.add(alternative[1])
+    return len(unique_peripherals)
+
+
 
 def process_family(family_path, family_name):
     timer_info = []
@@ -690,6 +703,24 @@ def family_sort_key_within_group(family_name, group_letter):
     return (number, text_prefix, text_suffix, family_name)
 
 
+def collect_cortex_for_family(family_path, core_root):
+    """Walk all subfamily folders in a family and return deduplicated Cortex names."""
+    cortex_values = []
+    for subfamily_folder in os.listdir(family_path):
+        subfamily_path = os.path.join(family_path, subfamily_folder)
+        if not os.path.isdir(subfamily_path):
+            continue
+        board_entries = parse_boards_entry_file(subfamily_path)
+        for entry in board_entries:
+            svd_file = entry.get("svd_file", "")
+            if not svd_file:
+                continue
+            profile = parse_svd_cpu_profile(core_root, svd_file)
+            if profile["cortex"] != "-":
+                cortex_values.append(profile["cortex"])
+    return "<br>".join(dedupe_preserve_order(cortex_values)) if cortex_values else "-"
+
+
 families_by_group = {}
 for family in family_folders:
     group_letter = family_group_letter(family)
@@ -722,11 +753,13 @@ for group_order, group_letter in enumerate(group_letters, start=1):
         gf.write(f"# {group_title} Families\n\n")
         gf.write("## Families\n\n")
         gf.write("<table class='subfamily-table'>\n")
-        gf.write("<thead><tr><th>Family</th></tr></thead>\n")
+        gf.write("<thead><tr><th>Family</th><th>Cortex</th></tr></thead>\n")
         gf.write("<tbody>\n")
         for family_name in group_families:
             family_folder_name = sanitize_filename(family_name)
-            gf.write(f"<tr><td><a href='{family_folder_name}/'>{family_name}</a></td></tr>\n")
+            family_path = os.path.join(families_path, family_folder_name)
+            cortex_info = collect_cortex_for_family(family_path, core_root) if os.path.isdir(family_path) else "-"
+            gf.write(f"<tr><td><a href='{family_folder_name}/'>{family_name}</a></td><td>{cortex_info}</td></tr>\n")
         gf.write("</tbody>\n</table>\n")
 
 for group_letter in group_letters:
@@ -766,21 +799,33 @@ for group_letter in group_letters:
             f.write("Use browser search (`Ctrl+F`) by subfamily name in the table below.\n\n")
             
             timer_info, adc_info, uart_info, spi_info, i2c_info, can_info, subfamilies, _ = process_family(family_path, family_output_folder)
-            expanded_rows_count = 0
+            expanded_rows_count = 0 
 
             f.write("<table class='subfamily-table'>\n")
-            f.write("<thead><tr><th>Subfamily</th><th>Example Variants</th><th>Product Line</th><th>Flash</th><th>RAM</th><th>Cortex</th><th>FPU</th><th>CPU</th><th>CAN/FDCAN</th></tr></thead>\n")
+            header_cells = [
+                "Subfamily",
+                "Example Variants",
+                "No. Timers",
+                "No. ADCs",
+                "Flash",
+                "RAM"
+            ]
+            
+            header_cells.extend(["FPU", "CPU", "CAN/FDCAN"])
+            f.write("<thead><tr>" + "".join([f"<th>{cell}</th>" for cell in header_cells]) + "</tr></thead>\n")
             f.write("<tbody>\n")
             
             for subfamily in sorted(subfamilies, key=lambda p: format_display_name(os.path.basename(p))):
                 # get variants for this subfamily
                 subfamily_path = os.path.join(family_path, os.path.basename(subfamily))
                 # print(subfamily_path)
-                _, _, _, _, _, _, _, variant_names = process_family(subfamily_path, family_output_folder)
+                sub_timer_info, sub_adc_info, _, _, _, _, _, variant_names = process_family(subfamily_path, family_output_folder)
                 # remove generic from the variant names
                 variant_names = [name for name in variant_names if name != "generic"]
                 board_entries = parse_boards_entry_file(subfamily_path)
                 features = detect_subfamily_features(subfamily_path, board_entries)
+                timer_count = count_unique_peripherals(sub_timer_info, 1)
+                adc_count = count_unique_peripherals(sub_adc_info, 1)
                 # use only the subfamily name using os package
                 subfamily1 = os.path.basename(subfamily)
 
@@ -790,14 +835,22 @@ for group_letter in group_letters:
                     row_variants = filter_variants_for_row(row_name, variant_names)
                     row_board_entries = filter_board_entries_for_row(row_name, board_entries)
                     variants_md = ", ".join(row_variants) if row_variants else "-"
-                    row_product_lines = summarize_product_lines(row_board_entries)
                     row_flash = summarize_flash_sizes(row_board_entries)
                     row_ram = summarize_ram_sizes(row_board_entries)
                     cpu_entries = row_board_entries if row_board_entries else board_entries
                     row_cortex = summarize_cortex(cpu_entries, core_root)
                     row_fpu = summarize_fpu(cpu_entries, core_root)
                     row_cpu = summarize_cpu_topology(cpu_entries, core_root)
-                    f.write(f"<tr><td><a href='{subfamily1}/pinout'>{subfamily_display_name}</a></td><td>{variants_md}</td><td>{row_product_lines}</td><td>{row_flash}</td><td>{row_ram}</td><td>{row_cortex}</td><td>{row_fpu}</td><td>{row_cpu}</td><td>{features['can']}</td></tr>\n")
+                    row_cells = [
+                        f"<a href='{subfamily1}/pinout'>{subfamily_display_name}</a>",
+                        variants_md,
+                        str(timer_count),
+                        str(adc_count),
+                        row_flash,
+                        row_ram
+                    ]
+                    row_cells.extend([row_fpu, row_cpu, features['can']])
+                    f.write("<tr>" + "".join([f"<td>{cell}</td>" for cell in row_cells]) + "</tr>\n")
                     expanded_rows_count += 1
                 # Create subfamily folder
                 os.makedirs(os.path.join(subfamily), exist_ok=True)
@@ -836,6 +889,8 @@ for group_letter in group_letters:
                     f.write('has_toc: false\n')
                     f.write('has_children: false\n')
                     f.write('nav_exclude: false\n')
+                    # Exclude large pinout detail pages from global search index to keep search-data.json lightweight.
+                    f.write('search_exclude: true\n')
                     f.write('toc: true\n')
                     f.write('---\n\n')
 
